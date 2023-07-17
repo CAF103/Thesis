@@ -1,0 +1,18 @@
+:Product: 20210127events.txt
+:Created: 2021 Jan 30 0357 UT
+:Date: 2021 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6080       0432   ////      0432  LEA  C   RSP  025-061   III/2                 
+
+6090 +     0515   ////      0539  LEA  3   DSF  S31E17    7                     
+
+6100       1443   ////      1458  SAG  C   RSP  025-180   VI/2                  

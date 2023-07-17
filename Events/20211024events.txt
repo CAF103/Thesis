@@ -1,0 +1,25 @@
+:Product: 20211024events.txt
+:Created: 2021 Oct 27 0357 UT
+:Date: 2021 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1140 +     0053   ////      0053  LEA  C   RSP  025-060   III/1                 
+
+1150 +     0737   0744      0749  G16  5   XRA  1-8A      B3.2    2.1E-04   2887
+
+1160 +     0912   0917      0921  G16  5   XRA  1-8A      B4.6    2.1E-04   2887
+
+1170 +     1812   1818      1822  G16  5   XRA  1-8A      B6.0    2.6E-04   2887
+1170 +     1817   ////      1821  SAG  C   RSP  025-071   III/1                 
+
+1180 +     1905   ////      1927  SAG  C   RSP  025-144   VI/1                  
+
+1190       2031   ////      2034  PAL  C   RSP  025-050   III/1                 

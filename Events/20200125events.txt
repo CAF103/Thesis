@@ -1,0 +1,16 @@
+:Product: 20200125events.txt
+:Created: 2020 Jan 28 0357 UT
+:Date: 2020 01 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jan 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4900       0711   0714      0718  G15  5   XRA  1-8A      B1.1    4.2E-05   2757
+
+4910       1737   1737      1741  HOL  3   FLA  N05E19    SF      ERU       2757

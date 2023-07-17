@@ -1,0 +1,14 @@
+:Product: 20200413events.txt
+:Created: 2020 Apr 16 0357 UT
+:Date: 2020 04 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Apr 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5210      A0947   ////     A2314  LEA  2   DSF  S37E51    5                     

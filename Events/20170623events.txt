@@ -1,0 +1,18 @@
+:Product: 20170623events.txt
+:Created: 2017 Jun 26 0357 UT
+:Date: 2017 06 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jun 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7280 +     0745   ////      0746  SVI  C   RSP  025-042   III/1                 
+
+7290 +     1523   ////      1526  SVI  C   RSP  025-059   III/1                 
+
+7300       1924   ////      1924  PAL  C   RSP  025-180   III/2                 

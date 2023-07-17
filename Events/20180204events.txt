@@ -1,0 +1,33 @@
+:Product: 20180204events.txt
+:Created: 2018 Feb 07 0357 UT
+:Date: 2018 02 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Feb 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2850      A1515   ////     A0727  SVI  3   DSF  S47W00    5                     
+
+2640 +     1906   1922      1927  G15  5   XRA  1-8A      B6.4    4.7E-04   2699
+2640       1919   1920      1946  HOL  3   FLA  S09E80    SF                2699
+
+2650 +     1946   1951      1955  G15  5   XRA  1-8A      B3.7    1.4E-04   2699
+2650       1948   2021      2051  HOL  3   FLA  S09E80    SF                2699
+
+2660 +     2018   2024      2030  G15  5   XRA  1-8A      C1.1    5.5E-04   2699
+
+2670 +     2046   2059      2107  G15  5   XRA  1-8A      B2.6    2.7E-04   2699
+2670       2054   2056      2106  HOL  3   FLA  S09E80    SF                2699
+
+2690       2110   2125      2132  HOL  3   FLA  S09E80    1F      DSD       2699
+
+2680 +     2110   2115      2118  G15  5   XRA  1-8A      B7.1    1.7E-04   2699
+
+2700 +     2228   2245      2252  G15  5   XRA  1-8A      B3.0    3.2E-04   2699
+
+2710 +     2320   2325      2329  G15  5   XRA  1-8A      B3.1    1.2E-04   2699

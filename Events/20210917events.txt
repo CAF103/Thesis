@@ -1,0 +1,27 @@
+:Product: 20210917events.txt
+:Created: 2021 Sep 20 0357 UT
+:Date: 2021 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4960       0407   0408      0412  LEA  G   RBR  2695      44                    
+
+4970       0407   0408      0412  LEA  G   RBR  2695      44                    
+4970 +     0407   0407      0408  LEA  G   RBR  245       1200                  
+4970 +     0407   0408      0412  LEA  G   RBR  1415      60                    
+4970 +     0407   0407      0407  LEA  G   RBR  410       150                   
+4970 +     0407   0408      0409  LEA  G   RBR  610       45                    
+4970 +     0407   0408      0408  LEA  G   RBR  4995      10                    
+
+4960 +     0409   0420      0448  G16  5   XRA  1-8A      C3.5    8.3E-04   2871
+4960       0413   ////      0423  PAL  C   RSP  025-180   VI/1                  
+4960 +     0417   ////      0427  LEA  C   RSP  025-180   II/3    582           
+
+4980       1524   ////      1525  SAG  C   RSP  025-050   III/1                 

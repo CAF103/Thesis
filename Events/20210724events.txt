@@ -1,0 +1,23 @@
+:Product: 20210724events.txt
+:Created: 2021 Jul 27 0357 UT
+:Date: 2021 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9220       0010   ////      0018  PAL  C   RSP  037-059   II/1    554           
+9220 +     0014   ////      0014  PAL  C   RSP  025-062   III/1                 
+
+9240 +     0119   ////      0213  LEA  C   RSP  025-145   VI/2                  
+
+9230 +     0158   0206      0210  G16  5   XRA  1-8A      C1.5    9.4E-04   2849
+
+9250 +     0810   0816      0822  G16  5   XRA  1-8A      B4.4    2.8E-04   2849
+
+9260 +     1145   1152      1158  G16  5   XRA  1-8A      B2.7    1.9E-04   2849

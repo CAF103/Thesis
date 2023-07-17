@@ -1,0 +1,18 @@
+:Product: 20211114events.txt
+:Created: 2021 Nov 17 0357 UT
+:Date: 2021 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4870 +     1224   1231      1236  G16  5   XRA  1-8A      B1.2    6.5E-05       
+
+4890 +     1831   1845      1853  G16  5   XRA  1-8A      B1.6    1.6E-04       
+
+4920      A2341   ////     A1418  HOL  2   DSF  N32W20    12                    

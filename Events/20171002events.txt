@@ -1,0 +1,22 @@
+:Product: 20171002events.txt
+:Created: 2017 Oct 05 0357 UT
+:Date: 2017 10 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Oct 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 520       0017   ////      0018  LEA  C   RSP  025-083   III/1                 
+
+ 530       0351   0351      0351  LEA  G   RBR  245       120                   
+
+ 540       0354   0354      0354  LEA  G   RBR  245       110                   
+
+ 550 +     1409   1409      1409  SAG  G   RBR  245       100                   
+
+ 560       1411   1411      1411  SVI  G   RBR  245       120                   

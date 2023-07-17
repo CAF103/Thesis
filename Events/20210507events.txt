@@ -1,0 +1,49 @@
+:Product: 20210507events.txt
+:Created: 2021 May 10 0357 UT
+:Date: 2021 05 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 560 +     0033   0038      0042  G16  5   XRA  1-8A      B2.7    8.3E-05       
+ 560 +     0036   ////      0038  LEA  C   RSP  025-180   V/3                   
+
+ 570 +     0308   ////      0309  LEA  C   RSP  025-145   III/2                 
+
+ 580 +     0337   0341      0345  G16  5   XRA  1-8A      B6.0    1.1E-04       
+ 580 +     0339   ////      0342  LEA  C   RSP  025-173   III/2                 
+
+ 590 +     0613   ////      0617  LEA  C   RSP  025-144   III/2                 
+
+ 600 +     0649   0655      0659  G16  5   XRA  1-8A      B1.4    6.3E-05       
+ 600 +     0650   ////      0650  LEA  C   RSP  025-037   III/2                 
+
+ 620 +     1408   1414      1422  G16  5   XRA  1-8A      B2.7    1.1E-04       
+ 620 +     1410   1414      1422  HOL  3   FLA  N17E83    SF                    
+
+ 630 +     1648   1655      1705  G16  5   XRA  1-8A      B2.4    1.4E-04       
+ 630       1655   1655      1657  SVI  3   FLA  N16E72    SF                    
+
+ 640 +     1843   1904      1919  G16  5   XRA  1-8A      M3.9    4.5E-02   2822
+ 640 +     1850   1902      1909  SAG  G   RBR  1415      28                2822
+ 640       1851   1917      1945  HOL  3   FLA  N17E78    1N      DSD       2822
+ 640 +     1852   1902      1909  SAG  G   RBR  8800      73                2822
+ 640 +     1852   1903      1908  SAG  G   RBR  15400     75                2822
+ 640       1855   1855      1903  SAG  G   RBR  610       25                2822
+ 640       1859   1859      1859  SAG  G   RBR  410       120               2822
+ 640       1900   1901      1901  SAG  G   RBR  245       160               2822
+ 640 +     1901   1902      1903  SAG  G   RBR  4995      130               2822
+ 640 +     1902   1902      1904  SAG  G   RBR  2695      94                2822
+ 640 +     1902   ////      1923  PAL  C   RSP  025-180   II/3    816       2822
+
+ 650 +     1924   ////      1925  PAL  C   RSP  025-075   III/2                 
+
+ 660 +     2011   ////      2012  PAL  C   RSP  025-049   III/2                 
+
+ 670 +     2104   ////      2107  PAL  C   RSP  025-081   III/1                 

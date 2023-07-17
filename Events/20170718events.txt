@@ -1,0 +1,37 @@
+:Product: 20170718events.txt
+:Created: 2017 Jul 21 0357 UT
+:Date: 2017 07 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1040       0006   0011      0014  G13  5   XRA  1-8A      B7.3    2.4E-04   2665
+
+1060       0026   0026      0029  PAL  G   RBR  245       260                   
+1060 +     0031   0040      0048  G15  5   XRA  1-8A      C2.1    1.5E-03   2665
+
+1070       0108   0108      0108  LEA  G   RBR  245       130                   
+
+1080       0137   0137      0137  LEA  U   RBR  245       100                   
+
+1090 +     0431   0435      0441  G15  5   XRA  1-8A      B5.6    2.5E-04   2665
+
+1100       0500   0504      0507  G13  5   XRA  1-8A      B5.0    1.4E-04   2665
+
+1110 +     0511   0515      0517  G15  5   XRA  1-8A      B8.7    1.9E-04   2665
+
+1120 +     0532   0544      0549  G15  5   XRA  1-8A      C1.3    9.7E-04   2665
+
+1130 +     0621   0633      0650  G15  5   XRA  1-8A      C1.3    1.8E-03   2665
+
+1140 +     0820   0829      0834  G15  5   XRA  1-8A      C1.7    8.0E-04   2665
+
+1150 +     2211   2234      2246  G15  5   XRA  1-8A      C1.1    1.7E-03   2665
+
+1160 +     2354   0007      0018  G15  5   XRA  1-8A      C2.8    2.7E-03   2665

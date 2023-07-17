@@ -1,0 +1,18 @@
+:Product: 20200602events.txt
+:Created: 2020 Jun 05 0357 UT
+:Date: 2020 06 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jun 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5540       0421   0455      0439  G16  5   XRA  1-8A      B1.5    1.2E-04       
+
+5550       0613   0619      0624  G16  5   XRA  1-8A      B2.9    1.6E-04       
+
+5560 +     1503   ////      1504  SVI  C   RSP  025-074   III/1                 

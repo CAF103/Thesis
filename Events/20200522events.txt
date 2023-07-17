@@ -1,0 +1,14 @@
+:Product: 20200522events.txt
+:Created: 2020 May 25 0357 UT
+:Date: 2020 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5310 +     0503   ////      0520  LEA  3   DSF  S28E16    6                     

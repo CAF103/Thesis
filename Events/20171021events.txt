@@ -1,0 +1,20 @@
+:Product: 20171021events.txt
+:Created: 2017 Oct 24 0357 UT
+:Date: 2017 10 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Oct 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1510       0053   ////      0053  LEA  C   RSP  025-078   III/1                 
+
+1520 +     0206   ////      0209  PAL  C   RSP  025-180   III/2                 
+
+1530       0356   ////      0500  LEA  C   RSP  025-083   VI/1                  
+
+1540       1907   2106      2154  G15  5   XRA  1-8A      B3.3    2.0E-03       

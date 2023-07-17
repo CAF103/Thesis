@@ -1,0 +1,20 @@
+:Product: 20210610events.txt
+:Created: 2021 Jun 13 0357 UT
+:Date: 2021 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5490 +     0432   0437      0457  G16  5   XRA  1-8A      B2.6    3.5E-04   2830
+
+5500 +     0559   0642      0657  G16  5   XRA  1-8A      C1.1    1.8E-03       
+
+5510 +     0902   0908      0919  G16  5   XRA  1-8A      B4.5    3.2E-04   2831
+
+5520       1219   1219      1219  SVI  U   RBR  410       210                   

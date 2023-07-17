@@ -1,0 +1,15 @@
+:Product: 20180621events.txt
+:Created: 2018 Jun 24 0357 UT
+:Date: 2018 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6280 +     0109   0115      0118  G15  5   XRA  1-8A      C2.1    6.4E-04   2715
+6280 +     0111   0115      0124  HOL  3   FLA  N08E15    SF      ERU       2715

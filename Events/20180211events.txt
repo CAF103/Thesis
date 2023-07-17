@@ -1,0 +1,51 @@
+:Product: 20180211events.txt
+:Created: 2018 Feb 14 0357 UT
+:Date: 2018 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3720 +     0104   0109      0111  G15  5   XRA  1-8A      B4.8    1.0E-04   2699
+3720       0107   0107      0107  PAL  G   RBR  245       1200                  
+3720       0107   0107      0107  PAL  G   RBR  410       240                   
+
+3730       0452   0455      0458  G14  5   XRA  1-8A      B1.0    2.2E-05   2699
+
+3740       0529   0535      0540  G15  5   XRA  1-8A      B2.6    1.3E-04   2699
+
+3750 +     0819   0824      0827  G15  5   XRA  1-8A      B1.7    5.4E-05   2699
+3750       0822   0822      0822  SVI  G   RBR  245       390                   
+
+3760 +     0900   0907      0914  G15  5   XRA  1-8A      B3.7    2.2E-04   2699
+
+3770 +     0950   1003      1014  G15  5   XRA  1-8A      B8.3    8.8E-04   2699
+
+3780 +     1137   1141      1144  G15  5   XRA  1-8A      B1.2    3.6E-05   2699
+
+3790 +     1304   ////      1305  SVI  C   RSP  025-171   III/2                 
+
+3800 +     1323   1329      1345  G15  5   XRA  1-8A      B1.8    1.8E-04   2699
+
+3810       1353   1357      1410  G15  5   XRA  1-8A      B1.6    1.3E-04   2699
+
+3830 +     1410   1429      1443  G15  5   XRA  1-8A      B3.3    5.0E-04   2699
+
+3820 +     1613   1618      1620  G15  5   XRA  1-8A      B1.5    4.0E-05   2699
+
+3840       2129   2136      2139  G14  5   XRA  1-8A      B1.2    5.1E-05   2699
+
+3850 +     2143   2147      2149  G15  5   XRA  1-8A      B1.6    3.4E-05   2699
+3850 +     2144   ////      2148  PAL  C   RSP  025-180   III/2                 
+3850       2144   2144      2144  PAL  G   RBR  245       100                   
+
+3860       2234   2237      2239  G15  5   XRA  1-8A      B1.1    1.8E-05   2699
+
+3870       2310   2313      2316  G15  5   XRA  1-8A      B1.0    2.1E-05   2699
+3870       2312   2312      2312  PAL  G   RBR  245       150                   
+3870 +     2312   ////      2313  PAL  C   RSP  025-180   III/2                 

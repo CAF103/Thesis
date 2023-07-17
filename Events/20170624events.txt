@@ -1,0 +1,33 @@
+:Product: 20170624events.txt
+:Created: 2017 Jun 27 0357 UT
+:Date: 2017 06 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jun 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7310 +     0229   ////      0235  LEA  C   RSP  025-180   III/1                 
+
+7320 +     0431   ////      0431  LEA  C   RSP  028-153   III/1                 
+
+7330 +     0502   ////      0502  LEA  C   RSP  025-138   III/1                 
+
+7340       0532   ////      0600  SVI  C   RSP  025-118   VI/1                  
+7340       0533   ////      0600  LEA  C   RSP  025-180   III/1                 
+
+7350 +     1323   ////      1323  SVI  C   RSP  025-054   III/1                 
+
+7360 +     1354   ////      1355  SVI  C   RSP  025-080   III/1                 
+
+7370       1413   ////      1427  SVI  C   RSP  025-171   VI/2                  
+
+7380 +     1514   ////      1514  SVI  C   RSP  025-076   III/1                 
+
+7390 +     1929   ////      1933  SAG  C   RSP  025-084   III/2                 
+
+7400 +     2110   ////      2111  PAL  C   RSP  025-092   III/1                 

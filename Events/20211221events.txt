@@ -1,0 +1,69 @@
+:Product: 20211221events.txt
+:Created: 2021 Dec 24 0357 UT
+:Date: 2021 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7580       0055   ////      0057  LEA  C   RSP  025-101   III/1                 
+
+7590 +     0144   0157      0212  G16  5   XRA  1-8A      C5.5    6.6E-03   2907
+7590       0147   0149      0216  LEA  3   FLA  S22W30    1F                2907
+
+7600       0224   ////      0224  LEA  C   RSP  025-058   III/1                 
+
+7610 +     0340   0344      0352  G16  5   XRA  1-8A      C2.8    1.9E-03   2908
+
+7620 +     0448   0500      0509  G16  5   XRA  1-8A      C3.3    3.0E-03   2908
+7620       0508   ////      0601  LEA  U   RSP  132-165   CTM/1                 
+
+7630       0537   ////      0538  LEA  C   RSP  025-055   III/1                 
+
+7640 +     0558   0610      0619  G16  5   XRA  1-8A      C4.0    3.2E-03   2908
+7640       0616   ////      0618  LEA  C   RSP  025-104   III/2                 
+
+7680 +     0655   ////      0947  LEA  C   RSP  116-177   CTM/1                 
+
+7650 +     0658   0724      0809  SVI  3   FLA  S20W13    SF      ERU       2908
+7650 +     0706   0722      0734  G16  5   XRA  1-8A      C4.9    7.0E-03   2908
+7650 +     0716   ////      0717  SVI  C   RSP  025-139   III/1                 
+7650       0724   0724      0724  LEA  G   RBR  245       110                   
+
+7660 +     0743   0750      0757  G16  5   XRA  1-8A      M1.1    5.9E-03   2916
+7660       0749   0751      0802  LEA  2   FLA  S21W14    SF                    
+
+7670       0806   0806      0826  LEA  3   FLA  S21W14    SF                    
+
+7690 +     0857   ////      0857  LEA  C   RSP  025-057   III/1                 
+
+7700 +     0935   ////      0935  LEA  C   RSP  051-064   III/2                 
+
+7710       1058   ////      1105  SVI  C   RSP  037-126   III/1                 
+
+7720 +     1131   1144      1149  G16  5   XRA  1-8A      M1.4    5.1E-03   2916
+7720       1147   ////      1148  SVI  C   RSP  025-083   III/1                 
+
+7730       1240   ////      1338  SVI  C   RSP  025-180   VI/2                  
+
+7740 +     1345   1352      1400  G16  5   XRA  1-8A      C1.0    8.5E-04   2908
+
+8010      A1449   ////     A0825  SVI  3   DSF  S32E48    9                 2917
+
+7750 +     1544   1553      1558  G16  5   XRA  1-8A      C2.0    1.3E-03   2916
+
+7760 +     1735   1750      1804  G16  5   XRA  1-8A      C4.9    5.9E-03   2908
+7760 +     1744   ////      1749  SAG  C   RSP  025-172   III/1             2908
+7760       1759   1759      1757  HOL  1   FLA  S21W17    SF      ERU       2908
+
+7770 +     1902   1923      1953  G16  5   XRA  1-8A      C4.9    1.1E-02   2909
+7770       1913   1925      1950  HOL  3   FLA  S20W08    SF      ERU       2909
+
+7780 +     2036   2048      2100  G16  5   XRA  1-8A      C3.9    4.6E-03       
+
+7790 +     2229   2237      2308  G16  5   XRA  1-8A      C4.9    8.9E-03       

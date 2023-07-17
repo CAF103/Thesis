@@ -1,0 +1,64 @@
+:Product: 20210906events.txt
+:Created: 2021 Sep 09 0357 UT
+:Date: 2021 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3220       0000   ////      0023  PAL  C   RSP  025-081   VI/2                  
+
+3230       0423   0423      0426  LEA  3   FLA  S21E31    SF      DSD       2868
+
+3260       0446   ////      0645  SVI  C   RSP  121-180   CTM/1                 
+
+3240       0508   0515      0520  G17  5   XRA  1-8A      B4.3    2.8E-04       
+
+3250 +     0552   0559      0603  G16  5   XRA  1-8A      B5.0    2.9E-04   2868
+
+3270       0608   ////      0618  SVI  C   RSP  025-083   III/1                 
+
+3280       0815   0815      0817  LEA  3   FLA  S20E29    SF                2868
+
+3290       0921   0921      0921  SVI  G   RBR  245       150                   
+
+3300       0953   0953      0953  SVI  G   RBR  245       200                   
+
+3310 +     1002   1200      1520  SVI  G   RNS  245       570                   
+
+3320       1115   ////      1115  SVI  C   RSP  025-154   III/2                 
+
+3330       1115   ////      1115  SAG  C   RSP  025-180   III/1                 
+
+3340       1216   ////      1529  SVI  C   RSP  025-148   VI/2                  
+3340 +     1300   1304      1308  G16  5   XRA  1-8A      B4.5    2.0E-04   2863
+3340 +     1300   ////      1304  SVI  C   RSP  025-180   III/2                 
+3340 +     1304   1304      1304  SVI  G   RBR  410       150                   
+
+3350       1329   ////      1330  SVI  C   RSP  025-084   III/2                 
+
+3360       1330   ////      1331  SAG  C   RSP  025-180   III/1                 
+
+3370       1404   ////      1404  SVI  C   RSP  025-151   III/2                 
+
+3380       1507   ////      1509  SVI  C   RSP  025-153   III/2                 
+
+3520      A1612   ////     A0536  SVI  3   DSF  N28E50    17                    
+
+3390 +     1657   1701      1705  G16  5   XRA  1-8A      B4.5    1.9E-04   2863
+
+3400       1706   ////      1851  SAG  C   RSP  060-180   CTM/1                 
+3400 +     1725   ////      1728  SAG  C   RSP  025-048   III/1                 
+
+3410 +     1835   ////      1847  SAG  C   RSP  025-180   VI/2                  
+3410       1835   1835      1835  SAG  U   RBR  245       150                   
+
+3420 +     1921   1930      1935  G16  5   XRA  1-8A      B4.0    3.0E-04   2866
+
+3430 +     2128   2131      2135  G16  5   XRA  1-8A      B4.4    2.0E-04   2866
+3430       2130   2132      2134  HOL  3   FLA  S18E37    SF                2866

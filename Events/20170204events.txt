@@ -1,0 +1,20 @@
+:Product: 20170204events.txt
+:Created: 2017 Feb 07 0357 UT
+:Date: 2017 02 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Feb 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5990       0557   0600      0604  G15  5   XRA  1-8A      B1.2    3.5E-05   2631
+
+6000 +     0639   ////      0639  LEA  C   RSP  025-089   III/1                 
+
+6010       0653   ////      0807  LEA  3   DSF  N12E59    6                     
+
+6020       1259   1312      1345  G15  5   XRA  1-8A      B1.6    4.0E-04   2632

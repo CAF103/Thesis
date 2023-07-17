@@ -1,0 +1,40 @@
+:Product: 20180208events.txt
+:Created: 2018 Feb 11 0357 UT
+:Date: 2018 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3330       0735   ////      0938  SVI  C   RSP  103-160   CTM/1                 
+
+3340       1415   1422      1423  HOL  2   FLA  S08E39    1F                2699
+
+3350       1442   ////      1442  SAG  C   RSP  025-055   III/1                 
+
+3360 +     1520   1530      1535  G15  5   XRA  1-8A      B5.2    3.3E-04   2699
+3360       1525   1527      1550  HOL  3   FLA  S08E39    SF      ERU       2699
+
+3370 +     1651   1659      1721  G15  5   XRA  1-8A      B7.4    9.8E-04   2699
+3370       1654   1654      1728  HOL  3   FLA  S07E33    SF                2699
+
+3380 +     1839   1845      1850  G15  5   XRA  1-8A      B5.1    1.9E-04   2699
+
+3390       1943   1955      2001  G14  5   XRA  1-8A      B5.1    2.9E-04   2699
+3390       1945   1954      2008  HOL  3   FLA  S07E29    SF      ERU       2699
+
+3400 +     2025   2034      2041  G15  5   XRA  1-8A      B6.3    4.1E-04   2699
+3400       2027   2033      2054  HOL  3   FLA  S07E30    SF      ERU       2699
+
+3410 +     2110   2114      2117  G15  5   XRA  1-8A      B1.6    4.2E-05   2699
+3410       2113   2114      2116  HOL  3   FLA  S06E30    SF                2699
+
+3420 +     2122   2139      2145  G15  5   XRA  1-8A      B4.8    4.3E-04   2699
+3420       2125   2129      2152  HOL  3   FLA  S06E30    SF      ERU       2699
+
+3430       2226   ////      2359  LEA  C   RSP  075-180   CTM/1                 

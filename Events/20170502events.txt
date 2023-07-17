@@ -1,0 +1,16 @@
+:Product: 20170502events.txt
+:Created: 2017 May 05 0357 UT
+:Date: 2017 05 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4800      A0115   ////     A1242  HOL  3   DSF  S03E31    4                     
+
+4810 +     1933   1936      1941  G15  5   XRA  1-8A      B1.3    4.4E-05   2654

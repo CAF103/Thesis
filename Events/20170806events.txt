@@ -1,0 +1,16 @@
+:Product: 20170806events.txt
+:Created: 2017 Aug 09 0357 UT
+:Date: 2017 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1590 +     0222   0226      0231  G15  5   XRA  1-8A      B1.5    6.1E-05   2670
+
+1600 +     0952   0956      0959  G15  5   XRA  1-8A      B1.3    3.7E-05   2670

@@ -1,0 +1,107 @@
+:Product: 20170906events.txt
+:Created: 2017 Sep 09 0357 UT
+:Date: 2017 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7160       0000   ////      0433  PAL  C   RSP  025-180   VI/1                  
+
+7170       0358   0401      0403  LEA  3   FLA  S08W29    SF                2673
+
+7180       0412   ////      0413  LEA  C   RSP  025-124   III/1                 
+
+7300       0446   ////      1201  SVI  C   RSP  040-171   CTM/2                 
+
+7290 +     0520   1145      1520  SVI  G   RNS  245       1600                  
+
+7190 +     0617   0622      0629  G15  5   XRA  1-8A      C1.6    9.3E-04   2673
+7190       0620   0620      0627  SVI  3   FLA  S11W30    SF      ERU       2673
+
+7200       0706   0707      0712  SVI  3   FLA  S12W32    SF                2673
+
+7210       0720   0721      0723  SVI  3   FLA  S09W32    SF                2673
+
+7220 +     0729   0734      0748  G15  5   XRA  1-8A      C2.7    2.5E-03   2673
+7220       0734   0734      0747  SVI  3   FLA  S08W33    SF      ERU       2673
+
+7230       0803   0803      0809  SVI  3   FLA  S08W33    SF      ERU       2673
+7230       0806   ////      1615  SVI  C   RSP  025-171   VI/2              2673
+7230       0807   ////      0807  LEA  C   RSP  025-075   III/1             2673
+
+7240       0811   0813      0815  SVI  3   FLA  S08W33    SF                2673
+
+7250       0815   ////      0918  LEA  C   RSP  025-109   VI/1              2673
+7250       0830   0830      0844  SVI  3   FLA  S07W33    SF      ERU       2673
+
+7340       0852  U1159     A1553  SVI  3   FLA  S08W33    2B      ERU       2673
+
+7250       0857   0910      0917  G13  5   XRA  1-8A      X2.2    1.3E-01   2673
+7250 +     0900   0909      1050  SVI  G   RBR  15400     1400              2673
+7250 +     0901   0903      1034  SVI  G   RBR  8800      760               2673
+7250 +     0902   0904      0936  SVI  G   RBR  4995      850               2673
+7250 +     0903   0903      0931  SVI  G   RBR  2695      410               2673
+7250       0903   0928      0928  SVI  G   RBR  1415      890               2673
+
+7260       0922   0922      0922  SVI  G   RBR  410       190                   
+
+7270       0922   0922      0922  LEA  G   RBR  410       140                   
+
+7310       1032   ////      1210  SAG  C   RSP  105-180   CTM/1                 
+7310       1048   ////      1208  SAG  C   RSP  025-061   VI/1                  
+
+7280       1122   1122      1123  SAG  G   RBR  245       570                   
+
+7320       1136   1136      1139  SAG  G   RBR  245       520                   
+
+7330       1144   1145      1148  SAG  G   RBR  245       1100                  
+
+7340 +     1153   1202      1210  G15  5   XRA  1-8A      X9.3    5.7E-01   2673
+7340 +     1154   1156      1432  SVI  G   RBR  2695      14000   CastelliU 2673
+7340 +     1154   1156      1351  SVI  G   RBR  15400     8100    CastelliU 2673
+7340 +     1155   1202      1232  SAG  G   RBR  410       6300    CastelliU 2673
+7340 +     1155   1156      1356  SVI  G   RBR  8800      6500    CastelliU 2673
+7340 +     1156   1157      1405  SVI  G   RBR  4995      5900    CastelliU 2673
+7340 +     1156   1202      1424  SVI  G   RBR  1415      19000   CastelliU 2673
+7340       1157   ////      1202  SVI  C   RSP  025-170   III/2             2673
+7340 +     1158   1202      1232  SAG  G   RBR  610       9400    CastelliU 2673
+7340 +     1201   ////      1515  SVI  C   RSP  025-180   IV/2              2673
+7340 +     1202   1203      1411  SVI  G   RBR  245       3200    CastelliU 2673
+7340       1202   ////      1208  SAG  C   RSP  025-061   VI/1              2673
+7340       1202   ////      1221  SVI  C   RSP  025-081   II/2    1765      2673
+
+7790      B1224   ////     A1630  SOH  4   CME  XUV,EUV,UV227-226/FS1429      2673
+
+7350       1354   1554      1752  HOL  3   FLA  S09W38    3N      UMB       2673
+7350 +     1551   1556      1603  G15  5   XRA  1-8A      M2.5    1.4E-02   2673
+
+7380       1604   ////      1701  SVI  C   RSP  103-171   CTM/1                 
+
+7360 +     1648   1648      1649  PAL  G   RBR  410       270                   
+7360 +     1648   1648      1650  PAL  G   RBR  245       1000                  
+
+7370       1653   ////      1653  SVI  C   RSP  048-079   III/1                 
+
+7390       1732   ////      1733  PAL  C   RSP  025-180   V/2                   
+7390       1733   ////      2157  SAG  C   RSP  104-180   IV/1                  
+
+7430       1735   ////      2256  SAG  C   RSP  025-180   VI/1              2673
+7430       1753   1925     A2359  HOL  2   FLA  S07W44    1F      ERU       2673
+
+7410 +     1921   1930      1935  G15  5   XRA  1-8A      M1.4    8.9E-03   2673
+
+7420       1948   1948      1948  SAG  G   RBR  410       120                   
+
+7440       2137   ////      0000  PAL  C   RSP  025-180   VI/2                  
+
+7450 +     2333   2339      2344  G15  5   XRA  1-8A      M1.2    5.1E-03       
+
+7460       2345   2345      2346  LEA  G   RBR  245       110                   
+
+7470       2346   ////      2347  LEA  C   RSP  025-169   III/2                 

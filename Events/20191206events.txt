@@ -1,0 +1,14 @@
+:Product: 20191206events.txt
+:Created: 2019 Dec 09 0357 UT
+:Date: 2019 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4760       1419   ////      1743  HOL  2   DSF  S11W49    7                     

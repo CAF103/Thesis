@@ -1,0 +1,52 @@
+:Product: 20201228events.txt
+:Created: 2020 Dec 31 0357 UT
+:Date: 2020 12 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5010 +     0009   ////      0024  LEA  C   RSP  025-180   VI/2                  
+
+5020       0224   ////      0224  LEA  C   RSP  025-137   III/2                 
+
+5030       0240   ////      0252  LEA  C   RSP  025-180   VI/3                  
+5030 +     0250   ////      0251  PAL  C   RSP  025-180   III/2                 
+5030       0251   0252      0252  LEA  G   RBR  245       340                   
+
+5050       0323   ////      0422  LEA  C   RSP  025-180   VI/2                  
+
+5040       0324   ////      0348  PAL  C   RSP  025-180   III/2                 
+
+5060       0525   ////      0526  LEA  C   RSP  025-124   III/2                 
+
+5070       0558   ////      0559  LEA  C   RSP  025-180   III/2                 
+
+5080       0600   0600      0600  LEA  G   RBR  245       170                   
+
+5090       0619   ////      0624  LEA  C   RSP  025-174   III/3                 
+
+5100 +     0721   ////      0729  LEA  C   RSP  025-180   III/2                 
+5100       0728   0728      0728  SVI  G   RBR  245       140                   
+
+5110       0849   0901      0908  G16  5   XRA  1-8A      B1.7    1.5E-04   2795
+
+5120       1204   1204      1204  SVI  G   RBR  245       110                   
+
+5130       1219   ////      1220  SVI  C   RSP  025-083   III/1                 
+
+5140       1544   ////      1544  SAG  C   RSP  114-147   III/1                 
+
+5150       1709   1716      1720  G16  5   XRA  1-8A      B1.1    6.2E-05   2795
+5150       1714   ////      1716  SAG  C   RSP  025-180   III/1                 
+
+5160 +     2225   ////      2226  PAL  C   RSP  025-180   III/2                 
+
+5170 +     2257   ////      2257  PAL  C   RSP  025-047   III/1                 
+
+5180 +     2334   ////      2340  LEA  C   RSP  025-180   III/3                 

@@ -1,0 +1,17 @@
+:Product: 20180615events.txt
+:Created: 2018 Jun 18 0357 UT
+:Date: 2018 06 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jun 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6120       0646   0649      0652  G15  5   XRA  1-8A      B1.1    2.2E-05   2713
+
+6130       0945   0948      0950  G14  5   XRA  1-8A      B1.0    1.7E-05   2713
+6130       0948  U0948     A1001  SVI  3   FLA  N04E40    SF      ERU       2713

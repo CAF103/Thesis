@@ -1,0 +1,79 @@
+:Product: 20190415events.txt
+:Created: 2019 Apr 18 0357 UT
+:Date: 2019 04 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1280       0011   ////      0015  LEA  C   RSP  025-180   III/1                 
+1280 +     0015   0015      0015  LEA  G   RBR  245       230                   
+
+1290       0222   0222      0222  LEA  G   RBR  245       110                   
+
+1300       0230   0230      0230  PAL  G   RBR  245       150                   
+
+1310       0235   0235      0236  LEA  G   RBR  245       130                   
+
+1320       0301   0301      0301  PAL  G   RBR  245       190                   
+
+1330       0308   0308      0308  PAL  G   RBR  245       340                   
+
+1400       0321   ////      0453  LEA  C   RSP  025-180   VI/1                  
+
+1350       0425   0425      0425  LEA  G   RBR  245       970                   
+
+1360       0445   0445      0446  LEA  G   RBR  245       180                   
+
+1370       0449   0449      0450  LEA  G   RBR  245       180                   
+
+1380       0452   0452      0452  LEA  G   RBR  245       140                   
+
+1390       0513   0513      0513  LEA  G   RBR  245       110                   
+
+1410       0659   ////      0659  LEA  C   RSP  025-052   III/1                 
+
+1420 +     0743   0743      0743  SVI  G   RBR  245       110                   
+
+1430       0746   0746      0746  LEA  G   RBR  245       240                   
+
+1440       0820   ////      0845  LEA  C   RSP  025-054   VI/1                  
+
+1450       1009   1009      1009  SVI  G   RBR  245       110                   
+
+1460       1051   1051      1051  SVI  G   RBR  245       130                   
+
+1470       1117   1117      1117  SVI  G   RBR  245       130                   
+
+1480       1152   1152      1152  SVI  G   RBR  245       120                   
+
+1490       1217   1217      1217  SVI  G   RBR  245       210                   
+
+1500       1250   1250      1250  SVI  G   RBR  245       140                   
+
+1510 +     1305   1305      1305  SVI  G   RBR  245       120                   
+
+1530 +     1411   1411      1411  SAG  G   RBR  245       100                   
+
+1550 +     1422   1423      1426  SAG  G   RBR  245       140                   
+
+1560       1426   1426      1426  SVI  G   RBR  245       120                   
+
+1570 +     1442   1442      1443  SAG  G   RBR  245       120                   
+
+1340 +     1444   1514      1627  SAG  G   RNS  245       240                   
+
+1590 +     1927   1931      1934  G15  5   XRA  1-8A      B3.3    7.2E-05   2738
+1590 +     1930   1930      1930  SAG  G   RBR  245       110               2738
+1590 +     1930   ////      1933  SAG  C   RSP  025-180   III/2             2738
+1590       1930   1930      1930  PAL  G   RBR  410       100               2738
+1590       1931   1932      1936  HOL  3   FLA  N04W34    SF      DSD       2738
+
+1600       2339   2339      2339  PAL  G   RBR  245       100                   
+
+1610       2340   ////      2359  LEA  C   RSP  025-180   VI/2                  

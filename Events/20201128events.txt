@@ -1,0 +1,61 @@
+:Product: 20201128events.txt
+:Created: 2020 Dec 01 0357 UT
+:Date: 2020 11 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1680       0105   0109      0113  G16  5   XRA  1-8A      B6.2    2.9E-04       
+
+1690       0121   0135      0156  G16  5   XRA  1-8A      C1.5    2.5E-03   2786
+1690       0125   0128      0145  LEA  3   FLA  S17E31    SF                2786
+1690 +     0132   ////      0133  LEA  C   RSP  030-078   III/2             2786
+
+1700       0158   0158      0202  LEA  3   FLA  S26E17    SF                2785
+
+1710 +     0247   ////      0248  LEA  C   RSP  028-106   III/2                 
+
+1720       0330   ////      0330  LEA  C   RSP  030-136   III/2                 
+
+1730       0617   0623      0644  G16  5   XRA  1-8A      B7.9    1.2E-03   2786
+
+1740       0713   0726      0736  G16  5   XRA  1-8A      C1.0    1.2E-03       
+
+1750       0748   ////      0748  SVI  U   RSP  025-043   III/1                 
+
+1760 +     0805   ////      0805  LEA  C   RSP  031-096   III/1                 
+
+1770       0901   ////      0901  SVI  C   RSP  025-040   III/1                 
+
+1780 +     1012   1012      1014  SVI  G   RBR  245       370                   
+
+1790       1051   1057      1107  G16  5   XRA  1-8A      B7.1    6.4E-04   2786
+
+1800       1221   ////      1222  SVI  C   RSP  025-150   III/1                 
+
+1810       1326   1335      1343  G16  5   XRA  1-8A      C2.9    1.7E-03   2786
+
+1820       1510   1510      1510  SAG  G   RBR  245       110                   
+
+1840       1729   1738      1759  G16  5   XRA  1-8A      C1.2    1.6E-03   2786
+1840 +     1733   ////      1734  SAG  C   RSP  025-127   III/1             2786
+1840       1735   1738      1749  HOL  3   FLA  S15E22    SF                2786
+
+1850       1808   1808      1817  HOL  3   FLA  S12E12    SF                2786
+
+1860       1832   1832      1832  SAG  G   RBR  245       340                   
+
+1870       2113   ////      2113  PAL  C   RSP  025-051   III/1                 
+
+1880       2259   2318      2332  G16  5   XRA  1-8A      C3.1    4.1E-03   2786
+1880       2308   2313      2333  LEA  3   FLA  S19E16    SF                2786
+
+1890       2339   ////      2339  PAL  C   RSP  025-043   III/1                 
+
+1900       2358   ////      2358  PAL  C   RSP  025-040   III/1                 

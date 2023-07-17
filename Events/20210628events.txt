@@ -1,0 +1,52 @@
+:Product: 20210628events.txt
+:Created: 2021 Jul 01 0357 UT
+:Date: 2021 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6130 +     0200   0210      0235  G16  5   XRA  1-8A      B5.0    9.4E-04   2835
+
+6140 +     0743   0747      0751  G16  5   XRA  1-8A      B2.7    1.1E-04       
+
+6150 +     0754   0808      0824  G16  5   XRA  1-8A      B6.9    8.3E-04   2836
+6150       0801   0803      0817  SVI  3   FLA  S27E25    SF      ERU       2836
+6150       0801   0805      0824  LEA  3   FLA  S26E25    SF      DSD       2836
+
+6160 +     0915   0935      0947  G16  5   XRA  1-8A      C2.0    2.5E-03   2836
+6160       0926   0933      0953  SVI  3   FLA  S29E27    SF      ERU       2836
+6160       0930   ////      0933  SVI  C   RSP  025-083   V/3               2836
+6160       0931   ////      0933  SAG  C   RSP  025-072   III/2             2836
+
+6170 +     1126   1133      1139  G16  5   XRA  1-8A      B4.3    3.0E-04       
+
+6180 +     1231   ////      1246  SAG  C   RSP  025-072   VI/1                  
+
+6190 +     1424   1430      1437  G16  5   XRA  1-8A      B9.2    4.8E-04   2835
+6190       1428   1430      1437  SVI  3   FLA  S18E29    SF      ERU       2835
+
+6200       1446   1446      1447  SVI  3   FLA  S18E30    SF      ERU       2835
+
+6210 +     1709   1714      1722  G16  5   XRA  1-8A      B5.5    3.4E-04   2835
+
+6290      A1709   ////     A0510  SVI  3   DSF  S30W22    10                    
+
+6300      A1709   ////     A0510  SVI  3   DSF  N52E34    17                    
+
+6220 +     1758   1806      1818  G16  5   XRA  1-8A      B3.8    4.1E-04   2835
+
+6230 +     1856   1911      1916  G16  5   XRA  1-8A      C1.6    8.2E-04   2835
+
+6240 +     1926   1937      1945  G16  5   XRA  1-8A      B7.6    6.2E-04   2835
+
+6250 +     2059   ////      2100  SAG  C   RSP  025-066   III/1                 
+
+6260 +     2142   2150      2222  G16  5   XRA  1-8A      B5.5    1.1E-03   2835
+
+6270 +     2309   2315      2322  G16  5   XRA  1-8A      B3.0    2.3E-04   2835

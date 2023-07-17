@@ -1,0 +1,56 @@
+:Product: 20170417events.txt
+:Created: 2017 Apr 20 0357 UT
+:Date: 2017 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3660 +     0128   0139      0146  G15  5   XRA  1-8A      B3.6    3.1E-04   2651
+
+3670 +     0155   ////      0155  LEA  C   RSP  025-084   III/1                 
+
+3690 +     0217   0247      0310  G15  5   XRA  1-8A      C2.0    4.4E-03   2651
+3690 +     0250   ////      0251  LEA  C   RSP  025-104   III/1                 
+
+3700 +     0554   0558      0602  G15  5   XRA  1-8A      B4.0    1.3E-04   2651
+
+3710       0554   ////      0556  LEA  C   RSP  025-180   III/1                 
+
+3700       0555   ////      0557  SVI  C   RSP  025-180   III/1                 
+
+3720       0624   ////      0624  SVI  C   RSP  025-041   III/1                 
+
+3730 +     0713   0721      0727  G15  5   XRA  1-8A      B7.1    4.2E-04   2651
+3730 +     0714   ////      0721  LEA  C   RSP  025-180   III/2                 
+
+3740 +     0747   ////      0748  LEA  C   RSP  025-087   III/1                 
+
+3750 +     0914   ////      0915  LEA  C   RSP  025-045   III/1                 
+
+3760 +     1053   ////      1054  SVI  C   RSP  025-140   III/1                 
+
+3770       1250   ////      1254  SVI  C   RSP  025-121   III/2                 
+3770       1250   ////      1445  SAG  C   RSP  025-180   VI/1                  
+
+3780       1324   ////      1324  SVI  C   RSP  025-040   III/1                 
+
+3790       1433   ////      1446  SVI  C   RSP  025-180   VI/2                  
+3790 +     1440   1446      1450  G15  5   XRA  1-8A      B3.6    1.4E-04   2651
+3790       1441   ////      1442  SAG  C   RSP  025-180   III/2                 
+
+3800 +     1624   1630      1633  G15  5   XRA  1-8A      B3.2    1.2E-04   2651
+3800       1627   ////      1627  SVI  C   RSP  025-080   III/1                 
+
+3810 +     1846   1853      1906  G15  5   XRA  1-8A      B5.7    4.5E-04   2651
+
+3820 +     2102   ////      2206  PAL  C   RSP  025-180   VI/2                  
+3820 +     2121   2142      2153  G15  5   XRA  1-8A      B7.5    1.0E-03   2651
+3820 +     2129   ////      2131  SAG  C   RSP  025-180   III/2                 
+
+3830       2339   2344      2348  G13  5   XRA  1-8A      B2.0    7.7E-05   2651

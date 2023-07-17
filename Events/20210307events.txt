@@ -1,0 +1,23 @@
+:Product: 20210307events.txt
+:Created: 2021 Mar 10 0357 UT
+:Date: 2021 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7220 +     0117   0133      0205  G16  5   XRA  1-8A      B3.2    7.2E-04   2806
+
+7230 +     0315   0328      0339  G16  5   XRA  1-8A      B2.0    2.4E-04       
+
+7240 +     0705   0712      0723  G16  5   XRA  1-8A      B1.1    1.1E-04   2806
+7240 +     0709   0717      0720  LEA  3   FLA  S32W57    SF      DSD       2806
+
+7250 +     0731   0738      0742  G16  5   XRA  1-8A      B1.9    9.4E-05   2806
+
+7260       1710   1719      1724  G17  5   XRA  1-8A      B1.4    7.8E-05   2806

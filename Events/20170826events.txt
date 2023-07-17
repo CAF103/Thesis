@@ -1,0 +1,28 @@
+:Product: 20170826events.txt
+:Created: 2017 Aug 29 0357 UT
+:Date: 2017 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4180 +     0106   0111      0117  G15  5   XRA  1-8A      B2.9    1.4E-04   2672
+4180       0110   0110     A0114  HOL  2   FLA  N07E11    SF      ERU       2672
+
+4190 +     0208   0215      0231  G15  5   XRA  1-8A      B3.7    3.9E-04   2671
+
+4200 +     0258   0301      0305  G15  5   XRA  1-8A      B3.4    9.2E-05   2672
+
+4210       0839   0843      0845  G13  5   XRA  1-8A      B1.4    3.3E-05   2671
+
+4220 +     1334   1338      1350  G15  5   XRA  1-8A      B2.0    1.5E-04   2671
+
+4230 +     1854   1903      1909  G15  5   XRA  1-8A      B3.5    2.4E-04   2671
+
+4240       2017   2100      2127  G15  5   XRA  1-8A      B5.4    1.7E-03   2672
+4240       2045   2045      2115  HOL  4   FLA  N05W05    SF      ERU       2672

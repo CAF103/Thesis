@@ -1,0 +1,14 @@
+:Product: 20180926events.txt
+:Created: 2018 Sep 29 0357 UT
+:Date: 2018 09 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Sep 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7190       1527   1529      1530  G15  5   XRA  1-8A      A1.8    3.8E-06       

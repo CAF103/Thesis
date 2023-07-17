@@ -1,0 +1,80 @@
+:Product: 20201104events.txt
+:Created: 2020 Nov 07 0357 UT
+:Date: 2020 11 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8410       0051   0057      0102  G16  5   XRA  1-8A      B3.2    2.0E-04   2781
+
+8420       0255   0304      0313  G16  5   XRA  1-8A      B3.5    2.2E-04   2781
+8420       0313   0316      0321  G16  5   XRA  1-8A      B3.9    1.8E-04   2781
+
+8430       0432   0442      0447  G16  5   XRA  1-8A      C1.1    4.5E-04   2781
+8430       0441   0441      0444  LEA  3   FLA  S24E65    SF                2781
+
+8440       0628   0635      0642  G16  5   XRA  1-8A      B2.9    2.2E-04   2781
+8440       0642   0646      0650  G16  5   XRA  1-8A      B9.2    2.8E-04   2781
+
+8450       0812   0821      0825  G16  5   XRA  1-8A      C1.1    4.4E-04   2781
+
+8460       0909   0915      0922  G16  5   XRA  1-8A      B2.7    2.0E-04   2781
+
+8470       0944   0950      0954  G16  5   XRA  1-8A      B3.5    1.8E-04   2781
+8470       0946   0949      0952  SVI  3   FLA  S24E66    SF      ERU       2781
+
+8480       1126   1132      1139  G16  5   XRA  1-8A      B4.5    3.0E-04   2781
+8480       1139   1145      1154  G16  5   XRA  1-8A      B8.1    5.7E-04   2781
+
+8490       1340   1348      1352  G16  5   XRA  1-8A      B5.4    2.6E-04   2781
+
+8500       1355   1358      1403  SVI  3   FLA  S25E63    SF      ERU       2781
+
+8510 +     1410  U1425     A1448  SVI  3   FLA  S24E62    SF      ERU       2781
+
+8520       1449   1453      1457  G16  5   XRA  1-8A      B4.6    1.8E-04   2781
+
+8530       1501   1509      1522  G16  5   XRA  1-8A      B4.5    5.1E-04   2781
+8530       1505   1508      1514  HOL  3   FLA  S23E61    SF      ERU       2781
+8530       1520   1524      1525  HOL  3   FLA  S23E61    SF                2781
+
+8540       1526   1527      1533  HOL  3   FLA  S23E61    SF      ERU       2781
+
+8550       1541   ////      1957  SAG  C   RSP  125-180   CTM/1                 
+
+8560       1658   1711      1720  G16  5   XRA  1-8A      C1.8    1.6E-03   2781
+8560       1659   1705      1722  HOL  3   FLA  S23E59    SF                2781
+
+8570       1733   1735      1736  HOL  3   FLA  S23E59    SF                2781
+
+8580       1846   1907      1920  HOL  3   FLA  S23E59    SF      ERU       2781
+8580       1902   1908      1915  G16  5   XRA  1-8A      C1.0    5.7E-04   2781
+
+8590       1921   1924      1930  HOL  3   FLA  S23E59    SF      ERU       2781
+
+8600       1931   1937      1953  HOL  3   FLA  S23E59    SF      ERU       2781
+8600       1931   1934      1938  G16  5   XRA  1-8A      B8.1    3.1E-04   2781
+
+8610       2004   2013      2017  G16  5   XRA  1-8A      C1.0    4.6E-04   2781
+8610       2004   2016      2023  HOL  3   FLA  S23E59    SF      ERU       2781
+
+8620       2026   2030      2038  HOL  3   FLA  S23E59    SF      ERU       2781
+
+8630       2053   2102      2110  HOL  3   FLA  S23E59    SF      ERU       2781
+
+8640       2137   2143      2150  G16  5   XRA  1-8A      B4.7    3.5E-04       
+
+8650       2213   2217      2218  HOL  3   FLA  S23E59    SF      ERU       2781
+
+8660       2224   2230      2234  G16  5   XRA  1-8A      B4.4    2.4E-04   2781
+
+8670       2235   2240      2257  G16  5   XRA  1-8A      B4.9    6.2E-04   2781
+8670       2236   2245      2250  HOL  3   FLA  S23E59    SF      ERU       2781
+
+8680       2258   2304      2317  HOL  3   FLA  S23E59    SF      ERU       2781

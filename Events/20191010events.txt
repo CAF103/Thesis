@@ -1,0 +1,16 @@
+:Product: 20191010events.txt
+:Created: 2019 Oct 13 0357 UT
+:Date: 2019 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4640      A1454   ////     A0615  SVI  3   DSF  N46E30    14                    
+
+4630       1653   1657      1659  G15  5   XRA  1-8A      A7.2    2.8E-05       

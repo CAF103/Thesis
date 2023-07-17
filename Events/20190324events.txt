@@ -1,0 +1,43 @@
+:Product: 20190324events.txt
+:Created: 2019 Mar 27 0357 UT
+:Date: 2019 03 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Mar 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9700       0010   0011      0013  HOL  3   FLA  N10W75    SF                2736
+
+9710 +     0228   0233      0251  G15  5   XRA  1-8A      B8.6    9.0E-04   2736
+
+9720       0331   0331      0331  LEA  G   RBR  245       100                   
+
+9730 +     0435   0439      0444  G15  5   XRA  1-8A      B4.8    1.8E-04   2736
+
+9750       0522   0522      0522  LEA  G   RBR  245       100               2736
+
+9800 +     0522   0525      0533  LEA  G   RNS  245       140                   
+
+9760 +     0713   0720      0727  G15  5   XRA  1-8A      B4.3    2.6E-04   2736
+9760       0716   0718      0729  SVI  3   FLA  N10W84    SF      ERU       2736
+
+9770       0731   0734      0744  SVI  3   FLA  N09W84    SF      ERU       2736
+
+9780       0750   0751      0759  SVI  3   FLA  N10W87    SF                2736
+
+9790       0803   0922      0933  G15  5   XRA  1-8A      B1.8    1.3E-04   2736
+
+9810 +     1432   1437      1443  G15  5   XRA  1-8A      B2.6    1.2E-04   2736
+
+9850       1914   1914      1914  PAL  G   RBR  245       100                   
+
+9830 +     1916   1931      1940  G15  5   XRA  1-8A      B9.6    9.9E-04   2736
+
+9840       1916   1916      1916  PAL  G   RBR  245       200               2736
+
+9820       1917   1917      1917  SAG  G   RBR  245       140               2736

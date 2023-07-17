@@ -1,0 +1,32 @@
+:Product: 20211127events.txt
+:Created: 2021 Nov 30 0357 UT
+:Date: 2021 11 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Nov 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5330 +     0013   0026      0040  G17  5   XRA  1-8A      B1.7    2.6E-04   2900
+
+5340 +     0114   0119      0126  G16  5   XRA  1-8A      B1.9    1.3E-04   2900
+
+5350 +     0338   0354      0412  G16  5   XRA  1-8A      B2.8    4.9E-04   2900
+
+5360       0418   0450      0511  G17  5   XRA  1-8A      B5.1    1.3E-03   2900
+
+5370 +     0647   ////      0647  LEA  C   RSP  025-180   III/2                 
+
+5380 +     0832   0846      0900  G16  5   XRA  1-8A      B3.0    4.0E-04   2899
+
+5390 +     0928   0937      0944  G16  5   XRA  1-8A      B2.4    2.1E-04   2898
+
+5400 +     1618   1622      1627  G16  5   XRA  1-8A      B1.7    9.0E-05   2900
+
+5410 +     1941   1952      1957  G16  5   XRA  1-8A      B2.7    2.3E-04   2898
+
+5420 +     2316   2330      2354  G16  5   XRA  1-8A      B3.8    6.7E-04   2900

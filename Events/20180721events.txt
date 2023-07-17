@@ -1,0 +1,16 @@
+:Product: 20180721events.txt
+:Created: 2018 Jul 24 0357 UT
+:Date: 2018 07 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jul 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6740       0008   ////      0009  LEA  C   RSP  025-180   III/1                 
+
+6750       0030   ////      0215  LEA  3   DSF  N29E42    17                    

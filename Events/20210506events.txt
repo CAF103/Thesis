@@ -1,0 +1,45 @@
+:Product: 20210506events.txt
+:Created: 2021 May 09 0357 UT
+:Date: 2021 05 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 390 +     0257   0303      0308  G16  5   XRA  1-8A      B1.0    4.3E-05       
+ 390 +     0302   ////      0303  LEA  C   RSP  025-180   III/2                 
+
+ 450 +     0529   ////      0534  LEA  C   RSP  025-180   III/1                 
+
+ 400 +     0604   0615      0629  G16  5   XRA  1-8A      B1.2    1.5E-04       
+
+ 410 +     0752   0801      0805  G16  5   XRA  1-8A      B3.4    1.2E-04       
+
+ 460 +     0752   ////      0842  SVI  C   RSP  025-149   VI/2                  
+
+ 470 +     1013   ////      1016  SVI  C   RSP  025-054   III/2                 
+
+ 480 +     1215   ////      1216  SVI  C   RSP  026-084   III/2                 
+
+ 490 +     1250   ////      1251  SAG  C   RSP  043-180   III/1                 
+
+ 500 +     1453   ////      1502  SAG  C   RSP  025-180   III/2                 
+
+ 510 +     1541   1548      1552  G16  5   XRA  1-8A      B1.1    4.6E-05       
+ 510 +     1545   ////      1546  SAG  C   RSP  025-144   III/1                 
+
+ 610      A1629   ////     A0832  SVI  3   DSF  N51E34    7                     
+
+ 520 +     1808   ////      1812  PAL  C   RSP  025-076   III/2                 
+
+ 540       1841   ////      1900  SAG  C   RSP  025-037   III/2                 
+ 540       1841   ////      1900  PAL  C   RSP  025-059   VI/2                  
+
+ 530 +     1906   1914      1919  G16  5   XRA  1-8A      B1.1    7.2E-05       
+
+ 550 +     2332   ////      2332  PAL  C   RSP  026-067   III/2                 

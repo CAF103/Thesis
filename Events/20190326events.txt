@@ -1,0 +1,14 @@
+:Product: 20190326events.txt
+:Created: 2019 Mar 29 0357 UT
+:Date: 2019 03 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Mar 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9930      A2207   ////     A1646  HOL  2   DSF  S53W72    28                    

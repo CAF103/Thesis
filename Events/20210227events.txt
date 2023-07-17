@@ -1,0 +1,49 @@
+:Product: 20210227events.txt
+:Created: 2021 Mar 02 0357 UT
+:Date: 2021 02 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Feb 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6700       0038   0046      0049  G16  5   XRA  1-8A      B1.0    6.5E-05       
+6700 +     0042   ////      0052  LEA  C   RSP  031-180   VI/2                  
+
+6830       0049   0054      0058  G16  5   XRA  1-8A      B2.6    1.0E-04       
+
+6710       0225   ////      0225  LEA  C   RSP  025-128   III/1                 
+6710       0225   ////      0306  PAL  C   RSP  025-180   VI/1                  
+
+6720 +     0338   ////      0339  LEA  C   RSP  025-161   III/1                 
+
+6730       0441   ////      0441  LEA  C   RSP  045-125   III/1                 
+
+6740 +     0936   0949      0955  G16  5   XRA  1-8A      B2.9    2.2E-04       
+6740       0939   ////      0947  SVI  C   RSP  025-085   III/1                 
+
+6750       1009   ////      1009  SVI  C   RSP  080-145   III/1                 
+
+6760       1051   1056      1100  G16  5   XRA  1-8A      B1.3    5.3E-05       
+6760       1055   ////      1055  SVI  C   RSP  061-152   III/2                 
+
+6770 +     1244   1251      1256  G16  5   XRA  1-8A      B1.4    7.2E-05       
+
+6780 +     1513   1522      1528  G16  5   XRA  1-8A      B1.9    1.2E-04       
+6780 +     1520   ////      1520  SAG  C   RSP  025-039   III/1                 
+
+6790 +     1722   1731      1735  G16  5   XRA  1-8A      B1.5    8.1E-05       
+
+6800 +     1751   1800      1805  G16  5   XRA  1-8A      C2.7    8.3E-04   2804
+6800 +     1758   1758      1759  SAG  G   RBR  245       2600              2804
+6800       1758   1759      1815  HOL  3   FLA  N23W63    SF                2804
+6800 +     1758   1758      1758  PAL  G   RBR  410       110               2804
+6800 +     1758   ////      1801  SAG  C   RSP  025-180   III/1             2804
+
+6810 +     1807   1807      1807  SAG  G   RBR  245       120                   
+
+6820       1808   ////      1808  SAG  C   RSP  025-180   III/1                 

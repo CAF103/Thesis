@@ -1,0 +1,18 @@
+:Product: 20170412events.txt
+:Created: 2017 Apr 15 0357 UT
+:Date: 2017 04 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3460 +     0007   0011      0032  G15  5   XRA  1-8A      B1.3    1.5E-04   2650
+
+3470 +     1427   1432      1438  G15  5   XRA  1-8A      B2.1    8.8E-05       
+
+3480       1441   1441      1444  SVI  3   FLA  N15E40    SF      ERU           

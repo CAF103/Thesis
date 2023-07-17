@@ -1,0 +1,15 @@
+:Product: 20211015events.txt
+:Created: 2021 Oct 18 0357 UT
+:Date: 2021 10 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 560 +     1501   1516      1529  G16  5   XRA  1-8A      B9.7    8.8E-04   2885
+ 560       1509   ////      1559  HOL  3   EPL  ////      0.32    B.9A      2885

@@ -1,0 +1,65 @@
+:Product: 20170327events.txt
+:Created: 2017 Mar 30 0357 UT
+:Date: 2017 03 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Mar 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9840       0535   0537      0540  LEA  3   FLA  N12E30    SF                2644
+
+9850 +     0606   0612      0621  G15  5   XRA  1-8A      B2.6    1.8E-04       
+
+  60      A0629   ////     A2317  LEA  3   DSF  N04W55    8                     
+
+9940 +    A0659   ////     A0906  SVI  3   DSF  N07W58    12                    
+
+9860       0918   0923      0929  G13  5   XRA  1-8A      B4.7    1.9E-04       
+9860       0919   0922      0937  SVI  3   FLA  S07E67    SF      DSD           
+
+9870 +     1107   1112      1118  G15  5   XRA  1-8A      C3.2    1.2E-03   2645
+9870      B1116  U1121     A1142  SVI  2   FLA  S07E63    SF                    
+
+9880 +     1333   1343      1348  G15  5   XRA  1-8A      B4.9    2.7E-04       
+
+9890 +     1410   1416      1419  G15  5   XRA  1-8A      B4.6    1.5E-04       
+9890 +     1413   1415      1422  SVI  3   FLA  S07E63    SF                    
+
+9900       1440   1445      1451  G15  5   XRA  1-8A      B2.5    1.3E-04       
+
+9910 +     1459   1516      1523  G15  5   XRA  1-8A      B4.8    5.1E-04       
+
+9920       1606   1618      1624  SVI  3   FLA  N15E21    SF                2644
+
+9930 +     1652   1712      1718  G15  5   XRA  1-8A      C1.6    1.2E-03   2645
+9930       1707   1718      1723  HOL  3   FLA  S11E62    SF                2645
+
+9950 +     1739   1743      1747  G15  5   XRA  1-8A      B4.1    1.4E-04   2645
+9950       1741   1741      1746  HOL  3   FLA  S11E63    SF                2645
+
+9960 +     1754   1755      1809  HOL  3   FLA  S12E61    SF                2645
+9960 +     1755   1820      1824  G15  5   XRA  1-8A      C5.1    2.6E-03   2645
+9960       1819   1819      1819  PAL  G   RBR  410       100               2645
+
+9970       1929   1937      1940  HOL  3   FLA  S12E60    SF      DSD       2645
+
+9980 +     1944   2002      2011  G15  5   XRA  1-8A      B5.5    7.2E-04   2644
+9980 +     1953   1953      1958  HOL  3   FLA  N12E22    SF      ERU       2644
+
+9990 +     2037   2047      2052  G15  5   XRA  1-8A      B8.4    5.7E-04   2645
+9990       2045   2050      2054  HOL  3   FLA  S11E60    SF      DSD       2645
+
+  10       2134   2140      2147  HOL  3   FLA  N12E20    SF      ERU       2644
+  10       2137   2140      2143  G15  5   XRA  1-8A      B4.1    9.4E-05   2644
+
+  20 +     2220   2226      2227  HOL  3   FLA  S11E60    SF                2645
+
+  30       2222   2224      2227  HOL  3   FLA  N12E20    SF      DSD       2644
+
+  40 +     2341   2345      2349  G15  5   XRA  1-8A      B6.8    2.2E-04   2644
+  40 +     2343   2344      2353  LEA  3   FLA  N13E17    SF                2644

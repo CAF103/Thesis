@@ -1,0 +1,60 @@
+:Product: 20170602events.txt
+:Created: 2017 Jun 05 0357 UT
+:Date: 2017 06 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jun 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6160 +     0129   0133      0136  G15  5   XRA  1-8A      B8.5    2.2E-04   2661
+
+6170 +     0142   0148      0151  G15  5   XRA  1-8A      C1.1    4.2E-04   2661
+
+6180 +     0258   0303      0308  G15  5   XRA  1-8A      B5.9    2.5E-04   2661
+
+6190      B0537  U0541      0549  SVI  3   FLA  N08E68    SF                2661
+
+6200 +     0550   0555      0604  G15  5   XRA  1-8A      B8.4    5.1E-04   2661
+6200       0552  U0556      0603  SVI  3   FLA  N07E68    SF                2661
+
+6210 +     0646   ////      0646  LEA  C   RSP  025-088   III/1                 
+
+6220 +     0823   ////      0825  LEA  C   RSP  025-125   III/1                 
+
+6230 +     0900   ////      0900  LEA  C   RSP  025-097   III/1                 
+
+6240       0939   0940      0942  SVI  3   FLA  N08E66    SF      ERU       2661
+
+6250 +     0947   0953      0956  G15  5   XRA  1-8A      B4.6    1.6E-04   2661
+6250       0950   0954      0958  SVI  3   FLA  N08E64    SF      ERU       2661
+
+6260       1021   1021      1024  SVI  3   FLA  N08E66    SF      ERU       2661
+
+6270       1043   1045      1100  SVI  3   FLA  N08E63    SF      ERU       2661
+
+6280 +     1122   1127      1136  G15  5   XRA  1-8A      B4.8    3.2E-04   2661
+
+6290 +     1215   1223      1229  G15  5   XRA  1-8A      C1.2    6.5E-04   2661
+6290       1219   1219      1219  SAG  G   RBR  410       140                   
+6290 +     1219   ////      1223  SAG  C   RSP  025-180   III/1                 
+
+6300       1332   1357      1405  G13  5   XRA  1-8A      B4.0    6.3E-04   2661
+6300       1346   1349      1402  SVI  3   FLA  N08E66    SF                2661
+6300 +     1355   ////      1358  SAG  C   RSP  025-069   III/1             2661
+
+6310 +     1443   1452      1501  G15  5   XRA  1-8A      B8.1    6.0E-04   2661
+6310 +     1447  U1448     A1450  SVI  3   FLA  N08E66    SF      ERU       2661
+
+6330 +     1527   1531      1536  G15  5   XRA  1-8A      B4.2    1.5E-04   2661
+
+6340 +     1750   1757      1801  G15  5   XRA  1-8A      C8.0    2.7E-03   2661
+6340       1754   1757      1808  HOL  2   FLA  N05E62    SN      ERU       2661
+
+6350 +     1949   1956      2002  G15  5   XRA  1-8A      B6.9    3.4E-04   2661
+6350 +     1949   ////      1951  PAL  C   RSP  025-180   III/1             2661
+6350       1952   1953      1958  HOL  2   FLA  N05E62    SF      ERU       2661

@@ -1,0 +1,45 @@
+:Product: 20211103events.txt
+:Created: 2021 Nov 06 0357 UT
+:Date: 2021 11 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Nov 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3290       0000   ////      0013  LEA  C   RSP  025-180   VI/2                  
+
+3280 +     0010   0016      0020  G16  5   XRA  1-8A      B7.2    2.9E-04       
+3280       0011   ////      0012  PAL  C   RSP  025-101   III/2                 
+
+3300       0045   ////      0046  PAL  C   RSP  025-087   III/1                 
+3300       0045   ////      0137  LEA  C   RSP  025-125   VI/2                  
+
+3310 +     0056   0111      0132  G16  5   XRA  1-8A      B4.4    8.6E-04   2891
+
+3340 +     0539   ////      1057  SVI  C   RSP  111-180   CTM/1                 
+
+3320 +     0815   0830      0905  G16  5   XRA  1-8A      B4.1    1.0E-03       
+
+3350 +     1403   1417      1432  G16  5   XRA  1-8A      B3.5    3.1E-04       
+3350 +     1408   ////      1408  SAG  C   RSP  025-089   III/1                 
+
+3450 +     1432   1438      1442  G16  5   XRA  1-8A      B3.3    2.2E-04   2891
+
+3360 +     1443   1450      1457  G16  5   XRA  1-8A      B4.3    3.4E-04   2887
+
+3370 +     1500   1513      1518  G16  5   XRA  1-8A      B5.4    4.6E-04   2887
+
+3380 +     1837   1843      1847  G16  5   XRA  1-8A      B2.8    1.6E-04   2887
+
+3390 +     2056   2117      2140  G16  5   XRA  1-8A      C5.2    7.5E-03   2887
+
+3400       2236   2237      2242  LEA  3   FLA  N17W22    SF      ERU       2891
+
+3410       2259   2302      2313  LEA  G   RBR  610       650                   
+
+3420       2325   2338      2346  LEA  G   RBR  610       700                   

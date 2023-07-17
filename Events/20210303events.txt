@@ -1,0 +1,32 @@
+:Product: 20210303events.txt
+:Created: 2021 Mar 06 0357 UT
+:Date: 2021 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7060       0000   0003      0012  LEA  3   FLA  S16E43    SF                2807
+
+7070       0023   0023      0036  LEA  G   RBR  245       230                   
+
+7080 +     0056   0101      0105  G16  5   XRA  1-8A      B1.4    5.0E-05   2807
+
+7090 +     0129   0134      0138  G16  5   XRA  1-8A      B1.6    5.8E-05   2807
+
+7100 +     0150   0153      0157  G16  5   XRA  1-8A      B5.1    1.2E-04   2807
+
+7110       0220   0222      0229  G17  5   XRA  1-8A      B1.2    6.3E-05   2807
+
+7120 +     0252   0302      0311  G16  5   XRA  1-8A      B1.3    1.1E-04   2807
+
+7130 +     0340   0343      0347  G16  5   XRA  1-8A      B3.0    7.1E-05   2807
+
+7140       1109   ////      1110  SVI  C   RSP  025-082   III/2                 
+
+7150       1310   1320      1326  G17  5   XRA  1-8A      B1.4    8.6E-05   2807

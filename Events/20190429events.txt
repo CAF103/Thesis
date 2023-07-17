@@ -1,0 +1,14 @@
+:Product: 20190429events.txt
+:Created: 2019 May 02 0357 UT
+:Date: 2019 04 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2590       0544   0545      0547  G15  5   XRA  1-8A      A7.1    1.6E-05       

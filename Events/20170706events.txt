@@ -1,0 +1,25 @@
+:Product: 20170706events.txt
+:Created: 2017 Jul 09 0357 UT
+:Date: 2017 07 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7810       0517   0534      0534  LEA  G   RNS  245       220                   
+
+7820       1428   1431      1434  G13  5   XRA  1-8A      B1.0    2.3E-05   2665
+7820 +     1430   ////      1432  SAG  C   RSP  025-180   III/2                 
+
+7830       1453   1531      1554  SVI  3   FLA  S05E73    SF      ERU       2665
+7830       1542   ////      1542  SAG  C   RSP  025-046   III/1             2665
+
+7840       1642   1704      1710  HOL  3   FLA  S07E73    SF      DSD       2665
+
+7850       1725   1725      1734  HOL  3   FLA  S07E72    SF      DSD       2665
+7850 +     1726   1732      1740  G15  5   XRA  1-8A      B1.7    1.1E-04   2665

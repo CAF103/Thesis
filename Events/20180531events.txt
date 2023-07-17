@@ -1,0 +1,34 @@
+:Product: 20180531events.txt
+:Created: 2018 Jun 03 0357 UT
+:Date: 2018 05 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 May 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5780 +     0059   0108      0121  G15  5   XRA  1-8A      B5.0    4.3E-04   2712
+5780 +     0101   0106      0132  HOL  3   FLA  N15E20    SF      ERU       2712
+
+5820       0341   0434      0446  G15  5   XRA  1-8A      B2.2    5.2E-04   2712
+
+5790 +     0652   0658      0705  G15  5   XRA  1-8A      B2.0    1.2E-04   2712
+
+5800 +     0841   0845      0848  G15  5   XRA  1-8A      B1.3    3.6E-05   2712
+
+5810 +     1040   1058      1107  G15  5   XRA  1-8A      B2.6    3.4E-04   2712
+
+5830       1321   1422      1514  G15  5   XRA  1-8A      B2.3    1.3E-03       
+
+5840       1604   1613      1617  G15  5   XRA  1-8A      B1.9    1.2E-04   2712
+
+5850       2102   2109      2113  G15  5   XRA  1-8A      B1.2    6.1E-05   2712
+
+5860       2133   2143      2147  G15  5   XRA  1-8A      B1.3    8.5E-05   2712
+
+5870 +     2256   2302      2307  G15  5   XRA  1-8A      B2.8    1.2E-04   2712
+5870       2259   2300      2307  HOL  3   FLA  N16W20    SF                2712

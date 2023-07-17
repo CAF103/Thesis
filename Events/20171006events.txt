@@ -1,0 +1,57 @@
+:Product: 20171006events.txt
+:Created: 2017 Oct 09 0357 UT
+:Date: 2017 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 930       0008   ////      0008  PAL  C   RSP  025-065   III/2                 
+ 930 +     0009   ////      0010  PAL  C   RSP  025-082   V/2                   
+
+ 940 +     0036   0039      0041  G15  5   XRA  1-8A      B1.6    2.4E-05   2683
+
+ 950       0101   ////      0101  LEA  C   RSP  025-075   III/1                 
+
+ 960       0205   ////      0206  LEA  C   RSP  025-108   III/1                 
+
+ 970       0216   ////      0256  LEA  C   RSP  025-169   VI/1                  
+ 970       0252   0255      0304  G13  5   XRA  1-8A      B1.6    9.0E-05   2683
+
+ 980       0332   ////      0333  LEA  C   RSP  025-106   III/1                 
+
+ 990 +     0554   0558      0601  G15  5   XRA  1-8A      B1.5    4.1E-05   2683
+
+1000 +     0615   ////      0620  LEA  C   RSP  025-180   III/1                 
+
+1010       0810   ////      0813  SVI  C   RSP  025-041   III/1                 
+
+1020       1118   1121      1123  G15  5   XRA  1-8A      B2.2    3.2E-05   2683
+
+1030 +     1303   ////      1307  SAG  C   RSP  025-076   III/1                 
+
+1040       1535   1538      1540  G15  5   XRA  1-8A      B2.8    4.3E-05       
+
+1050 +     1606   1607      1607  SAG  G   RBR  245       110                   
+
+1060 +     1631   1634      1636  G15  5   XRA  1-8A      B9.8    1.3E-04   2683
+1060       1632   1633      1641  HOL  4   FLA  N11W66    SF      DSD       2683
+
+1070       1706   1706      1706  SAG  G   RBR  245       110                   
+
+1080       1921   1924      1926  G15  5   XRA  1-8A      B4.5    6.8E-05   2683
+
+1090 +     1937   1940      1942  G15  5   XRA  1-8A      B2.9    4.8E-05   2683
+
+1100 +     2020   2020      2021  PAL  G   RBR  245       470                   
+
+1110       2157   2158      2200  HOL  3   FLA  N11W70    SF                2683
+
+1120 +     2227   2231      2233  G15  5   XRA  1-8A      B3.2    6.6E-05       
+
+1140       2326   0028      0112  G15  5   XRA  1-8A      B4.6    2.2E-03   2683

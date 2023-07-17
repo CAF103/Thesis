@@ -1,0 +1,22 @@
+:Product: 20190515events.txt
+:Created: 2019 May 18 0357 UT
+:Date: 2019 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4130 +     0832   0840      0849  G15  5   XRA  1-8A      B3.5    2.6E-04   2741
+
+4140       1642   1656      1703  G14  5   XRA  1-8A      B2.0    2.0E-04   2741
+4140       1644   1645      1654  HOL  3   FLA  N05W34    SF      ERU       2741
+
+4150 +     1915   1924      1927  G15  5   XRA  1-8A      C2.0    5.5E-04   2741
+4150       1918   1923      1939  HOL  3   FLA  N08W36    SN      ERU       2741
+
+4160 +     1947   1956      2002  G15  5   XRA  1-8A      B2.3    1.6E-04   2741

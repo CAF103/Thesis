@@ -1,0 +1,56 @@
+:Product: 20210822events.txt
+:Created: 2021 Aug 25 0357 UT
+:Date: 2021 08 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Aug 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 300 +     0002   0008      0013  G16  5   XRA  1-8A      B2.3    1.4E-04   2859
+
+ 310 +     0018   0028      0036  G16  5   XRA  1-8A      B3.5    3.0E-04   2859
+ 310 +     0025   ////      0026  PAL  C   RSP  025-061   III/2                 
+
+ 190 +     0043   0052      0056  G16  5   XRA  1-8A      C1.0    4.3E-04   2859
+ 190       0051   0052      0055  LEA  3   FLA  N20E72    SF                2859
+
+ 320 +     0123   0133      0147  G16  5   XRA  1-8A      B3.2    4.3E-04   2859
+
+ 200 +     0409   0414      0422  G16  5   XRA  1-8A      C1.2    6.9E-04   2859
+ 200       0412   0413      0416  LEA  3   FLA  N19E75    SF                2859
+
+ 330       0520   0526      0530  G16  5   XRA  1-8A      B1.9    1.0E-04   2859
+
+ 340 +     0534   0539      0600  G16  5   XRA  1-8A      B1.9    9.0E-05   2859
+
+ 400 +     0600   0607      0613  G16  5   XRA  1-8A      B2.5    1.7E-04   2859
+
+ 230       0604   ////      0826  SVI  C   RSP  025-117   VI/1                  
+
+ 350 +     0828   0831      0837  G16  5   XRA  1-8A      B5.2    2.1E-04   2859
+
+ 360 +     1000   1009      1016  G16  5   XRA  1-8A      B3.6    2.4E-04   2859
+
+ 240       1016   1020      1024  G16  5   XRA  1-8A      C1.9    6.0E-04   2859
+ 240       1018   1019      1021  SVI  3   FLA  N19E68    SF                2859
+
+ 370 +     1442   ////      1442  SAG  C   RSP  025-157   III/1                 
+
+ 380 +     1446   1502      1514  G16  5   XRA  1-8A      B4.4    6.6E-04   2859
+
+ 390 +     1522   ////      1644  SVI  C   RSP  025-083   CTM/1                 
+
+ 410      A1612   ////     A0529  SVI  3   DSF  N56E27    30                    
+
+ 420      A1612   ////     A0529  SVI  3   DSF  N52E41    19                    
+
+ 430 +     2030   2038      2044  G16  5   XRA  1-8A      B1.7    1.2E-04       
+
+ 440 +     2148   2157      2202  G16  5   XRA  1-8A      B1.1    8.7E-05       
+
+ 450 +     2333   2341      2345  G16  5   XRA  1-8A      B1.5    8.8E-05       

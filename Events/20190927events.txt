@@ -1,0 +1,14 @@
+:Product: 20190927events.txt
+:Created: 2019 Sep 30 0357 UT
+:Date: 2019 09 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Sep 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4600 +     1112   ////      1332  SVI  3   DSF  N45E42    9                     

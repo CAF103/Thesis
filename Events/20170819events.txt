@@ -1,0 +1,62 @@
+:Product: 20170819events.txt
+:Created: 2017 Aug 22 0357 UT
+:Date: 2017 08 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Aug 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2780       0106   ////      0106  PAL  C   RSP  025-053   III/1                 
+
+2790       0117   0118      0122  HOL  3   FLA  N10E17    SF                2671
+
+2800 +     0128   0137      0150  G13  5   XRA  1-8A      C3.5    3.4E-03   2672
+
+2810 +     0410   0451      0515  G13  5   XRA  1-8A      C3.1    8.2E-03   2672
+
+2820       0632   0638      0649  SVI  3   FLA  N12E19    SF      ERU       2671
+
+2830 +     0859   0906      0912  G13  5   XRA  1-8A      C1.1    6.2E-04   2671
+
+2990      A0922   ////     A0105  LEA  3   DSF  N29E17    6                 0001
+
+2920       0930   ////      1729  SVI  C   RSP  075-171   CTM/1                 
+
+2840       1012   ////      1012  SVI  C   RSP  025-080   III/1                 
+
+2850 +     1055   1105      1113  G13  5   XRA  1-8A      C1.7    1.2E-03   2672
+
+2860 +     1204   1218      1246  G13  5   XRA  1-8A      C1.0    2.0E-03   2671
+2860       1214   1217      1222  SVI  3   FLA  N12E09    SF      ERU       2671
+2860       1232   1232      1232  SVI  G   RBR  245       190               2671
+
+2880       1236   1239      1244  SVI  3   FLA  N11E11    SF      ERU       2671
+
+2890       1439   ////      1548  SVI  C   RSP  025-079   VI/1                  
+
+3140 +     1440   1445      1448  G13  5   XRA  1-8A      B7.2    2.3E-04   2672
+
+2870 +     1448   1457      1501  G13  5   XRA  1-8A      C2.0    9.5E-04   2672
+
+2900 +     1541   1547      1554  G13  5   XRA  1-8A      C1.4    7.7E-04   2672
+
+2910 +     1549   ////      1902  SAG  C   RSP  025-039   VI/1                  
+2910 +     1643   ////      1644  SAG  C   RSP  025-180   III/1                 
+2910       1643   1643      1643  SAG  G   RBR  245       100                   
+
+2930 +     1710   1813      1829  G13  5   XRA  1-8A      B9.9    3.5E-03   2671
+2930 +     1723   1723      1723  SAG  G   RBR  245       160                   
+
+2940 +     1948   1952      1957  G13  5   XRA  1-8A      C1.3    4.8E-04   2672
+
+2950 +     2054   2155      2205  G13  5   XRA  1-8A      C7.0    9.2E-03   2671
+2950       2056   2058     A2101  HOL  2   FLA  N10E17    SF      ERU       2671
+2950       2120   2120      2120  SAG  G   RBR  245       160               2671
+2950       2148   ////      2153  SAG  C   RSP  033-063   II/1    928       2671
+
+2960 +     2350   2350      2350  PAL  G   RBR  245       150                   

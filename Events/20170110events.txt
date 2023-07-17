@@ -1,0 +1,36 @@
+:Product: 20170110events.txt
+:Created: 2017 Jan 13 0357 UT
+:Date: 2017 01 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jan 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4670       0945   ////      0945  SVI  C   RSP  025-142   III/1                 
+
+4680 +     1025   1030      1033  G15  5   XRA  1-8A      B7.3    1.8E-04       
+
+4690 +     1256   1300      1304  G15  5   XRA  1-8A      B8.8    2.3E-04       
+
+4700 +     1510   1513      1517  G15  5   XRA  1-8A      B3.9    9.8E-05       
+4700       1513   1513      1515  HOL  2   FLA  N16W81    SF      DSD           
+
+4710 +     1521   1525      1531  G15  5   XRA  1-8A      B4.1    1.7E-04       
+
+4720       1521   ////      1521  SAG  C   RSP  025-175   III/1                 
+
+4730 +     1636   1646      1649  G15  5   XRA  1-8A      B6.6    2.6E-04       
+4730       1642   1643      1647  HOL  3   FLA  N17W81    SF      DSD           
+4730       1642   ////      1808  SAG  C   RSP  025-179   VI/2                  
+
+4740 +     1803   1808      1813  G15  5   XRA  1-8A      B5.4    2.0E-04       
+4740       1806   1807      1811  HOL  3   FLA  N17W80    SF                    
+
+4750       2107   2112      2115  G15  5   XRA  1-8A      B1.2    3.9E-05       
+
+4760       2236   2247      2254  G15  5   XRA  1-8A      B2.5    1.9E-04       

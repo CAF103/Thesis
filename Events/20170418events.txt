@@ -1,0 +1,50 @@
+:Product: 20170418events.txt
+:Created: 2017 Apr 21 0357 UT
+:Date: 2017 04 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3840       0024   0028      0032  G13  5   XRA  1-8A      B2.4    8.1E-05   2651
+3840       0026   ////      0026  PAL  C   RSP  025-064   III/1                 
+3840       0026   ////      0052  LEA  C   RSP  025-044   VI/1                  
+
+3850       0044   0044      0044  PAL  G   RBR  245       140                   
+
+3860       0048   0049      0049  PAL  G   RBR  245       150                   
+
+3870       0051   ////      0052  PAL  C   RSP  025-060   III/1                 
+
+3880       0100   0100      0100  PAL  G   RBR  245       100                   
+
+3890       0149   ////      0149  LEA  C   RSP  025-093   III/1                 
+
+3900 +     0218   0222      0226  G15  5   XRA  1-8A      B1.7    5.8E-05   2651
+
+3910       0336   ////      0337  LEA  C   RSP  025-039   III/1                 
+
+3920 +     0531   0537      0542  G15  5   XRA  1-8A      B5.6    2.3E-04   2651
+
+3930       0551   0554      0600  G13  5   XRA  1-8A      B2.1    8.3E-05   2651
+
+3940 +     0631   0640      0646  G15  5   XRA  1-8A      B6.9    3.6E-04   2651
+
+3950 +     0929   0941      0955  G15  5   XRA  1-8A      C3.3    3.1E-03   2651
+3950 +     0934   ////      0939  SVI  C   RSP  025-180   V/2                   
+3950       0936   0936      0936  SVI  G   RBR  245       100                   
+3950 +     0941   ////      0947  SVI  C   RSP  025-180   III/2                 
+
+3960 +     1921   2010      2049  G15  5   XRA  1-8A      C5.5    1.6E-02   2651
+3960 +     1949   ////      2006  PAL  C   RSP  025-073   II/2    1007          
+3960 +     2000   2002      2003  HOL  3   FLA  N14E77    SF      ERU           
+3960 +     2003   ////      2030  PAL  C   RSP  025-180   IV/2                  
+
+3970       2015   2015      2022  HOL  3   FLA  N14E77    SF      ERU           
+
+3980       2040   ////      2305  HOL  4   LPS  ////      0.07              2651

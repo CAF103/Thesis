@@ -1,0 +1,16 @@
+:Product: 20200801events.txt
+:Created: 2020 Aug 04 0357 UT
+:Date: 2020 08 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Aug 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6030       1030   1040      1053  G16  5   XRA  1-8A      B1.9    2.1E-04       
+
+6040 +     1851   ////      1853  SAG  C   RSP  025-053   III/1                 

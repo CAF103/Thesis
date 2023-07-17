@@ -1,0 +1,18 @@
+:Product: 20170704events.txt
+:Created: 2017 Jul 07 0357 UT
+:Date: 2017 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7700 +     0143   0153      0223  G15  5   XRA  1-8A      B6.9    1.3E-03       
+
+7710 +     0405   0425      0444  G15  5   XRA  1-8A      C1.1    2.0E-03       
+
+7720 +     0528   ////      0529  SVI  C   RSP  025-061   III/1                 

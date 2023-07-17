@@ -1,0 +1,27 @@
+:Product: 20170419events.txt
+:Created: 2017 Apr 22 0357 UT
+:Date: 2017 04 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3990       0017   ////      0128  HOL  1   LPS  ////      0.08              2651
+
+4050      A0114   ////     A1300  HOL  2   DSF  S59E39    16                    
+
+4000 +     1001   1005      1007  G15  5   XRA  1-8A      B5.4    1.1E-04   2651
+
+4010       1231   1234      1237  G13  5   XRA  1-8A      B2.5    5.6E-05   2651
+
+4020 +     1632   1636      1639  G15  5   XRA  1-8A      B7.2    1.7E-04   2651
+
+4030 +     1644   ////      1645  SAG  C   RSP  025-180   III/1                 
+
+4040       1753   1756      1800  G13  5   XRA  1-8A      B1.6    4.4E-05   2651
+4040 +     1755   ////      1757  SAG  C   RSP  025-076   III/1                 

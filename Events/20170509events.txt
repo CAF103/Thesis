@@ -1,0 +1,16 @@
+:Product: 20170509events.txt
+:Created: 2017 May 12 0357 UT
+:Date: 2017 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5060       0323   ////      0443  LEA  2   DSF  S41W55    12                    
+
+5050 +     0703   ////      0704  SVI  C   RSP  025-081   III/1                 

@@ -1,0 +1,30 @@
+:Product: 20210226events.txt
+:Created: 2021 Mar 01 0357 UT
+:Date: 2021 02 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Feb 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6660       0125   0135      0137  G16  5   XRA  1-8A      B1.1    8.2E-05   2804
+
+6620       0137   0141      0147  G16  5   XRA  1-8A      B1.2    7.9E-05   2804
+
+6630       0441   0447      0617  G16  5   XRA  1-8A      B1.2    6.6E-05   2804
+
+6640       0617   0620      0631  G16  5   XRA  1-8A      B1.4    1.2E-04   2804
+
+6650       0702   0725      0748  G16  5   XRA  1-8A      B9.5    1.6E-03   2805
+6650 +     0718   0720      0749  SVI  3   FLA  S21W46    SF      ERU       2805
+
+6670 +     1933   1938      1942  G16  5   XRA  1-8A      B1.8    6.2E-05   2804
+6670       1938   1938      1939  HOL  3   FLA  N19W52    SF                2804
+
+6680       2222   ////      2222  PAL  C   RSP  034-180   III/1                 
+
+6690 +     2256   ////      2256  LEA  C   RSP  025-180   III/1                 

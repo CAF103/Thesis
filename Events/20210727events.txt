@@ -1,0 +1,21 @@
+:Product: 20210727events.txt
+:Created: 2021 Jul 30 0357 UT
+:Date: 2021 07 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jul 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9330 +     0200   0213      0234  G16  5   XRA  1-8A      B1.9    3.2E-04       
+
+9340 +     1915   1923      1929  G16  5   XRA  1-8A      B5.2    2.4E-04   2846
+9340       1925   1925      1928  HOL  3   FLA  N25W28    SF      ERU       2846
+
+9350 +     2144   2150      2157  G16  5   XRA  1-8A      B5.2    2.5E-04   2846
+
+9360 +     2208   2226      2240  G16  5   XRA  1-8A      B9.7    1.1E-03   2849

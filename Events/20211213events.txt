@@ -1,0 +1,25 @@
+:Product: 20211213events.txt
+:Created: 2021 Dec 16 0357 UT
+:Date: 2021 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6340 +     0617   0625      0632  G16  5   XRA  1-8A      B1.4    9.4E-05       
+
+6350 +     1624   1637      1644  G16  5   XRA  1-8A      B2.8    2.5E-04   2907
+
+6360 +     1731   1738      1745  G16  5   XRA  1-8A      B1.8    1.4E-04   2907
+
+6370 +     1912   1923      1930  G16  5   XRA  1-8A      B3.0    2.5E-04   2907
+
+6380       2058   2110      2111  G16  5   XRA  1-8A      B1.7    1.4E-04   2907
+6380       2111   2130      2142  G16  5   XRA  1-8A      B3.6    5.5E-04       
+
+6390 +     2333   2342      2350  G16  5   XRA  1-8A      B2.0    1.9E-04       

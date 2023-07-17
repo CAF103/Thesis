@@ -1,0 +1,53 @@
+:Product: 20211011events.txt
+:Created: 2021 Oct 14 0357 UT
+:Date: 2021 10 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9920       0225   ////      0228  LEA  C   RSP  076-134   III/1                 
+
+9930 +     0239   ////      0242  LEA  C   RSP  025-180   III/2                 
+
+9940       0458   ////      0459  LEA  C   RSP  043-060   III/2                 
+
+9950       0656   0656      0656  LEA  G   RBR  245       120                   
+
+9960 +     0747   0757      0804  G16  5   XRA  1-8A      B3.5    1.8E-04       
+
+9970       0924   ////      0924  SVI  C   RSP  025-045   III/1                 
+
+  20       1150   ////      1605  SVI  C   RSP  075-180   CTM/1                 
+
+  90       1302   ////      2115  SAG  C   RSP  113-155   CTM/1                 
+
+9980 +     1441   1453      1500  G16  5   XRA  1-8A      B2.0    1.9E-04   2882
+
+9990       1507   ////      1508  SVI  C   RSP  025-057   III/1                 
+
+  10       1508   ////      1508  SAG  C   RSP  025-045   III/1                 
+
+  30 +     1609   1614      1620  G16  5   XRA  1-8A      B2.0    1.1E-04   2882
+
+  40       1732   ////      1734  PAL  U   RSP  025-059   III/1                 
+
+  50 +     1745   1752      1810  G16  5   XRA  1-8A      B1.4    2.0E-04   2883
+
+ 100       1807   ////      2103  PAL  C   RSP  025-180   VI/1                  
+
+  60       1918   1925      1929  G17  5   XRA  1-8A      B1.9    1.1E-04   2883
+  60       1923   1923      1924  PAL  G   RBR  2695      19                    
+  60       1923   1923      1924  PAL  G   RBR  4995      45                    
+  60       1924   1924      1924  PAL  G   RBR  8800      24                    
+  60       1924   1924      1924  SAG  U   RBR  410       280                   
+
+  70 +     1937   1945      1949  G16  5   XRA  1-8A      B2.0    1.3E-04   2883
+
+  80 +     2019   2026      2031  G16  5   XRA  1-8A      B4.3    1.7E-04   2883
+  80       2027   2027      2029  HOL  3   FLA  N27W72    SF      ERU       2883

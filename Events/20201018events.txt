@@ -1,0 +1,45 @@
+:Product: 20201018events.txt
+:Created: 2020 Oct 21 0357 UT
+:Date: 2020 10 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Oct 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7010 +     0204   ////      0204  LEA  U   RSP  025-030   III/1                 
+
+7020 +     0243   0244      0244  LEA  G   RBR  245       100                   
+
+7030       0248   0252      0256  G16  5   XRA  1-8A      B1.8    5.9E-05   2776
+7030 +     0250   ////      0251  PAL  C   RSP  120-180   III/1             2776
+7030       0251   0251      0251  LEA  G   RBR  245       110               2776
+7030       0254   0254      0300  LEA  3   FLA  S15E22    SF                2776
+
+7050       0314   ////      0354  PAL  C   RSP  025-038   III/1                 
+
+7060       0551   0558      0604  G16  5   XRA  1-8A      B1.0    6.4E-05       
+
+7070 +     0852   ////      0857  SVI  C   RSP  065-080   III/1                 
+
+7080       1313   1321      1326  G16  5   XRA  1-8A      B1.0    6.8E-05       
+
+7090       1420   1429      1437  G16  5   XRA  1-8A      B4.0    2.6E-04   2776
+7090 +     1424   1427      1443  HOL  3   FLA  S14E16    SF                2776
+
+7100 +     1612   1642      1654  HOL  3   FLA  S22W71    SF                2777
+7100       1626   1636      1643  G16  5   XRA  1-8A      B1.7    1.1E-04   2777
+7100       1633   ////      1634  SAG  C   RSP  049-180   III/1             2777
+
+7110       1658   1700      1737  HOL  3   FLA  S22W72    SF                2777
+
+7120       1738   1745      1833  HOL  3   FLA  S22W72    SF                2777
+
+7130       1834   1853      1900  HOL  3   FLA  S22W75    SF                2777
+7130       1836   1842      1851  G16  5   XRA  1-8A      B1.2    1.0E-04   2777
+
+7140       2004   2004      2010  HOL  3   FLA  S23W76    SF                2777

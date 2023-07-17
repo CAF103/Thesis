@@ -1,0 +1,20 @@
+:Product: 20190706events.txt
+:Created: 2019 Jul 09 0357 UT
+:Date: 2019 07 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Jul 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4330       0608   0609      0610  G15  5   XRA  1-8A      A1.1    1.2E-05       
+
+4340 +     1715   1719      1721  G15  5   XRA  1-8A      B1.3    2.8E-05       
+
+4350       1947   1950      1952  G15  5   XRA  1-8A      B1.1    1.9E-05       
+
+4360 +     2117   2121      2124  G15  5   XRA  1-8A      B3.6    8.2E-05       

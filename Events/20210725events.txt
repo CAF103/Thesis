@@ -1,0 +1,24 @@
+:Product: 20210725events.txt
+:Created: 2021 Jul 28 0357 UT
+:Date: 2021 07 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jul 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9270       0432   ////      0435  SVI  U   RSP  048-180   III/1                 
+
+9280 +     0442   0457      0513  G16  5   XRA  1-8A      B2.5    3.8E-04       
+9280 +     0452   ////      0511  SVI  C   RSP  025-155   II/1    711           
+9280 +     0457   ////      0459  LEA  C   RSP  074-180   III/1                 
+
+9290       0611   ////      0611  SVI  U   RSP  112-151   III/1                 
+
+9300 +     1327   1335      1344  G16  5   XRA  1-8A      B1.8    1.6E-04       
+
+9310 +     2334   2349      2359  G16  5   XRA  1-8A      B2.2    2.6E-04       

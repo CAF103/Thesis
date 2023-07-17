@@ -1,0 +1,14 @@
+:Product: 20200818events.txt
+:Created: 2020 Aug 21 0357 UT
+:Date: 2020 08 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Aug 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6360       1341   1344      1347  HOL  3   FLA  N17W27    SF      DSD           

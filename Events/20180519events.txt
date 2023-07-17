@@ -1,0 +1,16 @@
+:Product: 20180519events.txt
+:Created: 2018 May 22 0357 UT
+:Date: 2018 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5110      A1711   ////     A0440  SVI  3   DSF  S39E32    9                     
+
+5120      A1711   ////     A0440  SVI  3   DSF  N23E18    8                     

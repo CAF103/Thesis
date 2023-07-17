@@ -1,0 +1,18 @@
+:Product: 20180906events.txt
+:Created: 2018 Sep 09 0357 UT
+:Date: 2018 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7060       0801   0801      0801  G15  5   XRA  1-8A      A2.0    3.8E-07       
+
+7080 +    A0950   ////     A2258  LEA  2   DSF  S50E25    7                     
+
+7090      A0950   ////     A2258  LEA  2   DSF  N20E02    7                     

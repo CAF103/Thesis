@@ -1,0 +1,88 @@
+:Product: 20170331events.txt
+:Created: 2017 Apr 03 0357 UT
+:Date: 2017 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 680 +     0149   ////      0150  LEA  C   RSP  025-180   III/2                 
+
+ 690       0232   ////      0232  LEA  C   RSP  025-054   III/1                 
+
+ 700 +     0250   ////      0251  LEA  C   RSP  025-089   III/1                 
+
+ 710       0334   0334      0334  PAL  G   RBR  245       140                   
+
+ 720 +     0339   0346      0350  G15  5   XRA  1-8A      B5.0    2.1E-04   2645
+
+ 790       0448   0621      0653  LEA  3   FLA  S10E34    SF      ERU       2645
+
+ 730       0449   0453      0455  G15  5   XRA  1-8A      B4.1    8.5E-05       
+
+ 740 +     0545   0550      0553  G15  5   XRA  1-8A      B3.3    1.1E-04   2644
+ 740 +     0545   ////      0549  LEA  C   RSP  025-180   V/2               2644
+ 740       0547   0550      0557  LEA  3   FLA  N13W32    SF      ERU       2644
+ 740       0550   ////      0740  SVI  C   RSP  102-169   IV/1              2644
+ 740 +     0551   0551      0551  SVI  G   RBR  245       110               2644
+
+ 750 +     0602   ////      0603  LEA  C   RSP  025-136   III/2                 
+
+ 760 +     0615   0619      0624  G15  5   XRA  1-8A      B2.7    1.0E-04   2645
+
+ 770       0631   ////      0646  SVI  C   RSP  025-046   VI/1                  
+
+ 800       0719   ////      0740  SVI  C   RSP  025-049   VI/1                  
+
+ 780       0719   0719      0719  SVI  U   RBR  410       290                   
+
+ 810 +     0819   ////      0821  SVI  C   RSP  025-180   III/2                 
+
+ 820       0846   ////      0950  SVI  C   RSP  103-171   CTM/1                 
+ 820       0850   ////      0908  SVI  C   RSP  025-038   VI/1                  
+
+ 830 +     0946   ////      0947  SVI  C   RSP  025-180   III/2                 
+
+ 910       1019   ////      1701  SVI  C   RSP  105-172   CTM/1                 
+
+ 890       1021   ////      1549  SVI  C   RSP  025-180   VI/2                  
+
+ 950       1148   ////      2256  SAG  C   RSP  102-180   CTM/1                 
+
+ 840       1214   ////      1242  SAG  C   RSP  025-180   VII/2                 
+
+ 850 +     1328   ////      1330  SAG  C   RSP  025-180   V/3                   
+
+ 860 +     1339   1342      1344  G15  5   XRA  1-8A      B3.2    5.0E-05   2644
+ 860       1343   ////      1602  SAG  C   RSP  025-180   VI/1                  
+
+ 870 +     1441   1447      1452  G15  5   XRA  1-8A      B3.7    1.8E-04   2648
+
+ 880       1532   1533      1538  HOL  2   FLA  S10E06    SF                2645
+
+ 900       1555   1555      1558  HOL  3   FLA  S10E06    SF                2645
+
+ 920 +     1728   1737      1748  G15  5   XRA  1-8A      C1.7    1.4E-03   2645
+ 920       1731   1732      1749  HOL  3   FLA  S12E03    SF      ERU       2645
+
+ 930       1815   ////      1820  SAG  C   RSP  025-180   III/2                 
+
+ 940       1912   1919      1923  G13  5   XRA  1-8A      B2.9    1.5E-04   2644
+
+ 960       2001   ////      2001  SAG  C   RSP  025-121   III/1                 
+
+ 970 +     2107   ////      2109  PAL  C   RSP  025-180   V/2                   
+ 970       2109   2112      2116  G13  5   XRA  1-8A      B3.6    9.9E-05   2644
+ 970       2112   ////      2116  PAL  C   RSP  025-083   III/1                 
+
+ 980       2248   ////      2359  LEA  C   RSP  104-180   CTM/1                 
+ 980 +     2254   2301      2310  G15  5   XRA  1-8A      C1.1    7.7E-04   2645
+
+ 990 +     2320   ////      2320  PAL  C   RSP  025-166   III/2                 
+
+1000 +     2334   ////      2335  PAL  C   RSP  025-110   III/1                 

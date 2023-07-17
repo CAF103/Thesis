@@ -1,0 +1,19 @@
+:Product: 20171214events.txt
+:Created: 2017 Dec 17 0357 UT
+:Date: 2017 12 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Dec 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2110       0500   ////      0515  LEA  3   DSF  S07E40    7                     
+2110       0510   0526      0545  G15  5   XRA  1-8A      B1.1    1.9E-04       
+
+2140       2144   2208      2225  G15  5   XRA  1-8A      B1.1    2.6E-04       
+
+2120 +     2358   ////      2358  LEA  C   RSP  025-157   III/1                 

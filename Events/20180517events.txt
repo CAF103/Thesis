@@ -1,0 +1,14 @@
+:Product: 20180517events.txt
+:Created: 2018 May 20 0357 UT
+:Date: 2018 05 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 May 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5100 +     1526   ////      1556  HOL  3   DSF  S55W55    18                    

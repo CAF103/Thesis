@@ -1,0 +1,23 @@
+:Product: 20170607events.txt
+:Created: 2017 Jun 10 0357 UT
+:Date: 2017 06 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jun 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6880 +     0212   0333      0356  G15  5   XRA  1-8A      C1.3    5.5E-03   2661
+
+6890 +     0840   0847      0857  G15  5   XRA  1-8A      B2.4    1.8E-04       
+
+6900 +     1003   1022      1050  G15  5   XRA  1-8A      C1.2    2.6E-03       
+
+6910 +     1214   1218      1234  G15  5   XRA  1-8A      B1.6    1.6E-04   2661
+
+6920       1622   1658      1724  G15  5   XRA  1-8A      B4.4    1.1E-03   2661
+6920 +     1625   1645      1707  HOL  3   FLA  N06W05    SF      ERU       2661

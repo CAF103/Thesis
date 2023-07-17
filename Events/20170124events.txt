@@ -1,0 +1,41 @@
+:Product: 20170124events.txt
+:Created: 2017 Jan 27 0357 UT
+:Date: 2017 01 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jan 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5410 +     0623   0742      0820  SVI  G   RNS  245       200                   
+
+5420       0704   ////      1245  SVI  C   RSP  045-171   CTM/1                 
+
+5370 +     0707   ////      0707  SVI  C   RSP  025-171   III/1                 
+
+5380       0740   ////      1050  LEA  C   RSP  046-172   CTM/1                 
+
+5390 +     0951   ////      0951  SVI  C   RSP  025-080   III/1                 
+
+5400       1036   ////      1043  SVI  C   RSP  030-171   III/1                 
+
+5430       1150   ////      1151  SVI  C   RSP  025-171   III/2                 
+
+5440       1603   1608      1611  G15  5   XRA  1-8A      B1.9    6.1E-05   2629
+
+5450 +     1747   1755      1801  G15  5   XRA  1-8A      B5.2    2.7E-04   2629
+
+5460       1839   1845      1856  G15  5   XRA  1-8A      B2.6    2.2E-04   2629
+
+5470      B1931   1947      2002  HOL  4   FLA  N14E62    SF      DSD           
+
+5480       2058   2115      2224  HOL  3   FLA  N14E61    SF      DSD       2629
+
+5490       2316   2316      2326  HOL  3   FLA  N14E59    SF      DSD       2629
+
+5500 +     2344   2349      2354  G15  5   XRA  1-8A      B3.2    1.3E-04   2629
+5500       2346   2348      2351  HOL  2   FLA  N14E59    SF      DSD       2629

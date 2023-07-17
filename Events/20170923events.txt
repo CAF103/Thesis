@@ -1,0 +1,22 @@
+:Product: 20170923events.txt
+:Created: 2017 Sep 26 0357 UT
+:Date: 2017 09 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9850       0533   ////      0534  LEA  C   RSP  078-180   III/1                 
+
+9860       0551   0603      0610  G13  5   XRA  1-8A      B3.0    2.4E-04   2682
+
+9870       1726   ////      1909  PAL  C   RSP  025-074   CTM/1                 
+
+9880       2015   2015      2015  PAL  G   RBR  245       100                   
+
+9890       2228   ////      2359  LEA  C   RSP  067-171   CTM/1                 

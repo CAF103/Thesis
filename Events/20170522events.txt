@@ -1,0 +1,20 @@
+:Product: 20170522events.txt
+:Created: 2017 May 25 0357 UT
+:Date: 2017 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5230      A0920   ////     A2325  LEA  2   DSF  S08E06    25                    
+
+5240      A1718   ////     A0500  SVI  3   DSF  S07E01    7                     
+
+5210 +     1804   ////      1806  SAG  C   RSP  025-146   III/1                 
+
+5220 +     2201   2205      2209  G15  5   XRA  1-8A      B1.5    4.9E-05   2660

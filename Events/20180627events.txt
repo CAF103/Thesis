@@ -1,0 +1,17 @@
+:Product: 20180627events.txt
+:Created: 2018 Jun 30 0357 UT
+:Date: 2018 06 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jun 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6550 +     0401   0408      0413  G15  5   XRA  1-8A      B1.6    7.9E-05   2715
+6550       0406   0406      0407  LEA  3   FLA  N08W24    SF                2715
+
+6560 +     0517   0538      0616  G15  5   XRA  1-8A      B2.3    5.7E-04   2715

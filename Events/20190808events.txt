@@ -1,0 +1,16 @@
+:Product: 20190808events.txt
+:Created: 2019 Aug 11 0357 UT
+:Date: 2019 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4470       1412   1412      1412  SAG  G   RBR  1415      150                   
+
+4480       1440   1440      1440  SAG  G   RBR  1415      100                   

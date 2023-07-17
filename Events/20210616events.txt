@@ -1,0 +1,20 @@
+:Product: 20210616events.txt
+:Created: 2021 Jun 19 0357 UT
+:Date: 2021 06 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jun 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5630       0808   ////      0808  LEA  C   RSP  025-135   III/1                 
+
+5640 +     0904   ////      1037  SVI  3   DSF  S32E41    15                    
+
+5650 +     1257   ////      1317  SVI  3   DSF  S31W19    13                    
+
+5660       2102   ////      2110  PAL  C   RSP  025-098   III/2                 

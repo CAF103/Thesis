@@ -1,0 +1,16 @@
+:Product: 20180704events.txt
+:Created: 2018 Jul 07 0357 UT
+:Date: 2018 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6590      A1604   ////     A0506  SVI  3   DSF  N21E22    14                    
+
+6600 +    A2246   ////     A1653  HOL  3   DSF  N14E10    12                    

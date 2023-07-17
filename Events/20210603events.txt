@@ -1,0 +1,46 @@
+:Product: 20210603events.txt
+:Created: 2021 Jun 06 0357 UT
+:Date: 2021 06 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jun 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4760       0009   ////      0009  PAL  C   RSP  025-064   III/1                 
+
+4770 +     0036   ////      0154  LEA  C   RSP  025-180   VI/2                  
+4770       0135   0135      0136  LEA  G   RBR  410       46                    
+4770       0135   0135      0135  LEA  G   RBR  610       13                    
+4770       0135   0136      0136  LEA  G   RBR  245       190                   
+
+4780 +     0136   ////      0137  PAL  C   RSP  025-180   III/2                 
+
+4790 +     0157   0205      0209  G16  5   XRA  1-8A      B5.7    1.2E-04   2829
+4790       0202   0203      0203  LEA  G   RBR  410       31                    
+4790 +     0202   ////      0205  LEA  C   RSP  025-180   III/2                 
+4790       0203   0203      0203  LEA  G   RBR  610       0.7                   
+4790       0203   0203      0203  LEA  G   RBR  245       140                   
+
+4800 +     0308   ////      0309  LEA  C   RSP  025-180   III/2                 
+
+4810 +     0409   0417      0428  G16  5   XRA  1-8A      B1.1    1.2E-04   2829
+4810 +     0411   ////      0412  LEA  C   RSP  025-180   III/2                 
+
+4820 +     0546   ////      0546  LEA  C   RSP  075-180   III/1                 
+
+4830 +     0711   0720      0740  G16  5   XRA  1-8A      B1.1    1.8E-04   2827
+
+4840 +     0917   0925      0932  G16  5   XRA  1-8A      B1.0    8.3E-05   2829
+
+4860 +     1146   1154      1200  G16  5   XRA  1-8A      B1.3    9.4E-05   2827
+
+4870 +     1448   1448      1448  SAG  G   RBR  245       110               2827
+
+4880 +     1616   1625      1639  G16  5   XRA  1-8A      B1.3    1.7E-04   2827
+
+4890 +     1950   ////      1950  SAG  C   RSP  025-063   III/1                 

@@ -1,0 +1,24 @@
+:Product: 20171114events.txt
+:Created: 2017 Nov 17 0357 UT
+:Date: 2017 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1750       0533   ////      0533  LEA  C   RSP  025-161   III/1                 
+
+1760       0556   0558      0601  LEA  2   FLA  S09E75    SF      DSD           
+
+1770       0615   ////      0615  LEA  C   RSP  035-091   III/1                 
+
+1780       0640   0645      0647  LEA  2   FLA  S09E75    SF      DSD           
+
+1790       0730   0730      0736  LEA  2   FLA  S09E73    SF      DSD           
+
+1800 +     1009   1012      1015  G15  5   XRA  1-8A      B1.4    2.9E-05   2687

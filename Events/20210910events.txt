@@ -1,0 +1,49 @@
+:Product: 20210910events.txt
+:Created: 2021 Sep 13 0357 UT
+:Date: 2021 09 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Sep 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4240       0614   ////      0614  LEA  C   RSP  025-180   III/1                 
+
+4250 +     0752   ////      0946  LEA  C   RSP  114-180   CTM/1                 
+
+4260 +     0852   ////      0852  LEA  C   RSP  025-088   III/1                 
+
+4270 +     1045   1049      1053  G16  5   XRA  1-8A      B4.2    1.8E-04   2866
+
+4280       1056   1056      1057  SVI  3   FLA  S19W31    SF      ERU       2868
+
+4290       1134   1134      1134  SAG  U   RBR  245       130                   
+
+4300       1143   1143      1143  SAG  U   RBR  245       130                   
+
+4310       1159   1159      1159  SVI  G   RBR  410       100                   
+
+4320       1200   1200      1200  SAG  U   RBR  245       220                   
+
+4330       1346   1346      1346  SAG  U   RBR  245       140                   
+
+4340       1402   1402      1402  SAG  U   RBR  245       120                   
+4340       1402   1402      1402  SAG  U   RBR  410       40                    
+4340       1402   1402      1402  SAG  U   RBR  610       0.8                   
+
+4350       1405   ////      1406  SVI  C   RSP  025-061   III/1                 
+
+4360       1621   ////      1622  SVI  C   RSP  025-084   III/1                 
+
+4370       1622   ////      1622  SAG  C   RSP  025-065   III/1                 
+
+4390       2031   ////      2031  PAL  C   RSP  038-116   III/1                 
+
+4400       2032   ////      2032  SAG  C   RSP  037-118   III/1                 
+
+4410       2048   2134      2213  G16  5   XRA  1-8A      C1.1    4.0E-03   2868
+4410       2132   2133      2155  HOL  3   FLA  S20W33    SF                2868

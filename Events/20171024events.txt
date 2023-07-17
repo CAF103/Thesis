@@ -1,0 +1,16 @@
+:Product: 20171024events.txt
+:Created: 2017 Oct 27 0357 UT
+:Date: 2017 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1570      A0007   ////     A1701  HOL  3   DSF  N24E39    17                    
+
+1580      A0953   ////     A2230  LEA  3   DSF  N32E24    6                     

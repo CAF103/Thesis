@@ -1,0 +1,43 @@
+:Product: 20170422events.txt
+:Created: 2017 Apr 25 0357 UT
+:Date: 2017 04 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4310 +     0022   0034      0042  G15  5   XRA  1-8A      B9.6    7.1E-04   2651
+4310 +     0026   0034      0052  LEA  3   FLA  N14E29    SF      ERU       2651
+
+4320 +     0052   ////      0053  LEA  C   RSP  025-080   III/1                 
+
+4330 +     0407   ////      0408  LEA  C   RSP  025-180   III/1                 
+4330       0408   0408      0408  PAL  G   RBR  245       210                   
+
+4340 +     0715   ////      0715  LEA  C   RSP  025-096   III/1                 
+
+4350 +     0849   ////      0850  SVI  C   RSP  025-079   III/1                 
+
+4370       0934   ////      0935  SVI  C   RSP  025-054   III/1                 
+
+4380       1007   1010      1013  G15  5   XRA  1-8A      B1.8    4.1E-05   2651
+
+4390 +     1208   1213      1216  G15  5   XRA  1-8A      B2.0    6.6E-05   2653
+
+4400 +     1452   1458      1501  G15  5   XRA  1-8A      B2.1    8.2E-05   2651
+4400 +     1456   1503      1506  HOL  3   FLA  N12E20    SF      ERU       2651
+
+4410 +     1538   ////      1538  SAG  C   RSP  025-180   III/1                 
+
+4420 +     1550   1550      1550  SAG  G   RBR  245       370                   
+
+4470 +    A1657   ////     A0511  SVI  3   DSF  N24E26    6                 2651
+
+4430       1752   ////      1753  SAG  C   RSP  025-055   III/1                 
+
+4440 +     1912   ////      1916  SAG  C   RSP  025-139   III/2                 

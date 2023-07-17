@@ -1,0 +1,41 @@
+:Product: 20210518events.txt
+:Created: 2021 May 21 0357 UT
+:Date: 2021 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1730 +     0158   0209      0213  G16  5   XRA  1-8A      C1.1    3.6E-04   2824
+1730 +     0201   ////      0209  LEA  C   RSP  025-180   III/2             2824
+1730       0205  U0205     A0205  LEA  3   FLA  N16E84    SF      DSD       2824
+
+1740 +     0219   ////      0226  PAL  C   RSP  054-076   II/1    106           
+
+1750       0533   ////      0547  LEA  C   RSP  025-180   VI/1                  
+
+1760       0724   ////      0725  LEA  C   RSP  025-096   III/1                 
+
+1770 +     0815   0823      0827  G16  5   XRA  1-8A      B2.3    1.1E-04   2824
+1770       0822  U0822     A0826  LEA  2   FLA  N16E73    SF      DSD       2824
+
+1780       1317   1322      1326  G16  5   XRA  1-8A      B1.2    5.8E-05   2824
+1780       1326   1330      1334  G16  5   XRA  1-8A      B1.5    6.9E-05   2824
+
+1790       1550   1558      1612  G17  5   XRA  1-8A      B1.0    1.3E-04   2824
+
+1800       1715   1715      1715  SAG  G   RBR  410       130                   
+
+1810       1717   1717      1717  SAG  G   RBR  245       190                   
+1810       1717   ////      1718  SAG  C   RSP  025-180   III/2                 
+
+1820       1719   ////      1723  SAG  C   RSP  025-065   III/1                 
+
+1830 +     2127   2135      2145  G16  5   XRA  1-8A      B2.1    1.7E-04   2824
+
+1840 +     2314   ////      2317  LEA  C   RSP  025-174   III/2                 

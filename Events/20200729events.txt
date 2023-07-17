@@ -1,0 +1,14 @@
+:Product: 20200729events.txt
+:Created: 2020 Aug 01 0357 UT
+:Date: 2020 07 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jul 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5960 +     1931   ////      1931  PAL  C   RSP  025-051   III/1                 

@@ -1,0 +1,20 @@
+:Product: 20180118events.txt
+:Created: 2018 Jan 21 0357 UT
+:Date: 2018 01 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jan 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2520 +     0728   0735      0739  G15  5   XRA  1-8A      B9.7    3.3E-04   2696
+2520       0742   0744      0754  LEA  3   FLA  S12W05    SF                2696
+
+2540 +     0808   0813      0816  G15  5   XRA  1-8A      B4.0    1.2E-04   2696
+2540       0813   0813      0819  LEA  3   FLA  S12W05    SF                2696
+
+2550 +     0951   0957      1006  G15  5   XRA  1-8A      B1.2    8.4E-05   2696

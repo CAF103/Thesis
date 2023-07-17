@@ -1,0 +1,43 @@
+:Product: 20170527events.txt
+:Created: 2017 May 30 0357 UT
+:Date: 2017 05 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5370       0531   0531      0534  SVI  3   FLA  N11W50    SF      ERU       2659
+
+5380 +     0848   0851      0857  G15  5   XRA  1-8A      B2.2    8.6E-05   2659
+5380       0854   0858      0859  SVI  3   FLA  N11W52    SF      ERU       2659
+
+5500      A0907   ////     A2338  LEA  2   DSF  N03W32    9                     
+
+5390 +     1022   1038      1053  G15  5   XRA  1-8A      B3.1    4.9E-04   2659
+
+5400       1446   1450      1500  HOL  3   FLA  N15W55    SF      YSR       2659
+
+5410       1515   1516      1522  SVI  3   FLA  N11W56    SF      ERU       2659
+
+5420 +     1543   1544      1548  HOL  3   FLA  N15W55    SF      ERU       2659
+
+5430       1623   1633      1647  SVI  3   FLA  N11W56    SF      ERU       2659
+
+5440       1655   1703      1712  SVI  3   FLA  N11W56    SF      ERU       2659
+
+5450       1747   1830      1904  G15  5   XRA  1-8A      B9.2    2.8E-03   2659
+5450       1820   1824      1831  HOL  3   FLA  N15W55    SF      ERU       2659
+
+5460       1926   1927      1934  HOL  3   FLA  N15W55    SF      DSD       2659
+
+5470       2047   2050      2052  HOL  3   FLA  N15W53    SF      DSD       2659
+
+5480 +     2118   2124      2128  G15  5   XRA  1-8A      B4.4    1.7E-04   2659
+
+5490 +     2208   2211      2214  G15  5   XRA  1-8A      B7.2    1.3E-04   2659
+5490       2209   2210      2214  HOL  3   FLA  N15W54    SF                2659

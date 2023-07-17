@@ -1,0 +1,50 @@
+:Product: 20211216events.txt
+:Created: 2021 Dec 19 0357 UT
+:Date: 2021 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6820 +     0313   0319      0324  G16  5   XRA  1-8A      B7.6    4.8E-04   2909
+
+6830 +     0326   0334      0341  G16  5   XRA  1-8A      C1.4    9.6E-04   2909
+
+6840 +     0344   0354      0404  G16  5   XRA  1-8A      C1.3    1.4E-03   2909
+6840       0352   ////      0354  LEA  C   RSP  080-111   II/1    310       2909
+6840       0355   ////      0421  LEA  C   RSP  025-107   IV/1              2909
+
+6850 +     0506   0521      0536  G16  5   XRA  1-8A      C1.5    2.3E-03   2907
+
+6860 +     0745   0748      0752  G16  5   XRA  1-8A      B9.3    3.6E-04       
+
+6870 +     0919   0928      0937  G16  5   XRA  1-8A      B9.1    5.9E-04       
+
+6880       1118   ////      1120  SVI  C   RSP  025-180   III/2                 
+6880       1120   1120      1120  SVI  G   RBR  410       140                   
+
+6890       1244   ////      1245  SVI  C   RSP  025-154   III/1                 
+
+6900       1247   1247      1250  SVI  3   FLA  N19E76    SF                    
+
+6910       1330  U1334     A1358  SVI  3   FLA  N14E63    2F                    
+6910 +     1334   1341      1345  G16  5   XRA  1-8A      C2.0    1.2E-03   2911
+
+6920 +     1519   1527      1531  G16  5   XRA  1-8A      C3.3    1.2E-03   2909
+
+6930 +     1636   1643      1647  G16  5   XRA  1-8A      B7.8    4.7E-04   2911
+
+6940 +     1958   2009      2020  G16  5   XRA  1-8A      C2.3    2.5E-03   2911
+6940       1958   1959     A2010  HOL  3   FLA  N19E76    SF                2911
+
+6950 +     2029   2044      2106  G16  5   XRA  1-8A      C2.9    5.4E-03   2911
+
+6960 +     2335   2339      2343  G16  5   XRA  1-8A      C3.0    9.8E-04   2909
+6960       2337   2338      2342  LEA  3   FLA  S23E61    SF      DSD       2909
+
+6970       2346   2347      2353  LEA  3   FLA  N20E71    SF                2911

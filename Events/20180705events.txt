@@ -1,0 +1,16 @@
+:Product: 20180705events.txt
+:Created: 2018 Jul 08 0357 UT
+:Date: 2018 07 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jul 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6610      A1555   ////     A0502  SVI  3   DSF  N29W02    12                    
+
+6580 +     2138   ////      2139  PAL  C   RSP  025-044   III/2                 

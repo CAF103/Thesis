@@ -1,0 +1,40 @@
+:Product: 20190409events.txt
+:Created: 2019 Apr 12 0357 UT
+:Date: 2019 04 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 360       0000   ////      1000  LEA  C   RSP  095-180   CTM/1                 
+
+ 270       0021   0027      0030  HOL  3   FLA  N06E68    SF                2738
+
+ 280 +     0103   0103      0104  LEA  G   RBR  245       210                   
+
+ 290       0112   0112      0112  LEA  G   RBR  245       330                   
+
+ 300       0246   0246      0246  LEA  G   RBR  245       160                   
+
+ 310 +     0301   0301      0301  LEA  G   RBR  245       150                   
+
+ 320       0327   0327      0328  LEA  G   RBR  245       230                   
+
+ 330       0333   0333      0333  LEA  G   RBR  245       350                   
+
+ 340       0336   0339      0339  PAL  G   RBR  245       650                   
+
+ 350 +     0517   0525      0533  G15  5   XRA  1-8A      B3.3    2.2E-04   2738
+
+ 370 +     1828   ////      1828  PAL  C   RSP  025-057   III/1                 
+
+ 380       2124   ////      2125  SAG  C   RSP  124-180   III/1                 
+
+ 390 +     2322   2326      2331  G15  5   XRA  1-8A      B1.3    4.6E-05   2738
+
+ 400 +     2344   2351      2358  G15  5   XRA  1-8A      B2.0    1.2E-04   2738

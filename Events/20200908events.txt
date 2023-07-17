@@ -1,0 +1,14 @@
+:Product: 20200908events.txt
+:Created: 2020 Sep 11 0357 UT
+:Date: 2020 09 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Sep 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6480       0559   0601      0602  G16  5   XRA  1-8A      A8.0    3.3E-06       

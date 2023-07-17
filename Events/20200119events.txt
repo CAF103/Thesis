@@ -1,0 +1,15 @@
+:Product: 20200119events.txt
+:Created: 2020 Jan 22 0357 UT
+:Date: 2020 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4880       1833   1835      1841  HOL  3   FLA  N22E30    SF      DSD           
+4880       1833   1835      1841  G16  5   XRA  1-8A      B1.0    1.4E-05       

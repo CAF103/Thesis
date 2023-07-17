@@ -1,0 +1,27 @@
+:Product: 20210520events.txt
+:Created: 2021 May 23 0357 UT
+:Date: 2021 05 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1910 +     1142   ////      1142  SVI  C   RSP  025-137   III/1                 
+
+1920 +     1302   ////      1305  SVI  C   RSP  025-180   III/2             2824
+1920       1303   1304      1305  HOL  3   FLA  N17E47    SF                2824
+
+1930 +     1659   ////      1659  SVI  C   RSP  025-126   III/1                 
+
+1940 +     1800   1810      1817  G16  5   XRA  1-8A      B1.2    1.1E-04       
+
+1950 +     1851   ////      1851  PAL  C   RSP  025-061   III/1                 
+
+1960 +     2032   ////      2032  SAG  C   RSP  025-054   III/1                 
+
+1970 +     2155   ////      2155  SAG  C   RSP  025-075   III/1                 

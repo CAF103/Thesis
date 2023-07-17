@@ -1,0 +1,52 @@
+:Product: 20211029events.txt
+:Created: 2021 Nov 01 0357 UT
+:Date: 2021 10 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2210 +     0204   0213      0222  G16  5   XRA  1-8A      B6.9    4.5E-04   2891
+
+2220       0222   0242      0253  G16  5   XRA  1-8A      M1.5    1.4E-02   2891
+2220       0226   0243      0306  LEA  3   FLA  N16E54    1N      BPT       2891
+
+2230       0308   ////      0310  LEA  C   RSP  075-180   III/1                 
+
+2240 +     0543   0558      0600  G16  5   XRA  1-8A      C4.8    2.1E-03   2891
+2240 +     0553   0558      0627  LEA  3   FLA  N17E53    1F      ERU       2891
+
+2250      B0553  U0605      0630  SVI  3   FLA  N17E53    SF      ERU       2891
+2250       0600   0607      0615  G16  5   XRA  1-8A      C5.9    5.2E-03   2891
+
+2270 +     0726   0745      0805  G16  5   XRA  1-8A      C1.1    2.2E-03   2887
+2270 +     0733  U0734     A0809  SVI  3   FLA  S27W15    SF                2887
+
+2380      A1010   ////     A2210  LEA  2   DSF  N15E10    11                    
+
+2280 +     1046   1054      1110  G16  5   XRA  1-8A      B7.3    9.9E-04   2891
+
+2290 +     1118   1126      1137  G16  5   XRA  1-8A      C1.5    1.4E-03   2891
+
+2300 +     1207   1215      1220  G16  5   XRA  1-8A      B8.4    5.8E-04   2887
+
+2310 +     1320   1330      1340  G16  5   XRA  1-8A      C2.5    2.2E-03   2887
+2310       1325  U1328     A1342  SVI  3   FLA  S29W18    SF                2887
+
+2460      A1345   ////     A0620  SVI  3   DSF  N22E31    10                    
+
+2320       1814   1821      1825  G17  5   XRA  1-8A      B7.2    4.0E-04   2891
+
+2330       1838   ////      1852  HOL  3   EPL  ////      0.15                  
+
+2340 +     1905   1914      1918  G16  5   XRA  1-8A      B8.5    4.9E-04   2891
+
+2350 +     2200   2209      2226  G16  5   XRA  1-8A      B9.1    1.1E-03   2891
+2350 +     2207   2207      2212  HOL  3   FLA  N14E42    SF      DSD       2891
+
+2360 +     2331   2338      2343  G16  5   XRA  1-8A      B7.6    4.7E-04   2891

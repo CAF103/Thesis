@@ -1,0 +1,64 @@
+:Product: 20170717events.txt
+:Created: 2017 Jul 20 0357 UT
+:Date: 2017 07 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 800       0021   0021      0021  LEA  G   RBR  410       140                   
+
+ 820 +     0057   0104      0108  G15  5   XRA  1-8A      B6.3    2.7E-04   2665
+
+ 830       0135   0135      0135  LEA  G   RBR  410       250                   
+
+ 840       0223   0228      0232  G13  5   XRA  1-8A      B3.3    1.3E-04   2665
+
+ 850       0324   0328      0331  G15  5   XRA  1-8A      C2.3    4.7E-04   2665
+ 850       0327   0327      0327  PAL  G   RBR  410       6600                  
+
+ 860 +     0403   0407      0409  G15  5   XRA  1-8A      B3.2    6.9E-05   2665
+ 860       0405   ////      0406  SVI  C   RSP  057-169   III/1                 
+ 860 +     0406   0406      0406  LEA  G   RBR  245       600                   
+
+ 870 +     0432   0432      0432  SVI  G   RBR  245       110                   
+
+ 880       0432   0432      0432  LEA  G   RBR  245       130                   
+
+ 890       0453   0453      0453  LEA  G   RBR  245       120                   
+
+ 900 +     0528   0532      0536  G15  5   XRA  1-8A      B4.9    1.6E-04   2665
+
+ 910       0539   0539      0539  LEA  G   RBR  245       120                   
+
+ 920       0709   0709      0709  LEA  G   RBR  245       170                   
+
+ 940 +     0900   0904      0909  G15  5   XRA  1-8A      B3.1    1.2E-04       
+
+ 950 +     0916   0920      0925  G15  5   XRA  1-8A      B4.0    1.5E-04       
+
+1050      A0924   ////     A2357  LEA  2   DSF  N16E47    9                     
+
+ 960 +     1013   1017      1020  G15  5   XRA  1-8A      B4.4    1.2E-04       
+ 960 +     1015   1015      1015  SVI  G   RBR  410       280                   
+ 960 +     1015   ////      1017  SVI  C   RSP  025-180   III/2                 
+ 960 +     1015   1015      1016  SVI  G   RBR  245       1500                  
+
+ 970       1633   1633      1633  SVI  U   RBR  410       110                   
+
+ 980 +     1641   1641      1641  SAG  G   RBR  245       100                   
+
+ 990       1658   ////      1658  SAG  C   RSP  025-058   III/1                 
+
+1000       1658   1658      1658  SAG  G   RBR  245       110                   
+
+1010 +     1704   1740      1740  SAG  G   RNS  245       200                   
+
+1030       1709   1842      2050  G15  5   XRA  1-8A      C1.2    1.3E-02   2665
+
+1020       1927   ////      1927  PAL  C   RSP  025-076   III/2                 

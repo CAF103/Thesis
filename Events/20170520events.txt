@@ -1,0 +1,16 @@
+:Product: 20170520events.txt
+:Created: 2017 May 23 0357 UT
+:Date: 2017 05 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5160 +     1041   ////      1042  SAG  C   RSP  025-085   III/1                 
+
+5170       1150   ////      1150  SVI  C   RSP  025-077   III/1                 

@@ -1,0 +1,31 @@
+:Product: 20210417events.txt
+:Created: 2021 Apr 20 0357 UT
+:Date: 2021 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7970 +     1552   1608      1616  G16  5   XRA  1-8A      B1.3    1.6E-04       
+
+8000 +     1621   1717      1825  G16  5   XRA  1-8A      B9.7    5.2E-03       
+
+7980 +     1626   ////      1635  SAG  C   RSP  025-049   II/1    382           
+
+7990       1640   1654      1710  SAG  G   RBR  1415      36                    
+7990 +     1640   1658      1702  SAG  G   RBR  610       520                   
+7990 +     1647   1701      1709  SAG  G   RBR  410       660                   
+7990 +     1658   1700      1702  SAG  G   RBR  245       180                   
+
+8000       1711   1713      1720  SAG  G   RBR  245       57                    
+8000       1711   1715      1720  SAG  G   RBR  610       68                    
+8000       1712   1715      1718  SAG  G   RBR  410       250                   
+
+8010       2323   2335      2344  G17  5   XRA  1-8A      B1.2    1.3E-04   2816
+
+8020 +     2349   ////      0004  G16  5   XRA  1-8A      B4.1    1.8E-04   2814

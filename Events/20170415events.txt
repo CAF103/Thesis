@@ -1,0 +1,14 @@
+:Product: 20170415events.txt
+:Created: 2017 Apr 18 0357 UT
+:Date: 2017 04 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3550       0949   ////      1009  SVI  C   RSP  025-180   VI/2                  

@@ -1,0 +1,16 @@
+:Product: 20170102events.txt
+:Created: 2017 Jan 05 0357 UT
+:Date: 2017 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4590       1147   ////      1242  SVI  3   DSF  N19W43    9                     
+
+4600 +    A1437   ////     A0748  SVI  3   DSF  N20W41    12                    

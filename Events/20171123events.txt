@@ -1,0 +1,14 @@
+:Product: 20171123events.txt
+:Created: 2017 Nov 26 0357 UT
+:Date: 2017 11 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Nov 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1940 +     0906   0914      0922  G15  5   XRA  1-8A      B1.7    1.2E-04   2687

@@ -1,0 +1,28 @@
+:Product: 20211005events.txt
+:Created: 2021 Oct 08 0357 UT
+:Date: 2021 10 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8950 +     0354   0358      0402  G16  5   XRA  1-8A      B1.4    6.4E-05       
+
+8960 +     0731   ////      0731  SVI  C   RSP  025-158   III/2                 
+
+8970 +     0935   ////      0935  SVI  C   RSP  025-125   III/2                 
+
+8990 +     1114   ////      1305  SVI  C   RSP  115-160   CTM/1                 
+
+8980 +     1119   1126      1133  G16  5   XRA  1-8A      B1.6    1.3E-04   2880
+
+9000       1526   ////      1528  SAG  C   RSP  025-180   III/1                 
+
+9010       2056   ////      2057  PAL  C   RSP  025-076   III/2                 
+
+9020       2057   ////      2058  SAG  C   RSP  025-069   III/1                 

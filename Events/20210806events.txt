@@ -1,0 +1,21 @@
+:Product: 20210806events.txt
+:Created: 2021 Aug 09 0357 UT
+:Date: 2021 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9560 +     0707   0713      0717  G16  5   XRA  1-8A      B1.5    8.1E-05   2851
+9560       0712   0712      0715  SVI  3   FLA  N14W11    SF      ERU       2851
+
+9570 +     1524   1531      1537  G16  5   XRA  1-8A      B1.4    1.0E-04   2850
+
+9580 +     1912   1921      1935  G16  5   XRA  1-8A      B2.6    2.5E-04   2850
+
+9590 +     2340   2348      2354  G16  5   XRA  1-8A      B1.9    1.1E-04   2850

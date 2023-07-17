@@ -1,0 +1,18 @@
+:Product: 20170213events.txt
+:Created: 2017 Feb 16 0357 UT
+:Date: 2017 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6260       0455   0455      0455  LEA  U   RBR  2695      100                   
+
+6270       0626   0636      0650  G15  5   XRA  1-8A      B1.8    2.1E-04   2635
+
+6280 +     0757   ////      0757  LEA  C   RSP  025-152   III/1                 

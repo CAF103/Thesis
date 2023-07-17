@@ -1,0 +1,18 @@
+:Product: 20210621events.txt
+:Created: 2021 Jun 24 0357 UT
+:Date: 2021 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5770      B1051   ////     B1232  SVI  3   DSF  N08W33    8                     
+
+5750       1229   ////      1230  SVI  C   RSP  025-079   III/2                 
+
+5760 +     1748   1754      1800  G16  5   XRA  1-8A      B1.2    8.2E-05   2833

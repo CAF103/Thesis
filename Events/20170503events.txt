@@ -1,0 +1,24 @@
+:Product: 20170503events.txt
+:Created: 2017 May 06 0357 UT
+:Date: 2017 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4830      A0114   ////     A1251  HOL  3   DSF  S47E18    9                     
+
+4840       0721   ////      0904  SVI  3   DSF  S44W16    8                     
+
+4850       0824   ////      1154  SVI  3   DSF  S35W43    6                     
+
+4820 +     1343   ////      1344  SAG  C   RSP  025-178   III/1                 
+
+4860 +     2008   ////      2008  PAL  C   RSP  025-082   III/1                 
+
+4870 +     2038   ////      2038  SAG  C   RSP  025-051   III/1                 

@@ -1,0 +1,14 @@
+:Product: 20200702events.txt
+:Created: 2020 Jul 05 0357 UT
+:Date: 2020 07 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jul 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5850       1258   1300      1302  SDO  5   XRA  1-8A      A4.3    2.2E-06       

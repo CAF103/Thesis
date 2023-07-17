@@ -1,0 +1,14 @@
+:Product: 20180918events.txt
+:Created: 2018 Sep 21 0357 UT
+:Date: 2018 09 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Sep 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7150      A0044   ////     A1322  HOL  3   DSF  S05E22    20                    

@@ -1,0 +1,14 @@
+:Product: 20170130events.txt
+:Created: 2017 Feb 02 0357 UT
+:Date: 2017 01 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jan 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5940       0403   ////      0403  LEA  C   RSP  025-053   III/1                 

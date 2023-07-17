@@ -1,0 +1,22 @@
+:Product: 20170723events.txt
+:Created: 2017 Jul 26 0357 UT
+:Date: 2017 07 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1210       0437   0437      0437  LEA  U   RBR  245       280                   
+
+1220 +     0437   ////      0438  SVI  C   RSP  025-061   III/1                 
+
+1230 +     0734   0737      0739  G15  5   XRA  1-8A      B1.5    2.5E-05       
+
+1250      A1707   ////     A0530  SVI  3   DSF  S28W00    8                     
+
+1240 +     2231   2239      2245  G15  5   XRA  1-8A      B1.3    8.7E-05       

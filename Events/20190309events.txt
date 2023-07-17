@@ -1,0 +1,30 @@
+:Product: 20190309events.txt
+:Created: 2019 Mar 12 0357 UT
+:Date: 2019 03 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Mar 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8560       0428   0432      0438  G14  5   XRA  1-8A      B1.1    5.1E-05   2734
+
+8570 +     1217   1226      1236  G15  5   XRA  1-8A      B6.1    4.0E-04   2734
+8570       1221   1226      1240  SVI  3   FLA  N11W19    SF      ERU       2734
+
+8580       1244   1244      1244  SAG  G   RBR  410       110                   
+8580       1244   1244      1244  SAG  G   RBR  610       300                   
+
+8590       1254   1254      1254  SVI  G   RBR  245       190                   
+
+8600       1255   1255      1255  SAG  G   RBR  245       240                   
+
+8610       1255   1255      1255  SVI  G   RBR  410       120                   
+
+8620       1255   1255      1255  SAG  G   RBR  410       170                   
+
+8630       1302   1303      1303  SAG  G   RBR  410       140                   

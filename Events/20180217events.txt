@@ -1,0 +1,14 @@
+:Product: 20180217events.txt
+:Created: 2018 Feb 20 0357 UT
+:Date: 2018 02 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Feb 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4040 +     1807   1815      1828  G15  5   XRA  1-8A      B1.4    1.4E-04   2699

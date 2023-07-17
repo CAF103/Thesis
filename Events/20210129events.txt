@@ -1,0 +1,16 @@
+:Product: 20210129events.txt
+:Created: 2021 Feb 01 0357 UT
+:Date: 2021 01 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jan 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6120 +     0941   0955      1008  G16  5   XRA  1-8A      B2.5    2.8E-04   2800
+
+6130 +     2005   2016      2027  G16  5   XRA  1-8A      B3.8    2.9E-04   2800

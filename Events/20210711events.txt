@@ -1,0 +1,23 @@
+:Product: 20210711events.txt
+:Created: 2021 Jul 14 0357 UT
+:Date: 2021 07 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jul 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7890 +     0125   0132      0137  G16  5   XRA  1-8A      B7.1    2.8E-04   2841
+7890       0128   0132      0141  LEA  3   FLA  S18E43    SF      DSD       2841
+
+7900 +     1037   1050      1058  G16  5   XRA  1-8A      B3.2    2.3E-04   2841
+
+7910 +     1350   ////      1350  SVI  C   RSP  025-055   III/1                 
+
+7930      A1724   ////     A0613  SVI  2   DSF  S24W33    9                     
+
+7920 +     2041   2047      2056  G16  5   XRA  1-8A      B2.0    1.3E-04   2842

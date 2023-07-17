@@ -1,0 +1,16 @@
+:Product: 20170517events.txt
+:Created: 2017 May 20 0357 UT
+:Date: 2017 05 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5130       0810   0810      0810  LEA  U   RBR  1415      110                   
+
+5140      A0927   ////     A2330  LEA  2   DSF  S34E07    9                     

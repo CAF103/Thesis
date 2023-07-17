@@ -1,0 +1,16 @@
+:Product: 20210312events.txt
+:Created: 2021 Mar 15 0357 UT
+:Date: 2021 03 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Mar 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7370      A1545   ////     A0728  SVI  3   DSF  S39W56    6                     
+
+7360 +     1856   1904      1913  G16  5   XRA  1-8A      B2.5    2.2E-04   2808

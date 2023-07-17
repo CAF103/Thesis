@@ -1,0 +1,60 @@
+:Product: 20201129events.txt
+:Created: 2020 Dec 02 0357 UT
+:Date: 2020 11 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1910 +     0030   ////      0030  LEA  C   RSP  030-059   III/2                 
+
+1980       0050   0116      0148  G16  5   XRA  1-8A      C1.3    4.2E-03   2786
+
+1920       0050   ////      0051  PAL  C   RSP  025-042   III/1                 
+
+1930 +     0057   ////      0058  LEA  C   RSP  025-046   III/2                 
+
+1940       0246   0248      0250  LEA  3   FLA  S17E19    SF                2786
+
+1950       0251   0302      0306  LEA  3   FLA  S25E05    SF                2785
+
+1960       0414   ////      0415  LEA  C   RSP  032-116   III/2                 
+
+1970       0538   ////      0538  LEA  C   RSP  033-108   III/1                 
+
+1990 +     0823   ////      0823  SVI  C   RSP  036-126   III/2                 
+
+2000       1124   1144      1203  G16  5   XRA  1-8A      C1.6    2.9E-03   2786
+
+2010       1215   ////      1216  SVI  C   RSP  025-069   III/1                 
+
+2050       1234   1311      1341  G16  5   XRA  1-8A      M4.4    9.4E-02       
+2050       1250   1307      1324  SAG  G   RBR  2695      240                   
+2050       1254   ////      1324  SVI  C   RSP  025-180   VI/2                  
+2050 +     1256   1259      1307  SVI  G   RBR  4995      180                   
+2050 +     1256   1259      1306  SVI  G   RBR  8800      91                    
+2050       1257   ////      1322  SAG  C   RSP  025-180   II/2    765           
+2050 +     1258   1258      1303  SVI  G   RBR  1415      78                    
+2050 +     1302   1304      1305  SVI  G   RBR  610       820                   
+2050 +     1303   1304      1304  SVI  G   RBR  410       300                   
+2050 +     1310   1310      1310  SVI  G   RBR  245       110                   
+2050 +     1334   ////      1335  SAG  C   RSP  025-044   III/1                 
+
+2070       1424   ////      1424  SAG  C   RSP  025-036   III/1                 
+
+2080       1528   ////      1529  SAG  C   RSP  025-033   III/1                 
+
+2090       1945   ////      1945  PAL  C   RSP  025-039   III/2                 
+
+2100       2019   ////      2019  PAL  C   RSP  025-045   III/1                 
+
+2110 +     2148   ////      2149  PAL  C   RSP  025-044   III/2                 
+
+2120       2232   ////      2232  LEA  U   RSP  025-132   III/1                 
+
+2130       2325   ////      2325  PAL  C   RSP  025-052   III/1                 

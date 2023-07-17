@@ -1,0 +1,16 @@
+:Product: 20171102events.txt
+:Created: 2017 Nov 05 0357 UT
+:Date: 2017 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1620      A0940   ////     A2223  LEA  3   DSF  N52E27    11                    
+
+1640      A2341   ////     A1649  HOL  3   DSF  N38E15    9                     

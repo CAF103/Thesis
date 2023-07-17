@@ -1,0 +1,30 @@
+:Product: 20210223events.txt
+:Created: 2021 Feb 26 0357 UT
+:Date: 2021 02 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Feb 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6320       0011   0016      0023  G16  5   XRA  1-8A      B3.3    1.6E-04   2804
+6320       0016   0016      0019  HOL  3   FLA  N19W04    SF                2804
+
+6330 +     0518   0534      0550  G16  5   XRA  1-8A      B1.8    3.0E-04   2805
+6330       0544   ////      0544  LEA  C   RSP  025-054   III/1                 
+
+6340       0701   0706      0714  G16  5   XRA  1-8A      B1.7    1.0E-04   2804
+
+6350       0920   0924      0936  G16  5   XRA  1-8A      B1.0    9.7E-05   2804
+
+6360       1016   1024      1030  G16  5   XRA  1-8A      B1.2    1.0E-04   2804
+
+6370       1418   1427      1432  G17  5   XRA  1-8A      B1.9    8.3E-05   2805
+
+6380 +     1448   1452      1458  G16  5   XRA  1-8A      B1.8    7.2E-05   2804
+
+6390 +     1950   1959      2003  G16  5   XRA  1-8A      B1.8    7.7E-05   2804

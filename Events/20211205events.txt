@@ -1,0 +1,36 @@
+:Product: 20211205events.txt
+:Created: 2021 Dec 08 0357 UT
+:Date: 2021 12 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6020 +     0054   0057      0102  G16  5   XRA  1-8A      C1.1    5.1E-04   2898
+
+6030 +     0104   0109      0114  G16  5   XRA  1-8A      C3.9    1.6E-03   2898
+
+6040 +     0313   0323      0335  G16  5   XRA  1-8A      C4.9    3.6E-03   2898
+
+6050 +     0608   0619      0629  G16  5   XRA  1-8A      C2.2    1.7E-03   2898
+
+6060 +     0658   0719      0736  G16  5   XRA  1-8A      M1.4    1.9E-02   2898
+6060 +     0706   0706      0707  LEA  G   RBR  245       1400                  
+6060 +     0714   ////      0718  LEA  C   RSP  048-180   III/1                 
+
+6070 +     1043   1049      1100  G16  5   XRA  1-8A      B2.9    2.9E-04   2898
+
+6080 +     1610   1622      1629  G16  5   XRA  1-8A      B2.5    2.3E-04   2902
+
+6090 +     1823   1856      1914  G16  5   XRA  1-8A      B6.9    9.3E-04   2898
+6090 +     1842   ////      1843  SAG  C   RSP  025-149   III/1                 
+
+6100       1914   1937      1956  G16  5   XRA  1-8A      C1.6    3.0E-03   2898
+6100 +     1923   ////      1954  PAL  C   RSP  025-053   VI/2                  
+
+6110 +     2232   2240      2251  G16  5   XRA  1-8A      B2.0    2.2E-04   2898

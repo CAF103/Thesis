@@ -1,0 +1,14 @@
+:Product: 20180121events.txt
+:Created: 2018 Jan 24 0357 UT
+:Date: 2018 01 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jan 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2580      B0215   ////     B0451  LEA  3   EPL  ////      0.22                  

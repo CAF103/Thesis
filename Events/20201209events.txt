@@ -1,0 +1,17 @@
+:Product: 20201209events.txt
+:Created: 2020 Dec 12 0357 UT
+:Date: 2020 12 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3720 +     0023   0033      0040  G16  5   XRA  1-8A      B1.7    9.7E-05   2791
+
+3730       0040   0053      0103  G16  5   XRA  1-8A      B3.2    3.6E-04   2791
+3730       0048   0056      0058  LEA  3   FLA  S17E04    SF      DSD       2791

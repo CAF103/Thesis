@@ -1,0 +1,14 @@
+:Product: 20170729events.txt
+:Created: 2017 Aug 01 0357 UT
+:Date: 2017 07 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1300      A1719   ////     A1350  SVI  3   DSF  N15E17    6                     

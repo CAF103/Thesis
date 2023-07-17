@@ -1,0 +1,14 @@
+:Product: 20211211events.txt
+:Created: 2021 Dec 14 0357 UT
+:Date: 2021 12 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6270 +     1847   1852      1856  G16  5   XRA  1-8A      B1.2    4.4E-05       

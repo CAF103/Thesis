@@ -1,0 +1,73 @@
+:Product: 20190417events.txt
+:Created: 2019 Apr 20 0357 UT
+:Date: 2019 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1860       0000   ////      0236  PAL  C   RSP  025-180   VI/1                  
+
+1870 +     0139   0140      0140  LEA  G   RBR  245       200                   
+
+1880       0354   0354      0356  LEA  G   RBR  245       130                   
+
+1970       0443   0453      0632  LEA  G   RNS  245       150                   
+
+1890       0510   0510      0510  SVI  G   RBR  245       130                   
+
+1900       0631   0631      0631  SVI  G   RBR  245       100                   
+
+1910 +     0751   0757      0757  SVI  G   RBR  245       190                   
+
+1920       0756   0757      0757  LEA  G   RBR  245       130                   
+
+1930 +     0813   0813      0813  SVI  G   RBR  245       130                   
+
+1940 +     0824   0824      0824  SVI  G   RBR  245       140                   
+
+1950       0853   0853      0853  SVI  G   RBR  245       120                   
+
+1960       0857   0857      0857  SVI  G   RBR  245       130                   
+
+1980 +     0935   0935      0935  SVI  G   RBR  245       110                   
+
+1990       0940   0940      0940  LEA  G   RBR  245       140                   
+
+2000       1015   1015      1016  SVI  G   RBR  245       170                   
+
+2010       1020   1021      1021  SVI  G   RBR  245       120                   
+
+2020       1033   1033      1033  SAG  G   RBR  245       100                   
+
+2030       1036   1036      1036  SAG  G   RBR  245       160                   
+
+2040       1037   1037      1037  SVI  G   RBR  245       150                   
+
+2050       1039   ////      1039  SAG  C   RSP  025-080   III/1                 
+
+2060       1046   ////      1046  SAG  C   RSP  025-081   III/1                 
+
+2070 +     1125   1125      1125  SVI  G   RBR  245       140                   
+
+2100       1131   ////      1156  SAG  C   RSP  025-081   VI/1                  
+
+2110       1426   ////      1427  SAG  C   RSP  025-082   III/2                 
+
+2120       1438   ////      1439  SAG  C   RSP  025-082   III/2                 
+
+2130       1645   ////      1651  SAG  C   RSP  025-081   III/2                 
+
+2140       1746   ////      1746  PAL  C   RSP  025-060   III/1                 
+
+2150 +     1831   ////      1831  PAL  C   RSP  025-076   III/1                 
+
+2160       2049   ////      2111  SAG  C   RSP  025-074   VI/1                  
+2160       2049   ////      2049  PAL  C   RSP  025-076   III/2                 
+
+2170       2213   2213      2214  PAL  G   RBR  245       140                   

@@ -1,0 +1,14 @@
+:Product: 20171118events.txt
+:Created: 2017 Nov 21 0357 UT
+:Date: 2017 11 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Nov 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1910 +     1748   1753      1758  G15  5   XRA  1-8A      B1.1    5.2E-05   2687

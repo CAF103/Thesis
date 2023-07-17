@@ -1,0 +1,31 @@
+:Product: 20171116events.txt
+:Created: 2017 Nov 19 0357 UT
+:Date: 2017 11 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Nov 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1810       0051   ////      0051  LEA  C   RSP  025-055   III/1                 
+
+1820       0435   ////      0435  LEA  C   RSP  025-040   III/1                 
+
+1830       0524   ////      0527  LEA  C   RSP  025-086   III/1                 
+
+1900      A0949   ////     A0335  LEA  2   DSF  S24E69    12                    
+
+1850 +     1301   ////      1305  SVI  C   RSP  025-180   III/2                 
+1850 +     1302   1306      1310  G15  5   XRA  1-8A      B3.7    9.9E-05   2687
+1850 +     1305   1305      1305  SVI  G   RBR  245       140                   
+
+1860 +     1332   ////      1333  SVI  C   RSP  025-180   III/2                 
+
+1870       1719   ////      1721  SAG  C   RSP  025-155   III/1                 
+
+1880 +     1854   1857      1859  G15  5   XRA  1-8A      B1.0    1.6E-05   2687
+1880       1856   ////      1856  SAG  C   RSP  025-141   III/1                 

@@ -1,0 +1,25 @@
+:Product: 20200607events.txt
+:Created: 2020 Jun 10 0357 UT
+:Date: 2020 06 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jun 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5700       0025   0025      0025  PAL  G   RBR  245       100                   
+
+5710 +     0025   ////      0025  PAL  C   RSP  025-180   III/2                 
+
+5720       0026   0026      0026  LEA  G   RBR  245       120                   
+
+5730       0507   0514      0527  G16  5   XRA  1-8A      B1.6    1.4E-04   2765
+
+5740       2038   2047      2051  G16  5   XRA  1-8A      B1.4    7.3E-05   2765
+
+5750       2133   2146      2156  G16  5   XRA  1-8A      B6.4    4.5E-04   2765
+5750       2143   2144      2202  HOL  3   FLA  S24E24    SF                2765

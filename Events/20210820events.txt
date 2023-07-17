@@ -1,0 +1,41 @@
+:Product: 20210820events.txt
+:Created: 2021 Aug 23 0357 UT
+:Date: 2021 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9900 +     0319   0329      0339  G16  5   XRA  1-8A      B1.3    1.5E-04       
+
+9910 +     0437   0441      0452  G16  5   XRA  1-8A      B1.5    1.3E-04       
+
+9920 +     0525   0548      0611  G16  5   XRA  1-8A      B3.9    8.4E-04   2859
+
+9930 +     0849   0901      0910  G16  5   XRA  1-8A      B4.2    4.5E-04   2859
+
+9950       1103   ////      1103  SVI  C   RSP  025-083   III/1                 
+
+9960       1103   ////      1104  SAG  C   RSP  025-075   III/1                 
+
+9970 +     1256   1305      1309  G16  5   XRA  1-8A      B2.3    1.5E-04   2859
+
+9980 +     1417   1430      1450  G16  5   XRA  1-8A      B9.3    1.1E-03   2859
+
+9990 +     1545   1548      1550  G16  5   XRA  1-8A      C1.7    4.8E-04   2859
+9990 +     1547   1547      1547  SVI  G   RBR  410       470                   
+9990       1547   1547      1547  SAG  U   RBR  245       33                    
+9990       1547   1547      1547  SAG  U   RBR  610       45                    
+
+  20 +     1550   1557      1601  G16  5   XRA  1-8A      C3.0    1.5E-03   2859
+
+  10 +     1641   1649      1659  G16  5   XRA  1-8A      C2.3    2.1E-03   2859
+
+  30 +     2130   2200      2214  G16  5   XRA  1-8A      C1.4    2.3E-03   2859
+
+  40 +     2248   2255      2301  G16  5   XRA  1-8A      B4.2    2.7E-04   2859

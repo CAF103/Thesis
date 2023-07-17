@@ -1,0 +1,21 @@
+:Product: 20170426events.txt
+:Created: 2017 Apr 29 0357 UT
+:Date: 2017 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4620 +     0229   0232      0236  G15  5   XRA  1-8A      B1.4    3.9E-05   2653
+
+4630 +     1224   1230      1246  G15  5   XRA  1-8A      B2.9    3.0E-04   2652
+
+4640 +     1528   1538      1550  G15  5   XRA  1-8A      B3.4    3.7E-04   2652
+
+4650       1736   1748      1758  HOL  3   FLA  S12E15    SF      ERU       2653
+4650       1736   1748      1759  G13  5   XRA  1-8A      B4.5    5.0E-04   2653

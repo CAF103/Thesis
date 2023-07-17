@@ -1,0 +1,20 @@
+:Product: 20210413events.txt
+:Created: 2021 Apr 16 0357 UT
+:Date: 2021 04 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Apr 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7800 +     0106   0118      0122  G16  5   XRA  1-8A      B5.9    2.2E-04   2814
+
+7810 +     0139   0152      0158  G16  5   XRA  1-8A      B5.6    3.6E-04   2814
+
+7820 +     1238   1247      1251  G16  5   XRA  1-8A      B2.7    9.4E-05   2814
+
+7860      A1606   ////     A0511  SVI  3   DSF  N34W14    6                     

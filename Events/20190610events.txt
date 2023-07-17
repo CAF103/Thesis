@@ -1,0 +1,14 @@
+:Product: 20190610events.txt
+:Created: 2019 Jun 13 0357 UT
+:Date: 2019 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4240      A1654   ////     A0422  SVI  3   DSF  N23E06    7                     

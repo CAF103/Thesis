@@ -1,0 +1,39 @@
+:Product: 20180620events.txt
+:Created: 2018 Jun 23 0357 UT
+:Date: 2018 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6230 +     0000   0006      0011  G15  5   XRA  1-8A      B1.8    8.5E-05   2714
+
+6290       0041   ////      0104  LEA  C   RSP  077-180   III/1                 
+
+6240 +     0356   0425      0433  G15  5   XRA  1-8A      B1.8    3.0E-04   2715
+6240       0406   0423      0438  LEA  3   FLA  N07E30    SF                2715
+
+6300       0936   0938      0947  SVI  3   FLA  N09E28    SF      ERU       2715
+
+6310       0948   1003      1016  SVI  3   FLA  N07E27    SF      ERU       2715
+
+6320       1017   1018      1019  SVI  3   FLA  N09E28    SF      ERU       2715
+
+6330       1139   1139      1141  SVI  3   FLA  N07E26    SF      ERU       2715
+
+6250 +     1157   1202      1205  G15  5   XRA  1-8A      B1.8    5.8E-05   2713
+
+6340       1237   1242      1309  HOL  3   FLA  N07E25    SF      DSD       2715
+
+6350       1356   1402      1414  HOL  3   FLA  N07E25    SF      BPT       2715
+
+6260 +     1928   1935      1939  G15  5   XRA  1-8A      B6.3    2.4E-04   2715
+6260       1932   1935      1947  HOL  3   FLA  N08E20    SF      ERU       2715
+
+6270 +     2258   2303      2307  G15  5   XRA  1-8A      B2.6    9.5E-05   2715
+6270       2300   2305      2308  HOL  3   FLA  N08E16    SF      DSD       2715

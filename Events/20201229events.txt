@@ -1,0 +1,32 @@
+:Product: 20201229events.txt
+:Created: 2020 Dec 31 0357 UT
+:Date: 2020 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190       1722   ////      1724  SAG  C   RSP  025-180   III/2                 
+
+5200 +     2002   ////      2003  PAL  C   RSP  025-180   III/2                 
+
+5210       2052   2104      2108  G16  5   XRA  1-8A      B6.6    3.1E-04   2795
+5210 +     2057   ////      2103  PAL  C   RSP  025-180   III/2                 
+5210       2059   2104      2110  HOL  3   FLA  S16W05    SF      ERU       2795
+
+5220       2131   ////      2132  PAL  C   RSP  025-180   III/2                 
+
+5230       2153   ////      2153  PAL  C   RSP  025-047   III/1                 
+
+5240 +     2202   ////      2202  LEA  C   RSP  025-158   III/2                 
+
+5250       2301   2302      2302  LEA  G   RBR  610       140                   
+
+5260       2314   ////      2314  LEA  C   RSP  025-091   III/1                 
+
+5270       2340   ////      2340  LEA  C   RSP  039-180   III/1                 

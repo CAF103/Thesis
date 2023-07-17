@@ -1,0 +1,39 @@
+:Product: 20171004events.txt
+:Created: 2017 Oct 07 0357 UT
+:Date: 2017 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 710 +     0120   0120      0120  LEA  G   RBR  245       150                   
+
+ 810       0121   0123      0128  LEA  G   RNS  245       230                   
+
+ 680       0125   0128      0138  G13  5   XRA  1-8A      B1.1    6.9E-05   2683
+
+ 690       0246   0249      0251  G13  5   XRA  1-8A      B1.7    2.2E-05   2683
+
+ 700 +     0347   0354      0358  G15  5   XRA  1-8A      B2.4    1.0E-04   2683
+ 700 +     0351   0352      0353  LEA  G   RBR  245       860                   
+
+ 740 +     0452   0532      0735  LEA  G   RNS  245       170                   
+
+ 750       0619   0619      0619  SVI  G   RBR  245       150                   
+
+ 760 +     0831   0831      0831  SVI  G   RBR  245       210                   
+
+ 770 +     0907   0907      0907  SVI  G   RBR  245       100                   
+
+ 780       0958   1000      1000  SVI  G   RBR  245       170                   
+
+ 730       1004   1008      1010  G15  5   XRA  1-8A      B1.2    2.5E-05   2683
+
+ 790       1046   1047      1047  SVI  G   RBR  245       160                   
+
+ 800 +     1330   1330      1330  SVI  G   RBR  245       140                   

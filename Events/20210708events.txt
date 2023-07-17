@@ -1,0 +1,36 @@
+:Product: 20210708events.txt
+:Created: 2021 Jul 11 0357 UT
+:Date: 2021 07 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jul 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7480       0409   0416      0429  G17  5   XRA  1-8A      B2.5    2.9E-04   2835
+
+7490 +     1428   1438      1445  G16  5   XRA  1-8A      B1.6    1.4E-04   2840
+
+7500       1459   ////      1500  SVI  C   RSP  025-045   III/1                 
+
+7510       1712   1719      1723  G17  5   XRA  1-8A      B1.7    1.0E-04   2837
+
+7520 +     1733   1745      1753  G16  5   XRA  1-8A      B2.8    2.6E-04   2840
+
+7530 +     1909   1914      1919  G16  5   XRA  1-8A      B1.4    7.4E-05   2840
+
+7540 +     1926   1933      1937  G16  5   XRA  1-8A      B2.6    9.7E-05   2840
+
+7550 +     1946   1953      1959  G16  5   XRA  1-8A      B1.2    8.4E-05   2840
+
+7560 +     2115   ////      2115  PAL  C   RSP  025-087   III/2                 
+
+7570       2157   2201      2207  G16  5   XRA  1-8A      B2.3    1.3E-04   2840
+
+7580 +     2213   2219      2225  G16  5   XRA  1-8A      B3.3    1.7E-04   2840
+
+7590 +     2323   2336      2350  G16  5   XRA  1-8A      B1.3    1.1E-04   2840

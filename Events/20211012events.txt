@@ -1,0 +1,57 @@
+:Product: 20211012events.txt
+:Created: 2021 Oct 15 0357 UT
+:Date: 2021 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 110       0115   0116      0118  LEA  3   FLA  N19W29    SF                2882
+
+ 120 +     0136   0146      0151  G16  5   XRA  1-8A      B9.5    4.1E-04   2882
+ 120       0144   0146      0223  LEA  3   FLA  N18W31    SF      DSD       2882
+
+ 150       0146   ////      0203  LEA  3   DSF  N23W28    6       B.9A      2882
+
+ 130 +     0203   0216      0222  G16  5   XRA  1-8A      B7.3    8.2E-04   2882
+
+ 140       0230   0245      0301  G17  5   XRA  1-8A      B8.7    1.5E-03   2882
+ 140 +     0248   0252      0305  LEA  3   FLA  N19W30    SF                2882
+ 140       0249   ////      0335  LEA  U   RSP  072-165   CTM/1             2882
+ 140       0257   ////      0300  PAL  C   RSP  123-180   III/1             2882
+ 140       0257   ////      0359  PAL  C   RSP  110-180   VI/1              2882
+
+ 160       0416   0416      0416  LEA  G   RBR  245       170                   
+ 160       0416   ////      0417  LEA  U   RSP  116-180   III/1                 
+
+ 170 +     0814   ////      0815  LEA  C   RSP  025-180   III/1                 
+
+ 180       1054   1058      1102  G16  5   XRA  1-8A      B1.3    5.3E-05   2882
+
+ 190 +     1111   1122      1127  G16  5   XRA  1-8A      B1.4    1.2E-04   2882
+
+ 200       1201   ////      1214  SVI  C   RSP  025-157   VI/2                  
+ 200 +     1202   ////      1203  SAG  C   RSP  025-180   III/2                 
+ 200 +     1204   1211      1216  G16  5   XRA  1-8A      B1.5    9.7E-05   2882
+
+ 210       1257   1305      1310  G16  5   XRA  1-8A      B1.6    1.2E-04       
+
+ 220       1404   1410      1416  G17  5   XRA  1-8A      B1.1    7.6E-05       
+
+ 230 +     1554   1602      1613  G16  5   XRA  1-8A      B5.9    4.3E-04   2882
+ 230       1559   1559      1559  SVI  G   RBR  1415      120               2882
+ 230       1600   1600      1608  HOL  3   FLA  N15W32    SF                2882
+ 230 +     1600   ////      1601  SAG  C   RSP  025-180   III/1             2882
+ 230       1600   1600      1600  SAG  U   RBR  245       140               2882
+ 230       1600   1600      1601  SAG  U   RBR  410       45                2882
+
+ 240 +     1634   1644      1648  G16  5   XRA  1-8A      B1.8    1.3E-04   2882
+
+ 250       1922   1922      1922  SAG  U   RBR  245       120                   
+
+ 260 +     2245   2252      2300  G16  5   XRA  1-8A      B1.9    1.4E-04   2882

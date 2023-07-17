@@ -1,0 +1,52 @@
+:Product: 20210704events.txt
+:Created: 2021 Jul 07 0357 UT
+:Date: 2021 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7110 +     0103   0117      0124  G16  5   XRA  1-8A      B5.7    5.4E-04   2838
+
+7120 +     0134   0149      0214  G16  5   XRA  1-8A      C2.0    3.5E-03   2838
+
+7130 +     0326   0336      0344  G16  5   XRA  1-8A      C2.1    1.3E-03   2838
+
+7140 +     0501   0509      0515  G16  5   XRA  1-8A      M1.5    6.6E-03   2838
+7140       0505   0507      0508  SVI  3   FLA  N00E00    SF      ERU       2838
+7140       0512   ////      0654  SVI  3   BSL  ////      0.17    B.9A      2838
+
+7150       0536   ////      0609  SVI  C   RSP  025-077   VI/1                  
+
+7160       0639   0640      0643  SVI  3   FLA  N19E49    SF      ERU           
+
+7170       0648   0648      0655  SVI  3   FLA  N19E49    SF      ERU           
+
+7180       0722   0725      0728  SVI  3   FLA  N19E49    SF      ERU           
+
+7190       0738   0744      0750  SVI  3   FLA  N18E47    SF      ERU       2839
+7190 +     0742   0749      0752  G16  5   XRA  1-8A      B5.6    2.9E-04   2839
+
+7220       0752   0757      0801  G16  5   XRA  1-8A      C1.3    4.7E-04   2839
+7220       0753   0757      0825  SVI  3   FLA  N18E47    SF      ERU       2839
+
+7200       0842   0845      0852  SVI  3   FLA  N18E47    SF      ERU       2839
+
+7210 +     1056   1059      1103  G16  5   XRA  1-8A      B4.7    1.7E-04   2839
+
+7230 +     1615   1621      1630  G16  5   XRA  1-8A      B3.2    2.7E-04   2839
+7230 +     1616   ////      1617  SVI  C   RSP  025-084   III/1                 
+
+7240       1724   1735      1753  G17  5   XRA  1-8A      B3.1    5.0E-04   2835
+
+7250 +     1757   1813      1818  G16  5   XRA  1-8A      C1.7    1.1E-03   2835
+7250       1810   1812      1817  HOL  3   FLA  S20W54    SF      ERU       2835
+
+7260 +     2112   2127      2145  G16  5   XRA  1-8A      B5.3    8.4E-04   2838
+
+7270       2333   ////      2347  HOL  3   DSF  N24E38    9                 2839

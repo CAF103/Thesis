@@ -1,0 +1,38 @@
+:Product: 20170710events.txt
+:Created: 2017 Jul 13 0357 UT
+:Date: 2017 07 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9030 +     0000   0031      0038  G15  5   XRA  1-8A      C1.5    2.0E-03   2665
+9030       0006   0006      0042  LEA  3   FLA  S09E31    SF                2665
+
+9050 +     0355   0415      0458  LEA  G   RNS  245       170                   
+
+9040       0555   0555      0555  LEA  G   RBR  245       270                   
+
+9060 +     0752   0755      0759  G15  5   XRA  1-8A      B3.8    1.0E-04   2665
+9060       0755   0755      0759  SVI  3   FLA  S08E13    SF      ERU       2665
+
+9100 +     1000   ////      0010  SAG  C   RSP  025-180   CTM/1                 
+
+9070 +     1409   1409      1409  SAG  G   RBR  245       130                   
+
+9080       1610   1610      1610  PAL  G   RBR  245       120                   
+
+9090       1624   1624      1625  PAL  G   RBR  245       490                   
+
+9110 +     1950   ////      1956  SAG  C   RSP  025-068   III/1                 
+
+9050       2040   2120      2244  SAG  G   RNS  410       280                   
+
+9120       2054   ////      2359  PAL  C   RSP  025-180   CTM/1                 
+
+9050       2106   2111      2114  SAG  G   RNS  610       110                   

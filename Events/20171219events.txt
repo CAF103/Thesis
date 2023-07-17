@@ -1,0 +1,14 @@
+:Product: 20171219events.txt
+:Created: 2017 Dec 22 0357 UT
+:Date: 2017 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2170 +     1952   1958      2003  G15  5   XRA  1-8A      B2.4    1.0E-04   2692

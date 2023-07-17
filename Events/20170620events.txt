@@ -1,0 +1,18 @@
+:Product: 20170620events.txt
+:Created: 2017 Jun 23 0357 UT
+:Date: 2017 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7230       0532   0540      0550  G15  5   XRA  1-8A      B1.4    1.2E-04   2663
+
+7240       0601   0718      0848  G15  5   XRA  1-8A      B1.5    2.1E-03   2664
+
+7250       2330   ////      2330  SAG  C   RSP  025-032   III/1                 

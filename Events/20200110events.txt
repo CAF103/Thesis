@@ -1,0 +1,16 @@
+:Product: 20200110events.txt
+:Created: 2020 Jan 13 0357 UT
+:Date: 2020 01 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jan 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4830 +     1152   1159      0124  G16  5   XRA  1-8A      B1.1    4.4E-05   2756
+
+4840 +     1441   1445      1451  G16  5   XRA  1-8A      B1.1    4.8E-05   2756

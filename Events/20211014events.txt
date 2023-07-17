@@ -1,0 +1,30 @@
+:Product: 20211014events.txt
+:Created: 2021 Oct 17 0357 UT
+:Date: 2021 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 460 +     0057   0102      0106  G16  5   XRA  1-8A      B5.3    2.4E-04   2885
+
+ 470 +     0124   0134      0140  G16  5   XRA  1-8A      C2.2    9.0E-04   2885
+
+ 480 +     0206   0210      0214  G16  5   XRA  1-8A      B4.3    1.7E-04   2885
+
+ 490 +     0254   0304      0314  G16  5   XRA  1-8A      C1.8    1.9E-03   2885
+
+ 500 +     0508   0513      0519  G16  5   XRA  1-8A      B2.8    1.7E-04   2885
+
+ 510 +     0519   0524      0536  G16  5   XRA  1-8A      B3.3    3.2E-04   2885
+
+ 520       1042   1043      1046  SVI  3   FLA  N16W75    SF                2885
+
+ 530 +     1249   1254      1306  G16  5   XRA  1-8A      B1.2    1.2E-04   2885
+
+ 540 +     1506   1513      1519  G16  5   XRA  1-8A      B1.0    6.0E-05   2885

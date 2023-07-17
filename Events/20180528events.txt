@@ -1,0 +1,40 @@
+:Product: 20180528events.txt
+:Created: 2018 May 31 0357 UT
+:Date: 2018 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5600       1215   1218      1220  G14  5   XRA  1-8A      B1.1    1.8E-05       
+
+5610       1221   1221      1224  HOL  3   FLA  N15E27    SF                2712
+
+5620 +     1342   1347      1351  G15  5   XRA  1-8A      B1.3    4.8E-05       
+
+5630       1405   1406      1419  HOL  3   FLA  N15E26    SF                2712
+
+5640       1425   1428      1432  HOL  3   FLA  N15E26    SF                2712
+5640 +     1426   1430      1433  G15  5   XRA  1-8A      B1.4    3.9E-05   2712
+
+5650 +     1502   1507      1511  G15  5   XRA  1-8A      B7.2    2.1E-04       
+
+5660 +     1557   1601      1605  G15  5   XRA  1-8A      B5.2    1.6E-04       
+
+5670       1614   1621      1642  HOL  3   FLA  N15E25    SF      ERU       2712
+5670 +     1629   1636      1639  G15  5   XRA  1-8A      B7.0    2.3E-04   2712
+
+5680 +     1652   1704      1705  HOL  3   FLA  N16E24    SF      ERU       2712
+5680 +     1704   1710      1712  G15  5   XRA  1-8A      C2.7    4.4E-04   2712
+
+5690       1843   1857      1904  G15  5   XRA  1-8A      B2.0    1.9E-04   2712
+5690       1843   1844      1857  HOL  3   FLA  N16E24    SF      ERU       2712
+
+5700       1938   1938      1941  HOL  4   FLA  N15E22    SF      ERU       2712
+
+5710       2050   2054      2057  G15  5   XRA  1-8A      B1.7    4.6E-05   2712

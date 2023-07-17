@@ -1,0 +1,16 @@
+:Product: 20170726events.txt
+:Created: 2017 Jul 29 0357 UT
+:Date: 2017 07 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1270       0022   0023      0027  HOL  3   FLA  N04E56    SF                    
+
+1280      A1259   ////     A0636  SVI  3   DSF  N07W29    8                     

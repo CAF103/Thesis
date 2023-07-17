@@ -1,0 +1,21 @@
+:Product: 20210623events.txt
+:Created: 2021 Jun 26 0357 UT
+:Date: 2021 06 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jun 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5800       0643   0707      0734  G16  5   XRA  1-8A      C3.4    6.2E-03       
+5800 +     0705   ////      0715  LEA  C   RSP  025-078   II/2    1005          
+
+5810 +     0740   ////      0917  LEA  3   LPS  ////      0.03                  
+
+5820       1222   ////      1222  SAG  C   RSP  025-046   III/1                 
+
+5830 +     2010   2026      2042  G16  5   XRA  1-8A      B2.8    4.6E-04       

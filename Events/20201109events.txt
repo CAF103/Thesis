@@ -1,0 +1,24 @@
+:Product: 20201109events.txt
+:Created: 2020 Nov 12 0357 UT
+:Date: 2020 11 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9740       0415   ////      0523  LEA  C   RSP  093-177   CTM/1                 
+
+9730       0424   0424      0424  LEA  G   RBR  245       120                   
+
+9750       0546   0558      0613  G16  5   XRA  1-8A      B3.0    4.2E-04   2781
+
+9770       0843   ////      1059  SVI  C   RSP  116-161   CTM/1                 
+
+9760 +     0957   1005      1025  G16  5   XRA  1-8A      B3.1    2.0E-04   2781
+
+9780 +     1410   ////      1410  SVI  C   RSP  025-145   III/2                 

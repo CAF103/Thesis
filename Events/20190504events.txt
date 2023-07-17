@@ -1,0 +1,23 @@
+:Product: 20190504events.txt
+:Created: 2019 May 07 0357 UT
+:Date: 2019 05 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 May 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2700       0147   ////      0258  LEA  C   RSP  112-180   CTM/1                 
+
+2710       0343   ////      0343  LEA  C   RSP  027-042   III/1                 
+
+2720 +     1300   1308      1315  G15  5   XRA  1-8A      B2.2    1.7E-04   2740
+
+2730 +     2203   2210      2223  G15  5   XRA  1-8A      B2.7    2.4E-04   2740
+
+2740 +     2228   2243      2257  G15  5   XRA  1-8A      C2.1    2.3E-03   2740
+2740       2238   2239      2314  HOL  3   FLA  N07E72    SF      ERU       2740

@@ -1,0 +1,73 @@
+:Product: 20170405events.txt
+:Created: 2017 Apr 08 0357 UT
+:Date: 2017 04 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2800       0000   ////      0532  LEA  C   RSP  072-180   CTM/1                 
+
+2750       0004   0005      0008  HOL  3   FLA  S09W50    SF      BPT       2645
+
+2760       0118   0121      0123  G15  5   XRA  1-8A      B5.7    9.5E-05       
+
+2810       0200   ////      0437  PAL  C   RSP  025-114   VI/1                  
+
+2770       0207   0207      0207  PAL  G   RBR  245       100                   
+
+2780       0221   ////      0228  LEA  C   RSP  025-089   III/1                 
+
+2790 +     0245   0250      0253  G15  5   XRA  1-8A      B9.8    3.1E-04       
+
+2820       0318   0322      0327  G13  5   XRA  1-8A      B5.0    1.9E-04       
+
+2830       0451   0455      0458  G15  5   XRA  1-8A      C1.1    2.8E-04   2645
+2830       0454   0457      0501  LEA  3   FLA  S13W52    SF                2645
+
+2840 +     0505   ////      0505  LEA  C   RSP  025-065   III/1                 
+
+2850 +     0639   ////      0640  LEA  C   RSP  025-114   III/1                 
+
+2860       0721   ////      0721  SVI  C   RSP  025-047   III/1                 
+
+2870 +     0808   ////      0809  LEA  C   RSP  025-136   III/1                 
+
+2880 +     0837   0937      0942  G15  5   XRA  1-8A      C1.0    4.2E-04   2645
+2880 +     0907   ////      0918  LEA  C   RSP  025-158   VI/2              2645
+2880       0934   0936      0939  LEA  3   FLA  S12W53    SF                2645
+
+2890 +     1224   1229      1238  G15  5   XRA  1-8A      B4.3    2.9E-04       
+
+2910 +     1343   ////      1514  SVI  C   RSP  105-171   CTM/1                 
+
+2900       1358   ////      1358  SAG  C   RSP  025-124   III/1                 
+2900       1358   ////      1422  SVI  C   RSP  025-134   VI/2                  
+
+2910       1419   1419      1419  SVI  G   RBR  245       100                   
+
+2920       1446   1446      1446  SVI  G   RBR  245       130                   
+
+2930 +     1506   1507      1508  SAG  G   RBR  245       260                   
+
+2940 +     1510   1510      1511  SAG  G   RBR  245       290                   
+
+2950 +     1551   1555      1558  G15  5   XRA  1-8A      B5.9    1.5E-04       
+2950       1554   ////      1600  SVI  C   RSP  036-114   III/1                 
+
+2960       1703   ////      1841  PAL  C   RSP  078-180   CTM/1             2645
+2960       1710   1711      1711  PAL  G   RBR  245       170               2645
+2960 +     1734   1740      1745  G15  5   XRA  1-8A      B9.1    4.3E-04   2645
+2960       1735   1737      1752  HOL  3   FLA  S10W57    SF      DSD       2645
+2960 +     1740   1740      1740  SAG  G   RBR  410       150               2645
+
+2970 +     2014   ////      2018  SAG  C   RSP  025-082   III/1                 
+
+2980       2333   2333      2333  PAL  G   RBR  410       170                   
+
+2990       2339   2340      2351  HOL  2   FLA  S10W60    SF      DSD       2645

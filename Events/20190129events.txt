@@ -1,0 +1,35 @@
+:Product: 20190129events.txt
+:Created: 2019 Feb 01 0357 UT
+:Date: 2019 01 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Jan 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8120 +     0503   0507      0523  G15  5   XRA  1-8A      B2.4    2.2E-04   2733
+8120       0509   0509      0513  LEA  3   FLA  N03W67    SF                2733
+
+8130       0635   ////      0649  LEA  C   RSP  040-094   VI/1              2733
+8130 +     0636   0641      0645  G15  5   XRA  1-8A      B2.6    8.7E-05   2733
+
+8140 +     0720   0736      0742  G15  5   XRA  1-8A      B8.4    4.8E-04   2733
+8140       0722   ////      0722  LEA  C   RSP  038-082   III/1             2733
+
+8150       0823   ////      0823  LEA  C   RSP  037-090   III/1             2733
+
+8160       0858   ////      0859  LEA  C   RSP  030-151   III/2             2733
+
+8170 +     1021   1034      1040  G15  5   XRA  1-8A      C1.9    9.6E-04   2733
+
+8190 +     1503   1522      1536  G15  5   XRA  1-8A      B3.5    5.3E-04   2733
+
+8350      A2044   ////     A1902  HOL  3   DSF  S19W64    5                     
+
+8360      A2044   ////     A1902  HOL  3   DSF  S56E02    14                    
+
+8200 +     2118   2129      2148  G15  5   XRA  1-8A      C2.0    2.8E-03   2733

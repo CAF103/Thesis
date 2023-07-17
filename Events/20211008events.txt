@@ -1,0 +1,55 @@
+:Product: 20211008events.txt
+:Created: 2021 Oct 11 0357 UT
+:Date: 2021 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9310       0206   0213      0219  G16  5   XRA  1-8A      B1.3    9.1E-05       
+
+9320 +     0350   0354      0358  G16  5   XRA  1-8A      B1.5    6.7E-05       
+
+9330       0418   0424      0428  G17  5   XRA  1-8A      B1.9    9.3E-05       
+
+9340       0449   0455      0459  G17  5   XRA  1-8A      B1.7    8.5E-05       
+9340       0455   0456      0457  LEA  3   FLA  N18E24    SF                    
+
+9350 +     0558   0601      0606  G16  5   XRA  1-8A      B1.8    7.8E-05       
+9350       0601   0601      0602  LEA  3   FLA  N19E24    SF                    
+
+9360 +     0633   0636      0640  G16  5   XRA  1-8A      B1.4    5.7E-05       
+
+9370 +     0708   0712      0718  G16  5   XRA  1-8A      B1.6    8.4E-05       
+9370       0711   0712      0715  LEA  3   FLA  N18E22    SF                    
+
+9380 +     0723   ////      0755  LEA  C   RSP  025-099   VI/1                  
+9380 +     0724   0724      0727  LEA  3   FLA  N18E23    SF                    
+9380 +     0737   0740      0744  G16  5   XRA  1-8A      B3.7    9.2E-05       
+
+9390       0738   ////      0811  LEA  2   DSF  N29W65    6                 2880
+
+9400 +     1101   1108      1115  G16  5   XRA  1-8A      C1.9    1.4E-03   2882
+
+9410       1142   1142      1142  SAG  U   RBR  245       140                   
+
+9420       1154   1154      1154  SAG  U   RBR  245       100                   
+
+9430       1804   ////      1804  SAG  C   RSP  025-084   III/1                 
+
+9440 +     1815   1821      1826  G16  5   XRA  1-8A      B1.9    9.0E-05       
+9440       1821   ////      1821  SAG  C   RSP  025-085   III/1                 
+
+9450       1846   ////      1846  SAG  C   RSP  025-067   III/1                 
+
+9460 +     1919   1956      2016  G16  5   XRA  1-8A      C2.7    4.4E-03   2882
+9460       2002   ////      2002  PAL  C   RSP  025-052   III/1                 
+
+9470       2054   ////      2055  PAL  C   RSP  025-037   III/1                 
+
+9480       2256   ////      2257  LEA  C   RSP  040-125   III/1                 

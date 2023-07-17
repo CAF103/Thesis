@@ -1,0 +1,18 @@
+:Product: 20210302events.txt
+:Created: 2021 Mar 05 0357 UT
+:Date: 2021 03 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Mar 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7040       1618   1627      1636  G17  5   XRA  1-8A      B1.9    1.3E-04       
+
+7050 +     1819   1822      1826  G16  5   XRA  1-8A      B1.3    4.4E-05   2807
+
+7060 +     2353   0003      0007  G16  5   XRA  1-8A      C1.2    2.8E-04   2807

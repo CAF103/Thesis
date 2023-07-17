@@ -1,0 +1,39 @@
+:Product: 20200921events.txt
+:Created: 2020 Sep 24 0357 UT
+:Date: 2020 09 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Sep 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6520 +     0046   0051      0055  G16  5   XRA  1-8A      B1.1    5.1E-05       
+
+6530 +     0156   0201      0205  G16  5   XRA  1-8A      B1.4    6.0E-05       
+
+6540 +     0207   0213      0218  G16  5   XRA  1-8A      B1.7    9.6E-05       
+
+6550 +     0702   0707      0713  G16  5   XRA  1-8A      B1.2    5.8E-05       
+
+6560       0844   0848      0852  G16  5   XRA  1-8A      B2.0    7.1E-05       
+
+6570 +     0940   0957      1005  G16  5   XRA  1-8A      B2.1    1.8E-04       
+
+6580 +     1005   1018      1026  G16  5   XRA  1-8A      B2.6    2.7E-04       
+
+6590 +     1049   1052      1103  G16  5   XRA  1-8A      B3.1    2.4E-04       
+
+6600 +     1224   1242      1252  G16  5   XRA  1-8A      B4.3    4.3E-04       
+
+6610 +     1318   1325      1330  G16  5   XRA  1-8A      B2.1    1.0E-04       
+
+6620 +     1352   1358      1405  G16  5   XRA  1-8A      B1.1    8.2E-05       
+
+6630       1634   1637      1641  G16  5   XRA  1-8A      B1.6    5.2E-05       
+6630       1641   1649      1653  G16  5   XRA  1-8A      B1.4    8.3E-05       
+
+6640 +     1932   1945      1957  G16  5   XRA  1-8A      B1.4    1.8E-04       

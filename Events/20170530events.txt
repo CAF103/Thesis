@@ -1,0 +1,22 @@
+:Product: 20170530events.txt
+:Created: 2017 Jun 02 0357 UT
+:Date: 2017 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5670 +     0401   0407      0415  G15  5   XRA  1-8A      B2.9    1.9E-04   2659
+
+5680       0558   0601      0603  G15  5   XRA  1-8A      B1.3    2.3E-05   2659
+
+5690       0630   0638      0654  G13  5   XRA  1-8A      B1.4    1.7E-04       
+
+5700 +     1839   1844      1847  G15  5   XRA  1-8A      B4.3    1.3E-04   2659
+
+5710 +     1944   1947      1951  G15  5   XRA  1-8A      B6.8    1.6E-04   2659

@@ -1,0 +1,53 @@
+:Product: 20170703events.txt
+:Created: 2017 Jul 06 0357 UT
+:Date: 2017 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7520 +     0617   0621      0625  G15  5   XRA  1-8A      B3.5    9.8E-05   2664
+7520       0620  U0621     A0631  SVI  3   FLA  S00W87    SF      ERU           
+
+7540       0621   0621      0624  LEA  3   FLA  N02W89    SF                    
+
+7530 +     0633   0637      0639  G15  5   XRA  1-8A      B8.0    1.5E-04   2664
+7530       0633   0635      0648  SVI  3   FLA  S00W87    SF      ERU           
+
+7570       0634   0635      0642  LEA  3   FLA  N02W89    SF                    
+
+7550 +     0706   0710      0712  G15  5   XRA  1-8A      B1.9    3.6E-05   2664
+
+7560 +     0728   0731      0734  G15  5   XRA  1-8A      B1.3    2.8E-05   2664
+
+7580 +     0847   0900      0908  G15  5   XRA  1-8A      B2.4    2.0E-04   2664
+
+7590 +     0943   0950      1004  G15  5   XRA  1-8A      B2.2    2.3E-04   2664
+
+7600 +     1031   1051      1103  G15  5   XRA  1-8A      B2.7    4.4E-04   2664
+
+7610 +     1121   1125      1129  G15  5   XRA  1-8A      B2.6    8.8E-05   2664
+
+7620 +     1236   1247      1253  G15  5   XRA  1-8A      B4.0    2.8E-04       
+
+7630 +     1305   ////      1305  SVI  C   RSP  025-060   III/1                 
+
+7640 +     1331   1335      1337  G15  5   XRA  1-8A      B6.2    1.0E-04       
+
+7650 +     1537   1615      1618  G15  5   XRA  1-8A      M1.3    4.3E-03       
+7650 +     1615   1615      1615  SAG  G   RBR  245       140                   
+7650       1615   1615      1615  PAL  G   RBR  410       110                   
+7650 +     1616   ////      1618  SAG  C   RSP  103-180   III/1                 
+
+7660 +     1747   1758      1802  G15  5   XRA  1-8A      B9.2    5.3E-04       
+
+7670 +     1812   1817      1821  G15  5   XRA  1-8A      B8.7    2.8E-04       
+
+7680 +     1913   1917      1922  G15  5   XRA  1-8A      B2.6    1.0E-04       
+
+7690 +     2051   2054      2056  G15  5   XRA  1-8A      B1.5    2.6E-05       

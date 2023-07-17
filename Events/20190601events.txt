@@ -1,0 +1,16 @@
+:Product: 20190601events.txt
+:Created: 2019 Jun 04 0357 UT
+:Date: 2019 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4200       0304   ////      0544  LEA  3   DSF  N41E11    30                    
+
+4210 +     1448   1454      1500  G15  5   XRA  1-8A      B2.2    1.1E-04       

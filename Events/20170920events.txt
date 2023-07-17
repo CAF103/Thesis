@@ -1,0 +1,33 @@
+:Product: 20170920events.txt
+:Created: 2017 Sep 23 0357 UT
+:Date: 2017 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9710       0130   0137      0143  G15  5   XRA  1-8A      B1.2    7.3E-05       
+
+9720 +     0251   0257      0321  G15  5   XRA  1-8A      B1.7    2.6E-04       
+
+9730       0525   0531      0540  G15  5   XRA  1-8A      B1.4    9.3E-05       
+
+9740       0836   0843      0848  G13  5   XRA  1-8A      B1.5    8.3E-05       
+
+9750 +     0942   0950      0955  G15  5   XRA  1-8A      B3.2    1.6E-04   2681
+
+9760 +     1231   1243      1252  G15  5   XRA  1-8A      B5.4    4.4E-04   2681
+
+9770 +     1926   1932      1937  G15  5   XRA  1-8A      B8.4    3.1E-04   2680
+9770 +     1930   ////      1931  PAL  C   RSP  025-082   III/2                 
+
+9780       1955   ////      1955  SAG  C   RSP  025-069   III/1                 
+
+9790       2000   2003      2009  G15  5   XRA  1-8A      B1.0    3.9E-05   2680
+
+9800       2158   2201      2204  G15  5   XRA  1-8A      B1.0    2.1E-05   2680

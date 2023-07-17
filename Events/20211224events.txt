@@ -1,0 +1,66 @@
+:Product: 20211224events.txt
+:Created: 2021 Dec 27 0357 UT
+:Date: 2021 12 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8380 +     0046   0057      0107  G16  5   XRA  1-8A      C1.2    1.4E-03       
+
+8390 +     0227   0243      0258  G16  5   XRA  1-8A      C5.1    6.1E-03   2907
+8390       0233   0311      0314  LEA  3   FLA  S20W57    1F      ERU       2907
+
+8400 +     0325   0342      0350  G16  5   XRA  1-8A      C7.4    7.7E-03   2917
+8400       0331   0334      0413  LEA  3   FLA  S30E22    1F      ERU       2917
+
+8410       0522   0523      0523  LEA  3   FLA  S18W39    SF                2908
+
+8420 +     0602   0610      0617  G16  5   XRA  1-8A      C1.6    1.2E-03   2908
+
+8430 +     0620   0627      0648  G16  5   XRA  1-8A      C5.7    6.6E-03   2908
+
+8490       0624   0624      0628  LEA  3   FLA  S20W57    SF      ERU       2907
+
+8430 +     0625   0627      0636  LEA  3   FLA  S18W39    SF      DSD       2908
+
+8440       0650   0652      0653  LEA  3   FLA  S20W57    SF                2907
+
+8450 +     0702   0719      0734  G16  5   XRA  1-8A      C5.5    8.6E-03   2907
+8450       0706   0707      0710  LEA  3   FLA  S20W57    SF      DSD       2907
+
+8460 +     0747   0752      0756  G16  5   XRA  1-8A      C3.7    1.9E-03   2908
+
+8470 +     0810   0820      0829  G16  5   XRA  1-8A      C3.0    3.2E-03   2907
+
+8480 +     0959   1013      1020  G16  5   XRA  1-8A      C4.2    1.9E-03   2908
+8480 +     1007   1009      1013  SVI  3   FLA  S21W57    SF                2908
+
+8500 +     1133   1212      1236  G16  5   XRA  1-8A      C5.2    1.4E-02   2908
+8500       1212   1212      1212  SVI  G   RBR  245       210               2908
+8500       1215   ////      1243  SVI  C   RSP  075-180   CTM/1             2908
+8500      B1216  U1216      1250  SVI  3   FLA  S21W58    SF      PRB       2908
+
+8530       1230   1304      1318  SVI  G   RNS  245       220                   
+
+8510       1242   1242      1242  SAG  U   RBR  245       110                   
+
+8520       1330   1330      1336  SVI  3   FLA  N22E31    SF                2918
+
+8540       1813   1813      1813  SAG  U   RBR  245       160                   
+
+8550       1821   1821      1821  SAG  U   RBR  245       150                   
+
+8560       2017   2017      2017  PAL  G   RBR  245       160                   
+
+8570 +     2157   2202      2207  G16  5   XRA  1-8A      C1.4    7.5E-04   2908
+
+8580 +     2227   2235      2253  G16  5   XRA  1-8A      C1.3    1.9E-03   2908
+
+8590 +     2256   2307      2320  G16  5   XRA  1-8A      C1.8    2.3E-03   2908
+8590       2309   2309      2309  LEA  G   RBR  245       160                   

@@ -1,0 +1,46 @@
+:Product: 20201108events.txt
+:Created: 2020 Nov 11 0357 UT
+:Date: 2020 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9590       0059   0106      0109  G16  5   XRA  1-8A      B5.3    2.1E-04   2781
+
+9580       0105   0112      0136  LEA  3   FLA  S20E17    SF                2781
+9580       0109   0115      0119  G16  5   XRA  1-8A      C2.3    9.8E-04   2781
+
+9600       0202   0208      0213  G16  5   XRA  1-8A      B6.4    2.6E-04   2781
+9600       0207   0208      0214  LEA  3   FLA  S20E17    SF                2781
+
+9610       0408   0416      0427  G16  5   XRA  1-8A      B3.9    3.6E-04   2781
+
+9620       0513   0518      0523  G16  5   XRA  1-8A      C5.7    1.8E-03   2781
+9620       0516   0517      0541  LEA  3   FLA  S20E17    1N                2781
+
+9630       0620   ////      0620  SVI  C   RSP  165-175   III/1                 
+
+9640       1153   1202      1207  G16  5   XRA  1-8A      B6.2    2.9E-04   2781
+
+9650       1207   1212      1219  G16  5   XRA  1-8A      B6.3    4.3E-04   2781
+
+9660       1301   ////      2005  SAG  C   RSP  136-168   CTM/1                 
+
+9670 +     1411   ////      1411  SVI  C   RSP  030-083   III/1                 
+
+9680       1458   1506      1515  G16  5   XRA  1-8A      B4.8    4.3E-04   2781
+
+9710       1618   1628      1633  G16  5   XRA  1-8A      B3.4    2.2E-04   2781
+
+9690       1633   1640      1649  G16  5   XRA  1-8A      B4.2    3.9E-04   2781
+
+9700       1921   1931      1941  G16  5   XRA  1-8A      B4.4    3.9E-04   2781
+9700       1938   ////      2010  PAL  C   RSP  025-067   III/1                 
+
+9720       2100   ////      2100  PAL  C   RSP  025-067   III/1                 

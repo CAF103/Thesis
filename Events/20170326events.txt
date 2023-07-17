@@ -1,0 +1,39 @@
+:Product: 20170326events.txt
+:Created: 2017 Mar 29 0357 UT
+:Date: 2017 03 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Mar 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9720 +     0229   0234      0241  G15  5   XRA  1-8A      B4.0    1.7E-04   2644
+9720       0232   0233      0238  LEA  3   FLA  N15E50    SF                    
+
+9730 +     0320   0328      0335  G15  5   XRA  1-8A      B1.3    9.4E-05   2644
+
+9740       1029   1032      1037  G15  5   XRA  1-8A      B1.0    3.3E-05   2644
+
+9750 +     1307   1312      1325  G15  5   XRA  1-8A      B1.6    1.4E-04   2644
+
+9760       1336   1343      1348  HOL  2   FLA  N12E39    SF      DSD       2644
+
+9770       1517   1535      1547  SVI  3   FLA  N21E43    SF      ERU       2644
+9770       1523   1527      1529  G13  5   XRA  1-8A      B1.3    3.0E-05   2644
+
+9780 +     1554   1558      1605  G15  5   XRA  1-8A      B1.8    8.9E-05   2644
+
+9790       1817   1830      1838  HOL  3   FLA  N14E40    SF      ERU       2644
+
+9800 +     1902   1905      1911  G15  5   XRA  1-8A      B1.7    6.3E-05   2644
+
+9810 +     2121   2128      2141  G15  5   XRA  1-8A      B4.0    3.6E-04   2644
+
+9820 +     2300   2317      2326  G15  5   XRA  1-8A      B2.0    2.6E-04   2644
+
+9830 +     2349   ////      0008  G15  5   XRA  1-8A      C1.3    8.6E-04   2644
+9830 +     2352   2358     A2359  LEA  3   FLA  N12E33    SF                2644

@@ -1,0 +1,16 @@
+:Product: 20200405events.txt
+:Created: 2020 Apr 08 0357 UT
+:Date: 2020 04 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Apr 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5150 +    A0741   ////     A0635  SVI  3   DSF  S50E49    14                    
+
+5140 +    A0741   ////     A0635  SVI  3   DSF  S28E44    6                     

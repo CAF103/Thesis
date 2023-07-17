@@ -1,0 +1,16 @@
+:Product: 20171112events.txt
+:Created: 2017 Nov 15 0357 UT
+:Date: 2017 11 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Nov 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1680 +     2000   2020      2029  G15  5   XRA  1-8A      B1.8    2.4E-04       
+
+1690 +     2256   2300      2303  G15  5   XRA  1-8A      B2.4    6.2E-05       

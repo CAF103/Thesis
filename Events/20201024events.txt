@@ -1,0 +1,17 @@
+:Product: 20201024events.txt
+:Created: 2020 Oct 27 0357 UT
+:Date: 2020 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7340       0037   ////      0037  LEA  C   RSP  050-090   III/1                 
+
+7350       2045   2054      2058  G16  5   XRA  1-8A      B2.3    8.3E-05   2776
+7350       2052   2053      2057  HOL  3   FLA  S18W65    SF                2776

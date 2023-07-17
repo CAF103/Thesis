@@ -1,0 +1,16 @@
+:Product: 20210731events.txt
+:Created: 2021 Aug 03 0357 UT
+:Date: 2021 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9480       1417   ////      1417  SAG  C   RSP  046-180   III/1                 
+
+9490       1605   1748      1941  G16  5   XRA  1-8A      B2.4    2.3E-03   2849

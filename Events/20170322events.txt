@@ -1,0 +1,16 @@
+:Product: 20170322events.txt
+:Created: 2017 Mar 25 0357 UT
+:Date: 2017 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9680      A1621   ////     A0724  SVI  3   DSF  N10E32    11                    
+
+9670       1821   1858      1915  G15  5   XRA  1-8A      B3.3    5.9E-04   2643

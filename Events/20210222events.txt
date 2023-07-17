@@ -1,0 +1,22 @@
+:Product: 20210222events.txt
+:Created: 2021 Feb 25 0357 UT
+:Date: 2021 02 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Feb 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6280 +     1702   1707      1713  G16  5   XRA  1-8A      B4.5    1.8E-04   2804
+6280       1705   1707      1713  HOL  3   FLA  N19W01    SF      DSF       2804
+
+6290       2028   2029      2036  HOL  3   FLA  N19W03    SF      ERU       2804
+
+6300       2119   2129      2136  G16  5   XRA  1-8A      B5.4    2.7E-04   2804
+6300       2128   2131      2136  HOL  3   FLA  N19W03    SF                2804
+
+6310       2234   2239      2250  G16  5   XRA  1-8A      B1.5    1.3E-04   2804

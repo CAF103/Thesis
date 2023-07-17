@@ -1,0 +1,20 @@
+:Product: 20190308events.txt
+:Created: 2019 Mar 11 0357 UT
+:Date: 2019 03 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Mar 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8550 +     0307   0319      0358  G15  5   XRA  1-8A      C1.3    3.0E-03   2734
+8550 +     0315   ////      0327  LEA  C   RSP  027-055   II/2    683       2734
+8550       0330   ////      0356  LEA  C   RSP  025-180   VII/2             2734
+8550       0330   ////      0332  PAL  U   RSP  025-180   III/1             2734
+8550       0333   ////      0349  PAL  U   RSP  078-180   V/1               2734
+8550 +     0334   0335      0336  LEA  G   RBR  245       140               2734
+8550      B0338  U0339      0417  LEA  3   FLA  N09W03    SF      UMB       2734

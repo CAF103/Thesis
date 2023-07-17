@@ -1,0 +1,34 @@
+:Product: 20210120events.txt
+:Created: 2021 Jan 23 0357 UT
+:Date: 2021 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5720       0103   0113      0118  G16  5   XRA  1-8A      B7.0    2.8E-04   2798
+
+5730       0608   0613      0621  G16  5   XRA  1-8A      B1.8    9.6E-05   2798
+
+5740 +     0637   0656      0659  G16  5   XRA  1-8A      B1.7    2.1E-04   2798
+
+5750       0949   0952      0958  G16  5   XRA  1-8A      B1.6    6.9E-05   2798
+
+5760       1001   1011      1023  G16  5   XRA  1-8A      B7.0    5.4E-04   2798
+5760       1015   1017      1022  LEA  2   FLA  S17E56    SF      ERU       2798
+
+5770 +     1235   1253      1259  G16  5   XRA  1-8A      C1.4    1.2E-03   2798
+5770       1306  U1306     A1310  SVI  3   FLA  S19E51    SF      ERU       2798
+
+5780 +     1729   1733      1739  G16  5   XRA  1-8A      B3.1    1.6E-04   2798
+
+5790       1825   1829      1834  G16  5   XRA  1-8A      B2.0    7.4E-05   2798
+
+5800       1927   1936      1944  G16  5   XRA  1-8A      B1.1    8.6E-05   2798
+
+5810       2354   0006      0016  G16  5   XRA  1-8A      B2.6    2.3E-04   2798

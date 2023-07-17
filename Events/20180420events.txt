@@ -1,0 +1,27 @@
+:Product: 20180420events.txt
+:Created: 2018 Apr 23 0357 UT
+:Date: 2018 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4840       0628   ////      0843  SVI  3   DSF  N48W58    10                    
+
+4850       0648   ////      0813  LEA  2   DSF  N43W45    9                     
+
+4790       0816   0819      0823  G15  5   XRA  1-8A      B1.1    3.1E-05   2706
+
+4800       0939   0942      0947  G15  5   XRA  1-8A      B1.0    3.4E-05   2706
+
+4810       1358   1358      1400  SAG  G   RBR  245       170                   
+
+4830 +     1655   1704      1712  G15  5   XRA  1-8A      B5.3    4.0E-04   2706
+
+4860 +     2212   2219      2225  G15  5   XRA  1-8A      B3.6    1.8E-04   2706
+4860       2215   2216      2226  HOL  2   FLA  N02E59    SF      ERU       2706

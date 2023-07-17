@@ -1,0 +1,41 @@
+:Product: 20170925events.txt
+:Created: 2017 Sep 28 0357 UT
+:Date: 2017 09 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  20 +     0214   0235      0246  G15  5   XRA  1-8A      B5.7    7.8E-04   2681
+
+  30 +     0654   0654      0654  SVI  G   RBR  245       110                   
+
+  40       1106   ////      1107  SVI  C   RSP  025-152   III/2                 
+
+  50 +     1251   1256      1259  G15  5   XRA  1-8A      B3.3    9.8E-05       
+
+  60 +     1423   ////      1424  SVI  C   RSP  025-171   III/2                 
+
+  70       1435   1514      1532  G15  5   XRA  1-8A      B5.9    1.4E-03   2681
+  70      B1502  U1509     A1556  SVI  3   FLA  S09E10    SF      ERU       2681
+  70 +     1521   ////      1629  SVI  C   RSP  025-171   VI/2              2681
+
+  80 +     1709   1712      1714  G15  5   XRA  1-8A      B2.9    4.4E-05   2681
+  80 +     1711   1711      1711  SAG  G   RBR  410       270                   
+  80 +     1711   ////      1712  PAL  C   RSP  025-180   III/2                 
+  80 +     1711   1711      1711  SAG  G   RBR  245       200                   
+
+ 120       2011   ////      2310  HOL  2   DSF  S07E61    10                2683
+
+  90       2038   2046      2058  G15  5   XRA  1-8A      B2.5    2.5E-04   2683
+
+ 100       2131   2131      2131  PAL  G   RBR  245       120                   
+
+ 110       2134   2134      2134  PAL  G   RBR  245       140                   
+
+ 130       2226   ////      2359  LEA  C   RSP  025-180   CTM/2                 

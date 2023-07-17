@@ -1,0 +1,52 @@
+:Product: 20190408events.txt
+:Created: 2019 Apr 11 0357 UT
+:Date: 2019 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 120       0421   ////      1002  LEA  C   RSP  057-172   CTM/1                 
+
+  80       0437   ////      0505  LEA  U   RSP  059-137   II/1    359           
+
+  90       0535   ////      0535  LEA  C   RSP  033-050   III/2                 
+
+ 100       0615   0625      0635  G15  5   XRA  1-8A      B2.7    2.5E-04   2738
+
+ 110       0702   0704      0710  LEA  G   RBR  245       190                   
+
+ 130       0727   0729      0730  LEA  G   RBR  245       150                   
+
+ 140       0949   0952      0954  G15  5   XRA  1-8A      B1.0    1.7E-05   2738
+
+ 150       1047   ////      1555  SAG  C   RSP  054-180   CTM/1                 
+
+ 160 +     1355   1400      1408  G15  5   XRA  1-8A      B5.6    2.7E-04   2738
+ 160       1358   1359      1406  HOL  3   FLA  N06E68    SF      ERU       2738
+
+ 170 +     1550   1553      1557  G15  5   XRA  1-8A      B2.6    6.6E-05   2738
+ 170       1552   1553      1557  HOL  3   FLA  N06E68    SF                2738
+
+ 180       1601   1613      1617  G15  5   XRA  1-8A      B3.3    2.3E-04   2738
+
+ 190 +     1923   1923      1923  PAL  G   RBR  245       120                   
+
+ 200       1947   1947      1947  PAL  G   RBR  245       120                   
+
+ 210       1948   1948      1948  SAG  G   RBR  245       110                   
+
+ 230       2018   ////      2027  PAL  C   RSP  025-056   III/1                 
+
+ 220       2018   ////      2026  SAG  C   RSP  025-053   III/1                 
+
+ 240       2100   ////      2130  SAG  C   RSP  112-180   CTM/1                 
+
+ 250 +     2220   2225      2229  G15  5   XRA  1-8A      B1.7    6.6E-05   2738
+
+ 260       2252   ////      2359  LEA  C   RSP  130-180   CTM/1                 

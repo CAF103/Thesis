@@ -1,0 +1,18 @@
+:Product: 20170123events.txt
+:Created: 2017 Jan 26 0357 UT
+:Date: 2017 01 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jan 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5360      A0000   ////     A1435  HOL  3   DSF  S23W30    9                     
+
+5350       0233   ////      0549  LEA  3   EPL  ////      0.15                  
+
+5340       0413   ////      0414  LEA  C   RSP  031-180   III/1                 

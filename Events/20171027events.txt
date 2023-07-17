@@ -1,0 +1,14 @@
+:Product: 20171027events.txt
+:Created: 2017 Oct 30 0357 UT
+:Date: 2017 10 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Oct 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1600 +     0036   0044      0050  G15  5   XRA  1-8A      B1.8    1.1E-04   2686

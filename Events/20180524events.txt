@@ -1,0 +1,31 @@
+:Product: 20180524events.txt
+:Created: 2018 May 27 0357 UT
+:Date: 2018 05 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 May 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5390 +     0258   0320      0339  G15  5   XRA  1-8A      B3.0    5.1E-04   2712
+
+5400 +     0616   0623      0635  G15  5   XRA  1-8A      B4.5    3.3E-04   2712
+
+5410 +     1116   1120      1138  G15  5   XRA  1-8A      B1.2    1.2E-04   2712
+
+5420 +     1222   1230      1235  G15  5   XRA  1-8A      B9.8    4.2E-04   2710
+5420       1226   1228      1234  SVI  3   FLA  N16E33    SF                2710
+
+5470      B1229  U1237      1247  HOL  3   FLA  N16E34    SF      ERU       2710
+
+5430       1353   1401      1405  HOL  3   FLA  N14E79    SF                2712
+
+5440 +     1528   1532      1536  G15  5   XRA  1-8A      B1.4    4.8E-05   2712
+
+5450 +     1608   1615      1622  G15  5   XRA  1-8A      B4.4    2.1E-04   2712
+
+5460       1734   1737      1744  G15  5   XRA  1-8A      B1.2    5.1E-05   2712

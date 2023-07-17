@@ -1,0 +1,14 @@
+:Product: 20181215events.txt
+:Created: 2018 Dec 18 0357 UT
+:Date: 2018 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7600 +     1349   1353      1358  G15  5   XRA  1-8A      B1.0    4.0E-05   2731

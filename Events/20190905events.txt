@@ -1,0 +1,14 @@
+:Product: 20190905events.txt
+:Created: 2019 Sep 08 0357 UT
+:Date: 2019 09 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Sep 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4550      A0043   ////     A1328  HOL  3   DSF  S54W26    5                     

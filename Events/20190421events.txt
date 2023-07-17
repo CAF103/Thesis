@@ -1,0 +1,16 @@
+:Product: 20190421events.txt
+:Created: 2019 Apr 24 0357 UT
+:Date: 2019 04 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2560       0440   ////      0501  LEA  C   RSP  025-109   VI/1                  
+
+2550       0444   ////      0455  LEA  C   RSP  025-162   II/2    1341          

@@ -1,0 +1,14 @@
+:Product: 20171226events.txt
+:Created: 2017 Dec 29 0357 UT
+:Date: 2017 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2400      A1352   ////     A0725  SVI  3   DSF  S11W69    11                    

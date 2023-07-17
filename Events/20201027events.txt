@@ -1,0 +1,67 @@
+:Product: 20201027events.txt
+:Created: 2020 Oct 30 0357 UT
+:Date: 2020 10 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Oct 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7420       0147   0152      0154  LEA  3   FLA  S20W14    SF                2778
+
+7430 +     0203   0231      0238  LEA  3   FLA  S20W14    SF      DSD       2778
+7430       0222   0232      0239  G16  5   XRA  1-8A      B2.0    1.7E-04   2778
+
+7440       0321   0325      0329  G16  5   XRA  1-8A      B2.2    9.6E-05       
+7440 +     0323   ////      0324  LEA  C   RSP  033-180   III/2                 
+
+7450       0432   0442      0446  G16  5   XRA  1-8A      C1.4    5.0E-04   2778
+
+7460       0537   0547      0553  G16  5   XRA  1-8A      B3.2    2.8E-04   2778
+
+7470 +     0600   ////      0601  LEA  C   RSP  032-173   III/2                 
+
+7480       0611   0616      0621  G16  5   XRA  1-8A      C4.3    1.3E-03   2778
+7480      B0617  U0620     A0627  SVI  2   FLA  S20W19    SF      ERU       2778
+
+7490       0647  U0702      0707  SVI  3   FLA  S20W21    SF                2778
+
+7500       0735   0739      0749  SVI  3   FLA  S21W18    SF      ERU       2778
+7500 +     0735   0740      0746  G16  5   XRA  1-8A      B6.2    3.5E-04   2778
+
+7510       0843   0849      0904  G16  5   XRA  1-8A      B3.2    3.5E-04   2778
+7510 +     0851   ////      0851  SVI  C   RSP  056-161   III/2                 
+
+7520 +     0947   0952      0956  G16  5   XRA  1-8A      C1.4    4.6E-04   2778
+7520      B0949  U0950     A1004  SVI  3   FLA  S21W20    SF      ERU       2778
+
+7530      B1022  U1022     A1027  SVI  3   FLA  S20W24    SF                2778
+
+7540       1057   ////      1058  SVI  C   RSP  046-146   III/2             2778
+7540 +     1058   1103      1107  G16  5   XRA  1-8A      B4.7    1.9E-04   2778
+7540 +    B1100  U1101     A1105  SVI  3   FLA  S20W24    SF                2778
+
+7550 +     1143   ////      1143  SAG  C   RSP  053-180   III/1                 
+
+7560       1246   1304      1311  G16  5   XRA  1-8A      B5.5    5.8E-04   2778
+
+7570       1331   1341      1354  G16  5   XRA  1-8A      C1.5    1.3E-03   2778
+
+7580       1543   1554      1601  G16  5   XRA  1-8A      B7.9    4.7E-04   2778
+
+7590 +     1716   ////      1726  SAG  C   RSP  025-180   III/2                 
+
+7600 +     1815   1831      1836  G16  5   XRA  1-8A      B7.3    5.1E-04   2778
+7600 +     1822   ////      1822  PAL  C   RSP  025-120   III/1                 
+
+7610 +     1928   ////      1929  PAL  C   RSP  025-178   III/2                 
+
+7620       1947   1951      1956  G16  5   XRA  1-8A      B2.7    1.4E-04   2778
+
+7640       2135   2139      2146  G16  5   XRA  1-8A      B8.8    4.5E-04   2778
+
+7650 +     2232   2239      2244  G16  5   XRA  1-8A      B6.0    3.7E-04   2778

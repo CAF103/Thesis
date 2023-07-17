@@ -1,0 +1,14 @@
+:Product: 20180830events.txt
+:Created: 2018 Sep 02 0357 UT
+:Date: 2018 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7050      A0116   ////     B1400  HOL  2   DSF  S45W12    5                     

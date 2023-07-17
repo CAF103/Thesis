@@ -1,0 +1,14 @@
+:Product: 20181203events.txt
+:Created: 2018 Dec 06 0357 UT
+:Date: 2018 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7490       1227   1228      1229  G15  5   XRA  1-8A      A1.1    1.9E-06       

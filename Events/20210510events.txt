@@ -1,0 +1,27 @@
+:Product: 20210510events.txt
+:Created: 2021 May 13 0357 UT
+:Date: 2021 05 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1010 +     0552   ////      0553  LEA  C   RSP  025-165   III/1                 
+
+1020 +     0736   0744      0750  G16  5   XRA  1-8A      B1.0    7.8E-05       
+
+1030 +     1048   1057      1101  G16  5   XRA  1-8A      B1.9    1.5E-04       
+
+1040 +     1344   1352      1356  G16  5   XRA  1-8A      B1.9    6.4E-05   2823
+1040       1352   1352      1355  HOL  3   FLA  S23E45    SF                2823
+
+1050       1716   1724      1728  G17  5   XRA  1-8A      B1.3    7.9E-05       
+
+1060 +     2249   2255      2259  G16  5   XRA  1-8A      B1.0    5.8E-05       
+
+1070 +     2346   2355      0009  G16  5   XRA  1-8A      B1.0    1.4E-04   2282

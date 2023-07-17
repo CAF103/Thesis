@@ -1,0 +1,14 @@
+:Product: 20180115events.txt
+:Created: 2018 Jan 18 0357 UT
+:Date: 2018 01 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jan 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2500      A2302   ////     A1526  HOL  2   DSF  S09E18    5                 2696

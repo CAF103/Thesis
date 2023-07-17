@@ -1,0 +1,16 @@
+:Product: 20180216events.txt
+:Created: 2018 Feb 19 0357 UT
+:Date: 2018 02 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Feb 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4020 +     0427   0437      0442  G15  5   XRA  1-8A      B3.4    1.9E-04   2699
+
+4030       2057   2112      2119  G15  5   XRA  1-8A      A9.7    1.2E-04   2699

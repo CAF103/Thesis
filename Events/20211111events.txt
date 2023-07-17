@@ -1,0 +1,38 @@
+:Product: 20211111events.txt
+:Created: 2021 Nov 14 0357 UT
+:Date: 2021 11 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Nov 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4560 +     0000   ////      0542  LEA  C   RSP  025-180   VI/1                  
+4560 +     0000   ////      1029  LEA  C   RSP  061-180   CTM/2                 
+
+4620       0319   0452      0452  LEA  G   RNS  245       170                   
+
+4570 +     0339   0344      0348  G16  5   XRA  1-8A      B1.8    8.9E-05       
+
+4580 +     0350   0356      0401  G16  5   XRA  1-8A      B2.3    1.4E-04       
+
+4590 +     0413   0424      0430  G16  5   XRA  1-8A      B3.8    2.7E-04   2895
+
+4600       0709   0721      0731  G16  5   XRA  1-8A      B1.5    1.9E-04       
+4600 +     0710   ////      0832  LEA  C   RSP  025-058   VI/1                  
+
+4610 +     0900   0908      0914  G16  5   XRA  1-8A      B1.7    1.3E-04       
+
+4630       1222   ////      1854  SAG  C   RSP  112-174   CTM/1                 
+
+4640       1336   ////      1339  SVI  C   RSP  025-046   III/1                 
+
+4650 +     1521   1529      1538  G16  5   XRA  1-8A      B1.4    1.4E-04       
+
+4660 +     1806   1828      1838  G16  5   XRA  1-8A      B4.3    4.9E-04   2895
+
+4670 +     2218   2228      2244  G16  5   XRA  1-8A      B1.6    2.3E-04   2895

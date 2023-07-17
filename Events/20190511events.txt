@@ -1,0 +1,14 @@
+:Product: 20190511events.txt
+:Created: 2019 May 14 0357 UT
+:Date: 2019 05 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 May 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4060       0000   ////      0030  COM  3   DSF  N15E01    13                    

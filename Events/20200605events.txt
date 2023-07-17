@@ -1,0 +1,22 @@
+:Product: 20200605events.txt
+:Created: 2020 Jun 08 0357 UT
+:Date: 2020 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5590       0003   0003      0003  PAL  U   RBR  245       170                   
+
+5600 +     0515   ////      0515  LEA  C   RSP  086-171   III/1                 
+
+5610       0936   ////      0937  SVI  C   RSP  025-083   III/1                 
+
+5620       1207   1246      1239  G16  5   XRA  1-8A      B0.9    7.2E-05       
+
+5630 +     2301   ////      2302  PAL  C   RSP  025-048   III/2                 

@@ -1,0 +1,26 @@
+:Product: 20210416events.txt
+:Created: 2021 Apr 19 0357 UT
+:Date: 2021 04 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Apr 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7900 +     0205   0215      0221  G16  5   XRA  1-8A      B1.2    1.0E-04       
+
+7910 +     1039   1047      1052  G16  5   XRA  1-8A      B1.6    8.4E-05   2816
+
+7920 +     1717   1725      1731  G16  5   XRA  1-8A      B1.6    9.6E-05   2814
+
+7930 +     1738   1745      1751  G16  5   XRA  1-8A      B1.2    8.6E-05   2814
+
+7940 +     1757   1810      1815  G16  5   XRA  1-8A      B3.4    2.3E-04   2814
+
+7950 +     1932   1940      1946  G16  5   XRA  1-8A      B1.3    9.6E-05   2815
+
+7960 +     2105   2109      2114  G16  5   XRA  1-8A      B1.1    5.0E-05   2816

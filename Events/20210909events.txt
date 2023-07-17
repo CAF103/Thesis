@@ -1,0 +1,55 @@
+:Product: 20210909events.txt
+:Created: 2021 Sep 12 0357 UT
+:Date: 2021 09 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Sep 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4060 +     0057   ////      0057  LEA  C   RSP  025-095   III/1                 
+
+4070       0106   0106      0106  LEA  G   RBR  245       160                   
+
+4080       0406   ////      0408  PAL  C   RSP  025-180   III/2                 
+4080       0406   ////      0444  LEA  C   RSP  025-180   VI/2                  
+
+4090       0418   0418      0418  LEA  G   RBR  245       120                   
+
+4100       0442   ////      0443  SVI  C   RSP  025-079   III/1                 
+
+4110       0612   0612      0616  LEA  3   FLA  S15E10    SF                2866
+
+4120       0809   0831      0843  G16  5   XRA  1-8A      C3.5    3.7E-03   2866
+4120       0817   0829      0855  LEA  3   FLA  S16E04    SF                2866
+
+4130 +     0958   1007      1012  G16  5   XRA  1-8A      B6.6    4.0E-04   2868
+
+4140       1144   ////      1145  SVI  C   RSP  025-044   III/1                 
+
+4150 +     1145   ////      1145  SAG  C   RSP  025-070   III/1                 
+
+4160       1209   1209      1209  SVI  G   RBR  245       140                   
+
+4170       1219   ////      1220  SVI  C   RSP  025-054   III/1                 
+
+4180       1220   ////      1220  SAG  C   RSP  025-060   III/1                 
+
+4190 +     1235   ////      1407  SVI  C   RSP  113-180   CTM/1                 
+4190 +     1310   ////      1311  SAG  C   RSP  025-044   III/1                 
+
+4200       1414   ////      1421  SVI  C   RSP  025-083   III/1                 
+
+4210       1421   ////      1421  SAG  C   RSP  025-054   III/1                 
+
+4220 +     1658   1708      1710  G16  5   XRA  1-8A      B7.2    3.8E-04   2866
+
+4380       1710   1716      1720  G16  5   XRA  1-8A      B8.1    4.8E-04   2866
+4380      B1720   1720      1732  HOL  3   FLA  S15W02    SF      ERU       2866
+
+4230 +     2230   2255      2333  G16  5   XRA  1-8A      B7.5    2.2E-03   2868
+4230       2236   ////      2237  PAL  C   RSP  025-067   III/1                 

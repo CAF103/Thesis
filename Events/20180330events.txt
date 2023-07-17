@@ -1,0 +1,58 @@
+:Product: 20180330events.txt
+:Created: 2018 Apr 02 0357 UT
+:Date: 2018 03 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Mar 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4330 +     0148   ////      0206  LEA  C   RSP  025-173   III/2                 
+
+4340 +     0254   ////      0300  LEA  C   RSP  025-180   III/3                 
+4340 +     0256   0300      0302  G15  5   XRA  1-8A      B1.7    3.2E-05   2703
+
+4350 +     0411   0415      0419  G15  5   XRA  1-8A      B1.8    5.0E-05   2703
+4350 +     0412   ////      0417  LEA  C   RSP  025-180   III/2                 
+
+4360       0445   ////      0530  LEA  C   RSP  025-180   III/3                 
+4360 +     0507   0515      0521  G15  5   XRA  1-8A      B4.5    2.5E-04   2703
+4360       0514   ////      0532  SVI  C   RSP  025-180   VI/2                  
+
+4370 +     0722   ////      0727  LEA  C   RSP  025-084   III/1                 
+
+4380 +     0745   ////      0811  LEA  C   RSP  025-180   VI/3              2703
+4380 +     0757   0804      0808  G15  5   XRA  1-8A      C4.6    1.6E-03   2703
+4380       0800   ////      0802  SVI  C   RSP  025-180   V/2               2703
+4380       0800   0800      0800  SVI  G   RBR  245       360               2703
+4380       0800   0800      0800  SVI  G   RBR  410       170               2703
+4380       0801   0802      0809  LEA  3   FLA  S06E71    SF      ERU       2703
+4380 +     0804   ////      0828  SVI  C   RSP  025-050   II/2    805       2703
+
+4390       1015   ////      1016  SVI  C   RSP  025-180   III/1                 
+
+4400       1028   ////      1029  SVI  C   RSP  025-147   III/2                 
+
+4410 +     1113   1117      1120  G15  5   XRA  1-8A      B2.1    5.3E-05   2703
+4410 +     1115   ////      1118  SVI  C   RSP  025-111   III/1             2703
+4410      B1116  U1116     A1128  SVI  2   FLA  S12E69    SF      ERU       2703
+
+4430 +     1321   ////      1324  SVI  C   RSP  025-180   III/2                 
+4430 +     1322   1322      1322  SVI  G   RBR  245       210                   
+
+4440       1326   1327      1330  HOL  3   FLA  S10E68    SF                2703
+
+4450 +     1526   ////      1526  SVI  C   RSP  025-041   III/1                 
+
+4460 +     1608   ////      1609  SAG  C   RSP  025-157   III/1                 
+
+4480 +     1754   ////      1801  SAG  C   RSP  025-180   III/2                 
+
+4470 +     1758   1807      1815  G15  5   XRA  1-8A      B2.0    1.3E-04   2703
+4470       1806   1817      1820  HOL  3   FLA  S10E68    SF      ERU       2703
+
+4490       2118   ////      2130  SAG  C   RSP  025-068   VI/2                  

@@ -1,0 +1,14 @@
+:Product: 20190426events.txt
+:Created: 2019 Apr 29 0357 UT
+:Date: 2019 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2580       0134   ////      0258  LEA  C   RSP  051-098   VI/1                  

@@ -1,0 +1,32 @@
+:Product: 20170501events.txt
+:Created: 2017 May 04 0357 UT
+:Date: 2017 05 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4730 +     0123   ////      0123  LEA  C   RSP  041-134   III/1                 
+
+4740 +     0355   0401      0405  G15  5   XRA  1-8A      B9.9    3.1E-04   2652
+4740 +     0358   ////      0359  LEA  C   RSP  025-040   III/2             2652
+4740       0359   0400      0402  LEA  3   FLA  N18W78    SF      DSD       2652
+4740       0404   ////      0411  LEA  3   BSL  ////      0.19              2652
+
+4750       0629   ////      0631  SVI  U   RSP  025-050   III/1                 
+
+4760       0748   ////      0748  SVI  C   RSP  025-079   III/1                 
+
+4770 +     0905   0911      0915  G15  5   XRA  1-8A      B1.4    6.0E-05   2652
+4770       0907   ////      0907  SVI  C   RSP  025-048   III/1                 
+
+4780 +     1258   1303      1309  G15  5   XRA  1-8A      B2.9    1.2E-04   2652
+4780       1301   1303      1304  SVI  3   FLA  N19W79    SF      DSD       2652
+4780 +     1301   ////      1303  SAG  C   RSP  025-105   V/2               2652
+
+4790      A1609   ////     A0502  SVI  3   DSF  S40W09    8                     

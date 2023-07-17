@@ -1,0 +1,16 @@
+:Product: 20170413events.txt
+:Created: 2017 Apr 16 0357 UT
+:Date: 2017 04 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3520      A0943   ////     A2308  LEA  2   DSF  N31E44    15                    
+
+3490       1554   1554      1600  SVI  3   FLA  N14E26    SF      ERU           

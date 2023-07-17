@@ -1,0 +1,46 @@
+:Product: 20210901events.txt
+:Created: 2021 Sep 04 0357 UT
+:Date: 2021 09 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Sep 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2610 +     0040   0048      0055  G16  5   XRA  1-8A      B1.9    1.6E-04   2860
+
+2620 +     0303   0310      0316  G16  5   XRA  1-8A      B1.8    1.2E-04   2680
+
+2630 +     0427   0433      0437  G16  5   XRA  1-8A      B2.6    1.1E-04   2680
+
+2640 +     0533   ////      0534  LEA  C   RSP  025-087   III/1                 
+
+2650 +     0626   ////      0627  LEA  C   RSP  025-160   III/2                 
+
+2660       0639   ////      0645  SVI  C   RSP  025-180   III/2             2860
+2660 +     0640   0644      0648  G16  5   XRA  1-8A      B2.5    9.9E-05   2860
+
+2670       0640   ////      0645  LEA  C   RSP  025-180   III/3                 
+
+2660       0642   0642      0646  SVI  3   FLA  S25W50    SF                2860
+
+2680       0844   0854      0859  G16  5   XRA  1-8A      C1.2    5.0E-04   2860
+2680       0852   0853      0900  SVI  3   FLA  S30W57    SF      ERU       2860
+2680 +     0856   ////      0858  SVI  C   RSP  025-150   III/1             2860
+
+2690 +     0928   ////      0928  LEA  C   RSP  025-180   III/2                 
+
+2700       1028   ////      1030  SVI  C   RSP  025-169   III/1                 
+
+2710       1048   1103      1111  G17  5   XRA  1-8A      B2.0    2.5E-04       
+
+2720 +     1318   ////      1318  SVI  C   RSP  025-151   III/1             2860
+2720 +     1320   1331      1343  G16  5   XRA  1-8A      C1.2    1.7E-03   2860
+
+2730      B1401  U1402      1404  SVI  3   FLA  S18E49    SF                2860
+
+2790      A1630   ////     A0510  SVI  3   DSF  S16E53    23                    

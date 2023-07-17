@@ -1,0 +1,73 @@
+:Product: 20190505events.txt
+:Created: 2019 May 08 0357 UT
+:Date: 2019 05 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 May 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2750 +     0426   ////      0509  LEA  C   RSP  085-180   VI/1                  
+
+2760 +     0548   ////      0548  SVI  C   RSP  102-180   III/1                 
+
+2770 +     0637   0642      0644  G15  5   XRA  1-8A      B2.3    5.8E-05   2740
+2770 +     0639   ////      0644  SVI  C   RSP  034-180   III/2             2740
+2770       0640   0640      0646  SVI  3   FLA  N06E63    SF      DSD       2740
+2770       0640   0640      0640  LEA  G   RBR  410       140               2740
+
+2780       0644   0644      0644  LEA  G   RBR  245       130                   
+
+2790       0715   0715      0715  SVI  G   RBR  410       100                   
+
+2800 +     0930   0933      0936  G15  5   XRA  1-8A      B1.8    4.0E-05   2740
+2800 +     0932   ////      0937  SVI  C   RSP  025-180   III/2                 
+
+2810 +     1042   ////      1159  SVI  C   RSP  025-180   VI/2                  
+
+2820 +     1145   1149      1151  G15  5   XRA  1-8A      B7.5    1.4E-04   2740
+
+2830 +     1336   1342      1345  G15  5   XRA  1-8A      B9.8    2.5E-04   2740
+2830       1338   ////      1344  SVI  C   RSP  025-180   III/2             2740
+2830       1338   ////      1416  SAG  C   RSP  025-180   VI/1              2740
+2830 +     1339   1341      1341  SVI  G   RBR  245       120               2740
+2830       1341   1342      1342  SAG  G   RBR  610       260               2740
+2830 +    B1342  U1342     A1351  SVI  3   FLA  N05E58    SF                2740
+2830 +     1342   1342      1343  SVI  G   RBR  410       640               2740
+
+2840       1350   1353      1355  G14  5   XRA  1-8A      B1.8    2.8E-05       
+2840       1352   ////      1416  SVI  C   RSP  025-125   VI/1                  
+
+2850 +     1451   1454      1500  G15  5   XRA  1-8A      B1.6    6.5E-05   2740
+2850       1453   1453      1453  SVI  G   RBR  245       100                   
+2850 +     1453   ////      1458  SAG  C   RSP  025-167   III/1                 
+
+2860 +     1514   1514      1514  SVI  G   RBR  245       160                   
+
+2880 +     1550   ////      1550  SVI  C   RSP  025-180   III/2                 
+
+2890       1655   1657      1659  HOL  3   FLA  N07E60    SF                2740
+
+2900       1756   1756      1756  SAG  G   RBR  245       150                   
+
+2910       1757   1757      1759  PAL  G   RBR  245       190                   
+
+2920 +     2121   2143      2152  G15  5   XRA  1-8A      B6.4    8.3E-04   2740
+2920       2126   2142      2155  HOL  3   FLA  N07E60    SF      ERU       2740
+2920       2136   2136      2136  SAG  G   RBR  245       180                   
+
+2930       2155   2155      2155  PAL  G   RBR  245       110                   
+
+2940 +     2227   2230      2232  G15  5   XRA  1-8A      B4.4    7.3E-05   2740
+2940       2229   2229      2229  PAL  G   RBR  245       280                   
+2940       2229   ////      2229  PAL  C   RSP  035-180   III/1             0002
+
+2960       2239   ////      2359  PAL  C   RSP  127-180   CTM/1                 
+
+2950       2302   ////      2359  LEA  C   RSP  125-180   CTM/1                 
+2950 +     2324   2324      2325  PAL  G   RBR  245       110                   
+2950       2331   2332      2338  HOL  3   FLA  N07E60    SF                2740

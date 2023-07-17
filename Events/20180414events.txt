@@ -1,0 +1,16 @@
+:Product: 20180414events.txt
+:Created: 2018 Apr 17 0357 UT
+:Date: 2018 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4710 +     0009   0012      0015  G15  5   XRA  1-8A      B1.0    1.9E-05   2704
+
+4720 +     1910   1919      1930  G15  5   XRA  1-8A      B2.4    2.1E-04       

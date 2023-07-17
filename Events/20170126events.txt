@@ -1,0 +1,46 @@
+:Product: 20170126events.txt
+:Created: 2017 Jan 29 0357 UT
+:Date: 2017 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5730       0235   0235      0235  LEA  G   RBR  245       200                   
+
+5740       0348   0352      0357  G15  5   XRA  1-8A      B2.2    8.9E-05   2629
+
+5750 +     0406   0412      0415  G15  5   XRA  1-8A      B4.1    1.4E-04   2629
+5750       0410   0411      0418  LEA  3   FLA  N15E44    SF                2629
+
+5760 +     0440   0443      0446  G15  5   XRA  1-8A      B2.1    4.7E-05   2629
+
+5770       0523   0528      0533  G15  5   XRA  1-8A      B2.3    1.0E-04   2629
+
+5780 +     0608   0613      0618  G15  5   XRA  1-8A      B3.9    1.6E-04   2629
+5780       0610   0611      0621  LEA  3   FLA  N15E44    SF      ERU       2629
+
+5790       1044   ////      1044  SVI  U   RSP  025-056   III/1                 
+
+5800       1218   1221      1223  G15  5   XRA  1-8A      B2.0    3.1E-05   2629
+
+5810       1434   1434      1434  SVI  G   RBR  245       110                   
+
+5820       1626   1633      1639  G15  5   XRA  1-8A      B2.6    1.6E-04   2629
+
+5830       1648   1651      1654  G15  5   XRA  1-8A      B2.2    4.9E-05   2629
+
+5840       1822   1822      1822  SAG  G   RBR  245       110                   
+
+5850       1916   1916      1916  SAG  G   RBR  245       100                   
+
+5870       1919   1919      1930  SAG  G   RNS  245       150                   
+
+5860       2044   2044      2044  SAG  G   RBR  245       100                   
+
+5880       2219   ////      2359  LEA  U   RSP  107-180   CTM/1                 

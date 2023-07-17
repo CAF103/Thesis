@@ -1,0 +1,59 @@
+:Product: 20211013events.txt
+:Created: 2021 Oct 16 0357 UT
+:Date: 2021 10 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 270       0106   ////      0106  LEA  C   RSP  025-111   III/1                 
+
+ 280       0231   ////      0238  LEA  C   RSP  025-163   VI/1                  
+
+ 290       0402   ////      0402  LEA  C   RSP  025-117   III/1                 
+
+ 300       0607   ////      0638  LEA  C   RSP  025-180   VI/2                  
+ 300       0607   ////      0613  SVI  C   RSP  025-161   III/2                 
+ 300 +     0627   0629      0633  G16  5   XRA  1-8A      B2.0    5.4E-05       
+
+ 310       0634   ////      0637  SVI  C   RSP  025-161   III/1                 
+
+ 550       0954   1014      1022  G16  5   XRA  1-8A      B3.3    3.0E-04       
+
+ 320 +     1022   1031      1042  G16  5   XRA  1-8A      B4.7    5.1E-04   2882
+
+ 330       1151   ////      1151  SVI  C   RSP  025-125   III/1                 
+
+ 340       1152   ////      1152  SAG  C   RSP  025-062   III/1                 
+
+ 350 +     1403   1411      1419  G16  5   XRA  1-8A      B1.4    1.2E-04   2885
+
+ 360       1633   1651      1657  HOL  3   FLA  N16W64    SF                2885
+
+ 370 +     1709   1716      1720  G16  5   XRA  1-8A      B1.8    8.0E-05   2885
+ 370       1715   1848      1904  HOL  3   FLA  N16W66    SF                2885
+
+ 380 +     1810   1819      1829  G16  5   XRA  1-8A      B1.8    1.2E-04       
+
+ 390 +     2013   2022      2027  G16  5   XRA  1-8A      B4.8    2.0E-04   2885
+
+ 400 +     2032   2035      2039  G16  5   XRA  1-8A      B3.7    1.2E-04   2885
+
+ 410 +     2107   2117      2122  G16  5   XRA  1-8A      B5.4    2.4E-04   2885
+ 410       2113   2117      2124  HOL  3   FLA  N16W67    SF      LPS       2885
+
+ 420 +     2127   2131      2135  G16  5   XRA  1-8A      B2.8    1.3E-04   2885
+ 420       2131   2131      2133  HOL  3   FLA  N16W67    SF      ERU       2885
+
+ 430       2151   2204      2210  HOL  3   FLA  N16W67    SF      ERU       2885
+ 430 +     2202   2205      2209  G16  5   XRA  1-8A      C1.3    5.6E-04   2885
+
+ 440 +     2325   2332      2336  G16  5   XRA  1-8A      B2.2    1.1E-04   2885
+ 440       2331   2333      2335  HOL  3   FLA  N16W68    SF                2885
+
+ 450 +     2347   2350      0015  G16  5   XRA  1-8A      B4.8    1.4E-04   2885

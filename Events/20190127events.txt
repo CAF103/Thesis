@@ -1,0 +1,14 @@
+:Product: 20190127events.txt
+:Created: 2019 Jan 30 0357 UT
+:Date: 2019 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8080       1325   1325      1327  SVI  3   FLA  N06W44    SF      ERU       2733

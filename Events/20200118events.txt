@@ -1,0 +1,14 @@
+:Product: 20200118events.txt
+:Created: 2020 Jan 21 0357 UT
+:Date: 2020 01 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jan 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4870       2109   2109      2109  SAG  G   RBR  410       550                   

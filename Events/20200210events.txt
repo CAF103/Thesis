@@ -1,0 +1,14 @@
+:Product: 20200210events.txt
+:Created: 2020 Feb 13 0357 UT
+:Date: 2020 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4970      A2338   ////     A1558  HOL  3   DSF  S40W90    16                    

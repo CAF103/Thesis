@@ -1,0 +1,41 @@
+:Product: 20190419events.txt
+:Created: 2019 Apr 22 0357 UT
+:Date: 2019 04 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2320       0000   ////      0311  LEA  C   RSP  025-135   VI/2                  
+
+2330       0214   ////      0215  PAL  C   RSP  025-083   III/2                 
+
+2340       0432   ////      0432  LEA  C   RSP  028-035   III/2                 
+
+2350       0511   ////      0511  LEA  C   RSP  084-098   III/1                 
+
+2360       0600   ////      0607  LEA  C   RSP  025-102   III/2                 
+
+2370       0752   ////      0752  LEA  C   RSP  025-036   III/2                 
+
+2380       1229   ////      1233  SAG  C   RSP  025-061   III/1                 
+
+2390 +     1610   1613      1616  G15  5   XRA  1-8A      B1.3    2.9E-05   2738
+
+2400       1632   ////      1640  SAG  C   RSP  025-064   III/1                 
+
+2410       1829   ////      1829  PAL  C   RSP  025-040   III/1                 
+
+2420 +     2017   ////      2018  SAG  C   RSP  025-052   III/1                 
+
+2430       2040   ////      2042  SAG  C   RSP  025-082   V/1                   
+2430       2040   ////      2042  PAL  C   RSP  025-062   III/2                 
+
+2440       2201   ////      2201  PAL  C   RSP  025-047   III/1                 
+
+2450       2229   ////      2229  PAL  C   RSP  025-042   III/1                 

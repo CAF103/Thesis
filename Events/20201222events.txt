@@ -1,0 +1,24 @@
+:Product: 20201222events.txt
+:Created: 2020 Dec 25 0357 UT
+:Date: 2020 12 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4690       0742   0754      0805  G16  5   XRA  1-8A      B1.7    2.0E-04   2795
+
+4700       1004   1015      1025  G16  5   XRA  1-8A      B2.5    2.7E-04   2795
+
+4710       1114   1121      1127  G16  5   XRA  1-8A      B2.5    1.4E-04   2795
+
+4720       1131   1139      1144  G16  5   XRA  1-8A      B2.7    1.6E-04   2795
+
+4730       1219   1227      1233  G16  5   XRA  1-8A      B1.5    1.1E-04   2795
+
+4740       1556   1604      1609  G16  5   XRA  1-8A      B2.0    1.2E-04   2795

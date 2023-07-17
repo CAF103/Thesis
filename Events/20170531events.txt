@@ -1,0 +1,44 @@
+:Product: 20170531events.txt
+:Created: 2017 Jun 03 0357 UT
+:Date: 2017 05 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5720 +     0211   0216      0219  G15  5   XRA  1-8A      B6.3    1.8E-04   2659
+
+5730 +     0852   0926      0948  G15  5   XRA  1-8A      B4.4    1.2E-03   2661
+
+5740 +     1133   1140      1146  G15  5   XRA  1-8A      B6.4    3.5E-04   2661
+
+5750 +     1440   1445      1450  G15  5   XRA  1-8A      B2.4    1.1E-04   2661
+
+5760 +     1551   1556      1612  G15  5   XRA  1-8A      B3.0    3.1E-04   2661
+5760       1554   1557      1604  SVI  3   FLA  N07E85    SF      ERU       2661
+
+5770       1615   1617      1625  SVI  3   FLA  N07E85    SF      ERU       2661
+
+5780 +     1723   1731      1736  G15  5   XRA  1-8A      B3.1    1.7E-04   2661
+
+5790 +     1748   1754      1756  G15  5   XRA  1-8A      B4.1    1.3E-04   2661
+
+5800 +     1814   1818      1825  G15  5   XRA  1-8A      B3.5    1.8E-04   2661
+
+5810 +     1841   1848      1857  G15  5   XRA  1-8A      C1.3    7.5E-04   2661
+
+5820 +     2053   2106      2117  G15  5   XRA  1-8A      C1.3    1.3E-03   2661
+
+5830 +     2145   ////      2145  PAL  C   RSP  025-096   III/2                 
+
+5850       2242   2242      2314  HOL  1   FLA  N04E86    SF      DSD       2661
+5850 +     2306   2315      2323  G15  5   XRA  1-8A      C2.0    1.3E-03   2661
+
+5840       2310   2310      2310  PAL  G   RBR  410       210                   
+
+5860 +     2338   ////      2338  PAL  C   RSP  025-100   III/2                 

@@ -1,0 +1,14 @@
+:Product: 20180803events.txt
+:Created: 2018 Aug 06 0357 UT
+:Date: 2018 08 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Aug 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6780       1545   1546      1547  G15  5   XRA  1-8A      A1.0    3.5E-06       

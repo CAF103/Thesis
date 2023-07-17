@@ -1,0 +1,14 @@
+:Product: 20190715events.txt
+:Created: 2019 Jul 18 0357 UT
+:Date: 2019 07 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Jul 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4410       1140   1141      1142  G15  5   XRA  1-8A      A1.1    1.2E-05       

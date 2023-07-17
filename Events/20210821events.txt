@@ -1,0 +1,50 @@
+:Product: 20210821events.txt
+:Created: 2021 Aug 24 0357 UT
+:Date: 2021 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 130 +     0034   0042      0052  G16  5   XRA  1-8A      B1.7    1.7E-04   2859
+
+  70 +     0052   0058      0105  G16  5   XRA  1-8A      B2.5    1.7E-04       
+
+  60 +     0236   0246      0308  G16  5   XRA  1-8A      B3.2    5.1E-04   2859
+
+  80 +     0405   0410      0420  G16  5   XRA  1-8A      B3.3    2.5E-04   2859
+
+  90 +     0430   0438      0443  G16  5   XRA  1-8A      B2.6    1.7E-04   2859
+
+ 100 +     0620   0634      0640  G16  5   XRA  1-8A      B1.9    1.8E-04   2859
+
+ 140 +     0801   0810      0814  G16  5   XRA  1-8A      B3.2    1.5E-04   2859
+
+ 110 +     0839   0840      0842  SVI  3   FLA  N20E83    SF      ERU       2859
+
+ 150 +     1008   1015      1026  G16  5   XRA  1-8A      B2.0    1.0E-04   2859
+
+ 210 +     1026   1037      1046  G16  5   XRA  1-8A      B2.1    1.7E-04   2859
+
+ 220 +     1046   1103      1113  G16  5   XRA  1-8A      B3.1    4.3E-04   2859
+
+ 160 +     1128   1136      1141  G16  5   XRA  1-8A      B4.9    2.6E-04   2859
+
+ 120       1145   1145      1145  SVI  G   RBR  1415      100                   
+
+ 170 +     1837   1842      1846  G16  5   XRA  1-8A      B3.9    1.3E-04   2859
+
+ 250 +     2054   2058      2102  G16  5   XRA  1-8A      B3.9    1.5E-04   2859
+
+ 260 +     2114   2118      2122  G16  5   XRA  1-8A      B3.9    1.4E-04   2859
+
+ 270 +     2157   2204      2209  G16  5   XRA  1-8A      B2.6    1.7E-04   2859
+
+ 280 +     2211   2215      2220  G16  5   XRA  1-8A      B4.7    1.9E-04   2859
+
+ 290 +     2226   2230      2235  G16  5   XRA  1-8A      B4.4    2.0E-04   2859

@@ -1,0 +1,60 @@
+:Product: 20210419events.txt
+:Created: 2021 Apr 22 0357 UT
+:Date: 2021 04 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Apr 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8110       0017   0024      0028  G17  5   XRA  1-8A      B1.0    6.4E-05   2016
+
+8120 +     0247   0253      0259  G16  5   XRA  1-8A      B1.2    7.4E-05       
+
+8130       0408   0415      0420  G16  5   XRA  1-8A      B1.0    7.0E-05       
+
+8140       0444   0447      0452  G16  5   XRA  1-8A      B1.0    4.9E-05       
+
+8150 +     0511   0519      0525  G16  5   XRA  1-8A      B2.7    1.6E-04       
+
+8160 +     0625   0631      0635  G17  5   XRA  1-8A      B1.4    8.1E-05       
+
+8170 +     0655   ////      0657  LEA  C   RSP  025-180   III/1                 
+
+8180 +     0734   0740      0744  G16  5   XRA  1-8A      B1.4    7.6E-05       
+8180 +     0745   ////      0754  LEA  C   RSP  036-180   III/2                 
+
+8190       0853   0859      0903  G17  5   XRA  1-8A      B1.1    6.0E-05       
+
+8200 +     0914   0928      0948  G16  5   XRA  1-8A      B2.8    4.3E-04       
+
+8210 +     1355   1359      1404  G16  5   XRA  1-8A      B3.1    1.3E-04   2817
+8210       1358   1400      1413  HOL  3   FLA  N18W41    SF      DSD       2817
+
+8220       1557   1602      1609  G17  5   XRA  1-8A      B1.0    7.2E-05       
+
+8230 +     1635   1644      1648  G16  5   XRA  1-8A      B5.4    2.5E-04   2817
+8230       1642   1643      1646  HOL  3   FLA  N18W43    SF      DSD       2817
+
+8240 +     1751   1759      1803  G16  5   XRA  1-8A      B3.3    1.7E-04       
+
+8250 +     1821   1827      1843  G16  5   XRA  1-8A      B2.5    3.2E-04       
+
+8260 +     1859   1906      1908  G16  5   XRA  1-8A      B2.5    1.4E-04   2817
+8260       1915   1917      1926  HOL  3   FLA  N18W44    SF      ERU       2817
+
+8270 +     2110   2119      2125  G16  5   XRA  1-8A      B8.0    4.8E-04   2816
+8270       2116   2120      2124  HOL  3   FLA  S24E26    SF                2816
+
+8280 +     2204   2215      2226  G16  5   XRA  1-8A      B6.7    5.8E-04   2817
+8280       2213   2214      2218  HOL  3   FLA  N18W44    SF      ERU       2817
+
+8290 +     2319   2342      2359  G16  5   XRA  1-8A      M1.1    1.3E-02   2816
+8290 +     2331   2335      2359  HOL  3   FLA  S24E25    SN      ERU       2816
+8290       2339   ////      2342  PAL  C   RSP  025-060   II/2    1202      2816
+8290       2341   ////      2349  PAL  C   RSP  025-077   III/2             2816
+8290       2348   ////      2359  PAL  C   RSP  025-178   IV/1              2816

@@ -1,0 +1,61 @@
+:Product: 20170605events.txt
+:Created: 2017 Jun 08 0357 UT
+:Date: 2017 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6560 +     0514   0531      0541  G15  5   XRA  1-8A      C2.7    2.4E-03   2661
+6560       0520   0530      0549  SVI  3   FLA  N06E30    SF      ERU       2661
+
+6570       0545   0545      0547  LEA  3   FLA  N05E31    SF      ERU       2661
+
+6580 +     0640   0717      0747  SVI  3   FLA  N16W74    SF      ERU           
+6580 +     0702   0715      0727  G15  5   XRA  1-8A      B8.1    8.6E-04   2661
+
+6590 +     0753   0759      0805  G15  5   XRA  1-8A      B5.9    3.1E-04   2661
+6590 +     0754   0758      0818  SVI  3   FLA  N16W74    SF      ERU           
+
+6600 +     0826   0834      0836  SVI  3   FLA  N16W74    SF      ERU           
+
+6610 +     0837   0840      0903  SVI  3   FLA  N16W74    SF      ERU           
+
+6620 +     0904   0907      0909  SVI  3   FLA  N16W74    SF      ERU           
+
+6630       0911   0912      0915  SVI  3   FLA  N16W75    SF      ERU           
+
+6640       0916   1048      1109  SVI  3   FLA  N16W75    SF      ERU           
+6640 +     0936   0955      1005  G15  5   XRA  1-8A      C1.2    1.1E-03       
+
+6650       1118   1137      1145  SVI  3   FLA  N16W75    SF      ERU           
+6650 +     1132   1137      1141  G15  5   XRA  1-8A      B3.6    1.3E-04       
+
+6660       1149   1149      1149  SVI  3   FLA  N16W75    SF      ERU           
+
+6670       1221   1223      1224  SVI  3   FLA  N16W80    SF      ERU           
+
+6680       1225   1225      1227  SVI  3   FLA  N16W80    SF      ERU           
+
+6690       1234   1234      1242  SVI  3   FLA  N16W80    SF      ERU           
+
+6700 +     1246   1255      1306  SVI  3   FLA  N16W80    SF      ERU           
+6700 +     1252   1255      1300  G15  5   XRA  1-8A      B3.3    9.6E-05       
+
+6710 +     1426   1426      1433  HOL  3   FLA  N20W77    SF                    
+6710 +     1433   1437      1442  G15  5   XRA  1-8A      B1.6    6.5E-05       
+
+6720 +     1600   1610      1615  G15  5   XRA  1-8A      B5.8    3.5E-04   2661
+6720 +     1603   1608      1617  HOL  4   FLA  N06E18    SF      ERU       2661
+
+6750       1611   1624      1629  SVI  3   FLA  N18W80    SF      ERU           
+
+6730 +     1838   1844      1850  G15  5   XRA  1-8A      B3.0    1.6E-04   2661
+
+6740 +     1914   1922      1926  G15  5   XRA  1-8A      B9.4    3.7E-04   2661
+6740       1918   1921      1930  HOL  3   FLA  N06E16    SF      ERU       2661

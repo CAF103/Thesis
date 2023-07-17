@@ -1,0 +1,35 @@
+:Product: 20201112events.txt
+:Created: 2020 Nov 15 0357 UT
+:Date: 2020 11 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9920       0206   0227      0235  G16  5   XRA  1-8A      C1.2    9.7E-04   2782
+
+9930       0358   0413      0420  G16  5   XRA  1-8A      C2.5    1.4E-03   2782
+9930       0411   0412      0414  LEA  3   FLA  S32E63    SF                2782
+
+9940       0433   0433      0433  LEA  G   RBR  2695      170                   
+
+9950 +     0605   ////      0606  LEA  C   RSP  025-139   III/1                 
+
+9960 +     0818   ////      0823  SVI  C   RSP  025-139   III/2                 
+
+9970 +     1231   ////      1235  SVI  C   RSP  025-084   III/1                 
+
+9980       1317   1322      1329  G16  5   XRA  1-8A      B2.1    1.3E-04   2782
+9980       1322   1322      1327  SVI  3   FLA  S31E54    SF                    
+
+  40       1608   1616      1629  G16  5   XRA  1-8A      B2.0    1.2E-04   2782
+
+  30       1629   1633      1637  G16  5   XRA  1-8A      B1.7    9.3E-05   2782
+
+  10 +     1839   ////      2046  PAL  C   RSP  025-047   VI/1                  
+  10 +     1854   ////      1854  SAG  C   RSP  025-075   III/1                 

@@ -1,0 +1,48 @@
+:Product: 20210528events.txt
+:Created: 2021 May 31 0357 UT
+:Date: 2021 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3990 +     0107   ////      0122  LEA  C   RSP  030-037   VI/2                  
+
+4000 +     0345   0352      0357  G16  5   XRA  1-8A      B3.1    1.8E-04   2826
+
+4010 +     0603   ////      0604  LEA  C   RSP  031-180   III/1                 
+
+4020 +     0626   ////      0627  LEA  C   RSP  025-180   III/1                 
+
+4030 +     0709   0717      0732  G16  5   XRA  1-8A      B1.9    2.4E-04   2826
+
+4040 +     0815   0821      0826  G16  5   XRA  1-8A      B5.0    2.6E-04   2826
+
+4050 +     0907   0915      0920  G16  5   XRA  1-8A      B2.2    1.7E-04   2826
+
+4060 +     0947   0957      1001  G16  5   XRA  1-8A      C3.0    9.3E-04   2826
+
+4070       1106   1113      1128  G17  5   XRA  1-8A      B1.9    2.4E-04   2826
+
+4080 +     1130   1141      1147  G16  5   XRA  1-8A      B3.0    2.5E-04   2826
+
+4090 +     1225   1231      1238  G16  5   XRA  1-8A      B2.9    1.9E-04   2826
+
+4100 +     1311   1318      1325  G16  5   XRA  1-8A      B2.1    1.7E-04   2824
+
+4110 +     1353   1400      1405  G16  5   XRA  1-8A      B4.8    2.8E-04   2824
+
+4120       1650   ////      1650  SAG  C   RSP  025-047   III/1                 
+
+4130 +     1925   1933      1937  G16  5   XRA  1-8A      B2.2    1.4E-04   2826
+
+4150 +     2219   2313      0012  G16  5   XRA  1-8A      C9.4    4.2E-02   2824
+4150       2248   2303     A2359  HOL  3   FLA  N21W63    1F                2824
+4150       2301   ////      2329  PAL  C   RSP  025-074   IV/1              2824
+4150 +     2303   ////      2307  PAL  C   RSP  026-065   II/1    2087      2824
+4150       2325   ////      2336  PAL  C   RSP  025-078   VI/1              2824

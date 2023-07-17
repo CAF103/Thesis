@@ -1,0 +1,59 @@
+:Product: 20211102events.txt
+:Created: 2021 Nov 05 0357 UT
+:Date: 2021 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3060       0027   ////      0027  LEA  C   RSP  025-048   III/1                 
+
+3090 +     0120   0301      0350  G16  5   XRA  1-8A      M1.7    7.5E-02   2891
+3090       0204   0226      0521  LEA  3   FLA  N14E01    1F                2891
+3090       0222   ////      0223  PAL  C   RSP  025-180   III/1             2891
+3090 +     0231   0240      0254  LEA  G   RBR  4995      60                2891
+3090 +     0233   0241      0254  LEA  G   RBR  8800      34                2891
+3090 +     0234   0237      0246  LEA  G   RBR  1415      170               2891
+3090       0235   ////      0410  LEA  C   RSP  025-092   VI/2              2891
+3090 +     0236   0236      0237  LEA  G   RBR  2695      110               2891
+3090       0236   ////      0600  LEA  U   RSP  025-180   CTM/1             2891
+3090 +     0254   0259      0309  LEA  G   RBR  410       66                2891
+3090 +     0258   0306      0308  LEA  G   RBR  245       190               2891
+3090 +     0305   0305      0306  LEA  G   RBR  610       120               2891
+
+3120       0522   0522      0553  LEA  3   FLA  N14E01    SF                2891
+
+3130       0558   ////      0605  LEA  C   RSP  056-114   III/1                 
+
+3140 +     0737   0740      0744  G16  5   XRA  1-8A      C2.0    7.9E-04   2891
+3140       0739   0740      0741  SVI  3   FLA  N19E01    SF      ERU       2891
+
+3150 +     0813   0813      0813  SVI  G   RBR  245       500                   
+
+3160       0813   ////      0814  SVI  C   RSP  152-173   III/1                 
+
+3180       0814   ////      0817  LEA  C   RSP  141-180   III/1                 
+
+3190 +     1014   ////      1015  SVI  C   RSP  059-156   III/1                 
+
+3210       1103   ////      1201  SVI  3   DSF  S32W56    8                     
+
+3200 +     1255   1305      1316  G17  5   XRA  1-8A      C1.0    1.0E-03   2887
+
+3220       1615   ////      1615  SAG  C   RSP  060-180   III/1                 
+
+3230       2048   ////      2048  PAL  C   RSP  025-060   III/1                 
+
+3240 +     2109   2113      2117  G16  5   XRA  1-8A      B4.7    1.9E-04   2887
+
+3250       2129   ////      2130  PAL  C   RSP  025-155   III/2                 
+
+3260       2324   ////      2324  PAL  C   RSP  025-129   III/1                 
+3260       2324   ////      2359  LEA  C   RSP  025-180   VI/2                  
+
+3270       2346   ////      2354  PAL  C   RSP  025-167   III/2                 

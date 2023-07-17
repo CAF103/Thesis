@@ -1,0 +1,18 @@
+:Product: 20170922events.txt
+:Created: 2017 Sep 25 0357 UT
+:Date: 2017 09 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9820       1624   ////      1657  HOL  3   BSD  ////      5                 2681
+
+9830       2159   2159      2200  PAL  G   RBR  245       180                   
+
+9840       2200   ////      2200  PAL  C   RSP  025-180   III/1                 

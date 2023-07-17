@@ -1,0 +1,18 @@
+:Product: 20190512events.txt
+:Created: 2019 May 15 0357 UT
+:Date: 2019 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4070      A0129   ////     A1315  HOL  2   DSF  S13E01    10                    
+
+4080      A0926   ////     A2307  LEA  3   DSF  S01W00    19                2741
+
+4090       2239   2251      2304  G15  5   XRA  1-8A      B3.7    4.7E-04   2741

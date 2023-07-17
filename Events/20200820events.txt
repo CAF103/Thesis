@@ -1,0 +1,17 @@
+:Product: 20200820events.txt
+:Created: 2020 Aug 23 0357 UT
+:Date: 2020 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6410       0623   0630      0637  G16  5   XRA  1-8A      B1.2    5.7E-05   2772
+6410       0630   0630      0633  SVI  3   FLA  N18W51    SF      ERU       2772
+
+6420 +     0719   ////      0719  LEA  C   RSP  060-119   III/1                 

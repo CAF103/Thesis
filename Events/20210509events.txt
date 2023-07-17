@@ -1,0 +1,57 @@
+:Product: 20210509events.txt
+:Created: 2021 May 12 0357 UT
+:Date: 2021 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 850 +     0027   0044      0100  G16  5   XRA  1-8A      B2.8    2.0E-04   2822
+
+ 970      A0042   ////     A1251  HOL  3   DSF  S16E11    15                    
+
+ 860 +     0100   0109      0112  G16  5   XRA  1-8A      B2.3    1.8E-04   2822
+
+ 870 +     0112   0116      0121  G16  5   XRA  1-8A      B2.8    1.6E-04   2822
+
+ 880 +     0418   0436      0442  G16  5   XRA  1-8A      C1.6    7.9E-04   2822
+ 880 +     0434   0438      0443  SVI  3   FLA  N15E57    SF      ERU       2822
+
+1000 +     0542   0547      0555  G16  5   XRA  1-8A      B1.5    7.2E-05   2822
+
+ 890 +     0555   0611      0634  G16  5   XRA  1-8A      B3.0    5.5E-04   2822
+
+ 990 +     0754   0758      0805  G16  5   XRA  1-8A      B1.2    7.6E-05   2822
+
+ 910       0935   ////      0940  SVI  C   RSP  025-119   III/1                 
+
+ 920 +     1157   ////      1157  SVI  C   RSP  025-038   III/1                 
+
+ 930 +     1338   1358      1409  G16  5   XRA  1-8A      C4.0    3.1E-03   2822
+ 930 +     1351   1354      1356  SAG  G   RBR  1415      210               2822
+ 930 +     1352   1359      1407  HOL  3   FLA  N15E51    SF      ERU       2822
+ 930       1352   1355      1401  SAG  G   RBR  15400     90                2822
+ 930 +     1352   1355      1401  SAG  G   RBR  610       2700              2822
+ 930 +     1352   1355      1358  SAG  G   RBR  4995      190               2822
+ 930 +     1353   1355      1358  SAG  G   RBR  8800      130               2822
+ 930 +     1354   ////      1358  SAG  C   RSP  025-180   III/2             2822
+ 930 +     1354   1354      1400  SAG  G   RBR  410       560               2822
+ 930       1354   1354      1355  SAG  G   RBR  2695      110               2822
+ 930       1354   1354      1355  SAG  G   RBR  245       29                2822
+
+ 940       1420   1449      1525  G16  5   XRA  1-8A      C2.0    6.7E-03   2822
+ 940 +     1424   1438      1554  SVI  3   FLA  N16E57    SF      ERU       2822
+ 940 +     1431   ////      1437  SAG  C   RSP  025-063   II/1    407       2822
+
+ 950 +     1532   ////      1533  SVI  C   RSP  025-077   III/1                 
+
+ 960       1625   ////      1639  SAG  C   RSP  025-180   VI/1                  
+ 960 +     1625   ////      1626  SVI  C   RSP  025-151   III/1                 
+
+ 980 +     1920   1924      1931  G16  5   XRA  1-8A      B1.8    1.2E-04   2822
+ 980       1924   1924      1927  HOL  3   FLA  N17E50    SF                2822

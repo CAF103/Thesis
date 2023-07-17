@@ -1,0 +1,32 @@
+:Product: 20211129events.txt
+:Created: 2021 Dec 02 0357 UT
+:Date: 2021 11 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Nov 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5530 +     0001   0012      0031  G16  5   XRA  1-8A      B5.4    8.1E-04   2900
+
+5540 +     0148   0200      0205  G16  5   XRA  1-8A      B3.7    2.9E-04   2900
+
+5550       0412   ////      0829  LEA  C   RSP  115-180   CTM/1                 
+
+5560       0622   ////      0829  SVI  C   RSP  131-180   CTM/1                 
+
+5570       1009   1009      1009  SVI  G   RBR  245       180                   
+
+5580 +     1017   1017      1018  SVI  G   RNS  245       230                   
+
+5650      A1151   ////     A0727  SVI  3   DSF  S70E04    35                    
+
+5590 +     1246   1254      1301  G16  5   XRA  1-8A      B2.8    2.1E-04       
+
+5600 +     1302   1311      1318  G16  5   XRA  1-8A      B4.6    3.4E-04       
+
+5610 +     1349   1355      1402  G16  5   XRA  1-8A      B2.8    1.9E-04       

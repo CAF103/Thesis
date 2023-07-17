@@ -1,0 +1,32 @@
+:Product: 20170420events.txt
+:Created: 2017 Apr 23 0357 UT
+:Date: 2017 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4090      A0101   ////     A1315  HOL  3   DSF  N43E25    8                     
+
+4060 +     0649   0656      0704  G15  5   XRA  1-8A      B8.0    4.4E-04   2651
+4060       0653   0656      0702  LEA  3   FLA  N13E55    SF      DSD       2651
+4060       0700   0700      0700  SVI  G   RBR  245       210               2651
+4060 +     0701   ////      0703  LEA  C   RSP  025-132   III/1             2651
+
+4070       0842   0846      0853  G13  5   XRA  1-8A      B1.9    9.2E-05       
+
+4120      A0943   ////     A2313  LEA  3   DSF  N27E34    11                    
+
+4080 +     1043   1049      1058  G15  5   XRA  1-8A      B2.6    1.8E-04   2651
+
+4110      A1644   ////     A0604  SVI  3   DSF  N23E23    6                     
+
+4170       2026   ////      2123  HOL  3   DSF  N19E18    12                    
+
+4100       2117   2122      2134  HOL  3   FLA  N13E44    SF      ERU       2651
+4100 +     2117   2123      2127  G15  5   XRA  1-8A      B3.7    1.6E-04   2651

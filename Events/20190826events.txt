@@ -1,0 +1,14 @@
+:Product: 20190826events.txt
+:Created: 2019 Aug 29 0357 UT
+:Date: 2019 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4520       0300   0301      0302  G15  5   XRA  1-8A      A1.1    1.1E-05       

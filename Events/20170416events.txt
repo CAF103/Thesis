@@ -1,0 +1,34 @@
+:Product: 20170416events.txt
+:Created: 2017 Apr 19 0357 UT
+:Date: 2017 04 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3560 +     0313   ////      0316  LEA  C   RSP  025-105   III/1                 
+
+3570 +     0552   ////      0601  SVI  C   RSP  025-129   V/2                   
+
+3580 +     0719   ////      0720  LEA  C   RSP  025-052   III/1                 
+
+3590       0837   ////      0839  SVI  U   RSP  025-036   III/1                 
+
+3600       1020   ////      1027  SVI  C   RSP  025-080   III/1                 
+
+3610 +     1149   ////      1153  SAG  C   RSP  025-078   III/1                 
+
+3620 +     1408   ////      1419  SAG  C   RSP  025-107   VI/2                  
+
+3630 +     2035   ////      2037  SAG  C   RSP  025-075   III/2                 
+
+3640 +     2153   2158      2210  G15  5   XRA  1-8A      B2.6    2.2E-04       
+
+3680       2238   2305      2339  G15  5   XRA  1-8A      B4.0    1.2E-03       
+
+3650 +     2317   ////      2322  PAL  C   RSP  025-063   III/2                 

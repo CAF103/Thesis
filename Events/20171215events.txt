@@ -1,0 +1,16 @@
+:Product: 20171215events.txt
+:Created: 2017 Dec 18 0357 UT
+:Date: 2017 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2150      A1023   ////     A2231  LEA  2   DSF  S25E28    12                    
+
+2160      A2322   ////     A1450  HOL  2   DSF  S16E45    10                    

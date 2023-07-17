@@ -1,0 +1,14 @@
+:Product: 20200913events.txt
+:Created: 2020 Sep 16 0357 UT
+:Date: 2020 09 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Sep 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6500      A2057   ////     A1715  HOL  3   DSF  S45E39    10                    

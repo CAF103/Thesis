@@ -1,0 +1,14 @@
+:Product: 20200530events.txt
+:Created: 2020 Jun 02 0357 UT
+:Date: 2020 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5520       0935   0935      0936  SVI  G   RBR  410       150                   

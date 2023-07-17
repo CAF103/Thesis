@@ -1,0 +1,19 @@
+:Product: 20200808events.txt
+:Created: 2020 Aug 11 0357 UT
+:Date: 2020 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6190       0342   0349      0355  G16  5   XRA  1-8A      C1.5    5.5E-04   2770
+6190       0347   0348      0406  LEA  3   FLA  N22E17    SN      ERU       2770
+
+6200       1558   1605      1612  G16  5   XRA  1-8A      B1.2    7.8E-05   2770
+
+6210       2250   ////      2251  PAL  C   RSP  025-055   III/2                 

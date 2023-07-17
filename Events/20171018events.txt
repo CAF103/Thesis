@@ -1,0 +1,17 @@
+:Product: 20171018events.txt
+:Created: 2017 Oct 21 0357 UT
+:Date: 2017 10 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Oct 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1410       0534   0534      0534  LEA  G   RBR  1415      140                   
+
+1420       0537   ////      0600  SVI  C   RSP  079-180   IV/1                  
+1420 +     0539   ////      0545  SVI  C   RSP  025-080   II/2    1502          

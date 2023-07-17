@@ -1,0 +1,47 @@
+:Product: 20201130events.txt
+:Created: 2020 Dec 03 0357 UT
+:Date: 2020 11 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2140 +     0110   ////      0303  LEA  C   RSP  025-098   VI/2                  
+
+2150       0246   0248      0250  LEA  3   FLA  S18E02    SF                2786
+
+2160       0312   0315      0319  G16  5   XRA  1-8A      B7.9    3.0E-04   2786
+
+2170       0357   0357      0357  LEA  G   RBR  245       110                   
+
+2190       0401   ////      0512  LEA  C   RSP  025-049   VI/1                  
+
+2180       0506   0512      0516  G16  5   XRA  1-8A      B6.9    3.2E-04       
+
+2200       0610   ////      0650  LEA  C   RSP  025-095   VI/1                  
+
+2210       0804   ////      0806  SVI  C   RSP  025-039   III/1                 
+
+2230       0856   ////      0900  LEA  C   RSP  025-114   III/1                 
+
+2240       0901   ////      0908  SVI  C   RSP  025-085   III/1                 
+
+2220       0924   0931      0935  G16  5   XRA  1-8A      B8.1    3.7E-04       
+
+2250 +     1225   ////      1232  SVI  C   RSP  025-040   III/1                 
+
+2260       1303   ////      1305  SAG  C   RSP  025-034   III/1                 
+
+2270       1354   ////      1359  SAG  C   RSP  025-072   III/1                 
+
+2280       1940   1950      2001  G16  5   XRA  1-8A      B8.8    8.9E-04   2786
+2280       1948   1950      1958  HOL  3   FLA  S16W04    SF      ERU       2786
+
+2300       2038   ////      2130  PAL  C   RSP  025-055   VI/2                  
+
+2290 +     2301   2302      2305  HOL  3   FLA  S25E86    SF                    

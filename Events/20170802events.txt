@@ -1,0 +1,22 @@
+:Product: 20170802events.txt
+:Created: 2017 Aug 05 0357 UT
+:Date: 2017 08 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Aug 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1490 +     0002   0011      0018  G15  5   XRA  1-8A      B2.3    1.6E-04   2670
+
+1500       0709   0709      0709  LEA  G   RBR  245       250                   
+
+1510 +     1926   1932      1937  G15  5   XRA  1-8A      B1.1    5.5E-05   2670
+
+1520 +     2137   2144      2148  G15  5   XRA  1-8A      B1.5    7.6E-05   2670
+
+1530 +     2353   2359      0004  G15  5   XRA  1-8A      B9.4    3.6E-04   2670

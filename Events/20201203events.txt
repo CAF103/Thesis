@@ -1,0 +1,75 @@
+:Product: 20201203events.txt
+:Created: 2020 Dec 06 0357 UT
+:Date: 2020 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2870       0042   ////      0332  LEA  C   RSP  098-180   CTM/1                 
+2870       0129   0129      0129  LEA  G   RBR  245       140                   
+
+2880       0145   0156      0203  G16  5   XRA  1-8A      C1.7    1.1E-03   2786
+2880       0152   0155      0212  LEA  3   FLA  S18E02    SF                2786
+2880 +     0153   ////      0154  LEA  U   RSP  162-180   II/1    190       2786
+
+2890 +     0211   ////      0211  LEA  C   RSP  025-048   III/2                 
+
+2900       0221   0221      0221  LEA  G   RBR  245       120                   
+
+2910       0341   0341      0341  LEA  G   RBR  245       140                   
+
+2920       0402   ////      0402  LEA  C   RSP  025-039   III/2                 
+
+2930       0424   ////      0425  LEA  C   RSP  025-060   III/2                 
+
+2940       0529   0529      0531  LEA  G   RBR  245       130                   
+
+2950       0546   0604      0630  G16  5   XRA  1-8A      B9.0    2.0E-03   2786
+
+2960       0802   ////      0802  SVI  U   RSP  025-040   III/1                 
+
+2970       0955   1000      1004  G16  5   XRA  1-8A      C1.2    4.9E-04   2790
+2970       0958   1002      1002  LEA  3   FLA  S23E50    SF                2790
+
+2980       1051   1101      1113  G16  5   XRA  1-8A      B6.8    7.2E-04   2790
+
+2990 +     1311   1313      1313  SAG  G   RBR  245       240                   
+
+3000 +     1334   1334      1334  SVI  G   RBR  245       170                   
+
+3010 +     1340   1340      1340  SVI  G   RBR  245       140                   
+
+3020 +     1357   1357      1357  SAG  G   RBR  245       110                   
+
+3030       1502   1513      1523  G16  5   XRA  1-8A      B5.3    5.5E-04   2786
+3030       1519   1519      1519  SAG  G   RBR  245       270                   
+
+3040       1533   1533      1533  SAG  G   RBR  245       160                   
+
+3050       1535   1535      1536  SAG  G   RBR  245       160                   
+
+3060       1539   1539      1539  SAG  G   RBR  245       110                   
+
+3070       1627   1627      1627  SAG  G   RBR  245       120                   
+
+3080       1632   1632      1632  SAG  G   RBR  245       100                   
+
+3150       1714   1714      1804  SAG  G   RNS  245       110                   
+
+3090 +     1723   ////      1907  PAL  C   RSP  127-180   CTM/1                 
+
+3120 +     1923   ////      1924  PAL  C   RSP  025-050   III/1                 
+
+3130       1929   1939      1954  G16  5   XRA  1-8A      B6.5    8.8E-04   2786
+
+3140       2042   ////      2043  PAL  C   RSP  025-050   III/1                 
+
+3190       2346   2359      0029  G16  5   XRA  1-8A      C1.4    2.6E-03   2790
+
+3170       2352   2353      2355  LEA  3   FLA  S19E38    SF                2790

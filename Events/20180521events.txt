@@ -1,0 +1,14 @@
+:Product: 20180521events.txt
+:Created: 2018 May 24 0357 UT
+:Date: 2018 05 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 May 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5130       0832   0837      0846  LEA  3   FLA  N17E74    SF                2710

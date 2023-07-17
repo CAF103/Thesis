@@ -1,0 +1,29 @@
+:Product: 20210516events.txt
+:Created: 2021 May 19 0357 UT
+:Date: 2021 05 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1510 +     0330   ////      0331  LEA  C   RSP  025-139   III/1                 
+
+1520 +     0712   ////      0713  LEA  C   RSP  072-109   III/1                 
+
+1530 +     1046   ////      1046  SVI  C   RSP  025-130   III/1                 
+
+1540       1336   ////      1338  SVI  C   RSP  025-180   V/2                   
+1540       1336   ////      1338  SAG  C   RSP  025-150   III/2                 
+
+1550       1530   ////      1530  SVI  C   RSP  049-085   III/1                 
+
+1560 +     1636   ////      1636  SVI  C   RSP  025-082   III/1                 
+
+1570 +     1919   ////      1919  SAG  C   RSP  025-180   III/2                 
+
+1580       2011   ////      2036  SAG  C   RSP  025-075   VI/1                  

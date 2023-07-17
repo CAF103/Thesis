@@ -1,0 +1,24 @@
+:Product: 20210915events.txt
+:Created: 2021 Sep 18 0357 UT
+:Date: 2021 09 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Sep 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4900 +     0100   0115      0123  G16  5   XRA  1-8A      B4.1    4.0E-04   2869
+
+4910       0200   0209      0220  G17  5   XRA  1-8A      B1.8    2.1E-04   2869
+
+4920       0501   0511      0526  G17  5   XRA  1-8A      B2.2    3.0E-04   2869
+
+4930 +     0942   0951      0958  G16  5   XRA  1-8A      B2.4    1.9E-04   2869
+
+4940 +     1049   1057      1103  G16  5   XRA  1-8A      B2.0    1.6E-04   2869
+
+4950 +     1214   ////      1216  SAG  C   RSP  025-144   III/1                 

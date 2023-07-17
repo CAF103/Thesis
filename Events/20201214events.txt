@@ -1,0 +1,34 @@
+:Product: 20201214events.txt
+:Created: 2020 Dec 17 0357 UT
+:Date: 2020 12 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4050       0212   0220      0226  G16  5   XRA  1-8A      B1.3    9.5E-05   2792
+
+4060       0555   0559      0604  G16  5   XRA  1-8A      B1.4    6.2E-05   2793
+
+4070       0646   0657      0703  G16  5   XRA  1-8A      B1.1    1.0E-04   2792
+
+4090       1340   1349      1359  G16  5   XRA  1-8A      B1.4    1.5E-04   2792
+
+4100       1409   1437      1456  G16  5   XRA  1-8A      C4.0    5.4E-03   2792
+4100 +     1430   1448      1503  HOL  3   FLA  S22E48    SF                2792
+4100       1437   ////      1441  SAG  C   RSP  025-069   II/1    606       2792
+
+4110       1817   1824      1832  G16  5   XRA  1-8A      B2.2    1.8E-04   2793
+
+4120       2008   2016      2038  G16  5   XRA  1-8A      B2.4    3.6E-04   2793
+
+4130       2041   2044      2056  G16  5   XRA  1-8A      B3.5    2.6E-04   2793
+
+4140       2226   2233      2237  G16  5   XRA  1-8A      B2.0    1.2E-04   2793
+
+4150       2313   2321      2330  G16  5   XRA  1-8A      B1.7    1.6E-04   2793

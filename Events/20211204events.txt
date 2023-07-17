@@ -1,0 +1,53 @@
+:Product: 20211204events.txt
+:Created: 2021 Dec 07 0357 UT
+:Date: 2021 12 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5840 +     0322   0330      0336  G16  5   XRA  1-8A      B3.1    2.5E-04       
+
+5850 +     0417   0423      0427  G16  5   XRA  1-8A      B3.3    1.5E-04       
+
+5860 +     0443   0515      0534  G16  5   XRA  1-8A      C4.2    8.0E-03   2898
+
+5870 +     0644   0652      0656  G16  5   XRA  1-8A      C2.5    9.1E-04   2898
+5870      B0648  U0651     A0654  SVI  3   FLA  S30W85    SF                2898
+
+5880 +     0714   0724      0731  G16  5   XRA  1-8A      C1.4    1.1E-03   2898
+5880 +     0730   ////      0732  LEA  C   RSP  025-116   III/2                 
+
+5890 +     0734   0754      0800  G16  5   XRA  1-8A      C2.3    2.8E-03   2898
+
+5900 +     0819   0826      0834  G16  5   XRA  1-8A      C1.2    8.8E-04   2898
+5900       0830   0830      0832  SVI  3   FLA  S28W85    SF                2898
+
+5910 +     0854   0901      0908  G16  5   XRA  1-8A      B6.8    5.0E-04   2898
+
+5920 +     1005   1009      1015  G16  5   XRA  1-8A      C1.0    3.0E-04   2898
+
+5930 +     1142   1150      1202  G16  5   XRA  1-8A      B4.4    2.6E-04   2898
+5930       1206   ////      1223  SVI  C   RSP  025-118   VI/2                  
+
+5940       1223   ////      1224  SAG  C   RSP  025-045   III/1                 
+
+5950 +     1302   ////      1310  SVI  C   RSP  025-079   III/2                 
+5950 +     1303   1314      1330  G16  5   XRA  1-8A      B4.4    6.0E-04   2898
+
+5960 +     1504   1534      1548  G16  5   XRA  1-8A      C1.8    2.3E-03   2898
+
+5970 +     1548   1559      1612  G16  5   XRA  1-8A      C1.8    2.7E-03   2898
+
+5980 +     1930   1941      1951  G16  5   XRA  1-8A      C1.3    1.3E-03   2898
+
+5990 +     2150   2158      2205  G16  5   XRA  1-8A      B5.8    4.5E-04   2898
+
+6000 +     2207   2215      2225  G16  5   XRA  1-8A      C1.6    1.2E-03   2898
+
+6010 +     2321   2359      0014  G16  5   XRA  1-8A      C7.1    1.0E-02   2898

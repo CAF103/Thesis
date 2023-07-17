@@ -1,0 +1,20 @@
+:Product: 20170127events.txt
+:Created: 2017 Jan 30 0357 UT
+:Date: 2017 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5890       0000   ////      0022  LEA  U   RSP  147-180   CTM/1                 
+
+5900       0324   ////      0525  LEA  C   RSP  117-180   CTM/1                 
+
+5910 +     1038   1045      1052  G15  5   XRA  1-8A      B5.4    3.1E-04   2627
+
+5920       1535   1539      1543  G15  5   XRA  1-8A      B2.3    7.5E-05   2629

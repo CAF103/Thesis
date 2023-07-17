@@ -1,0 +1,18 @@
+:Product: 20190403events.txt
+:Created: 2019 Apr 06 0357 UT
+:Date: 2019 04 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9950       0536   ////      0537  LEA  C   RSP  025-107   III/1                 
+
+9960       1653   ////      1655  PAL  C   RSP  025-047   III/1                 
+
+9970       1656   ////      1657  SAG  C   RSP  025-041   III/1                 

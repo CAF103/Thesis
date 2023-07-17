@@ -1,0 +1,36 @@
+:Product: 20170329events.txt
+:Created: 2017 Apr 01 0357 UT
+:Date: 2017 03 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Mar 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 360      B0000   ////      0004  LEA  3   FLA  S10E41    SF      DSD       2645
+ 360       0000   ////      0130  LEA  C   RSP  095-180   CTM/1             2645
+
+ 370 +     0038   0043      0048  G15  5   XRA  1-8A      B3.2    1.4E-04   2645
+ 370       0047   0047      0048  LEA  3   FLA  S10E43    SF                2645
+
+ 380       0126   0140      0145  G13  5   XRA  1-8A      B4.5    3.8E-04   2646
+ 380       0129   0130      0132  LEA  3   FLA  S10E41    SF      DSD       2646
+
+ 390 +     0218   0222      0226  G15  5   XRA  1-8A      B3.5    1.2E-04   2645
+
+ 400       0330   ////      0451  LEA  C   RSP  096-180   CTM/1                 
+
+ 410 +     1259   1309      1320  G15  5   XRA  1-8A      B3.3    3.6E-04   2644
+
+ 420 +     2026   2030      2032  G15  5   XRA  1-8A      B4.3    8.2E-05   2645
+ 420       2028   2028      2029  PAL  G   RBR  410       180                   
+ 420 +     2029   ////      2029  SAG  C   RSP  025-067   III/1                 
+
+ 430 +     2053   ////      2054  SAG  C   RSP  025-169   III/1                 
+
+ 440 +     2319   2332      2350  G15  5   XRA  1-8A      B6.5    9.1E-04   2644
+ 440       2323   2326      2343  LEA  3   FLA  N12W09    SF                2644

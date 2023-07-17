@@ -1,0 +1,56 @@
+:Product: 20180209events.txt
+:Created: 2018 Feb 12 0357 UT
+:Date: 2018 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3440       0000   ////      1001  LEA  C   RSP  075-180   CTM/1                 
+
+3450 +     0343   0348      0354  G15  5   XRA  1-8A      B2.3    1.0E-04   2699
+
+3460       0618   ////      0935  SVI  C   RSP  105-180   CTM/1                 
+3460 +     0631   0636      0639  G15  5   XRA  1-8A      B1.6    4.8E-05   2699
+
+3470 +     0827   0831      0835  G15  5   XRA  1-8A      B2.1    6.9E-05   2699
+
+3490       1108   ////      1446  SVI  C   RSP  103-180   CTM/1                 
+
+3570       1229   ////      2155  SAG  C   RSP  103-180   CTM/1                 
+
+3480 +     1243   1247      1252  G15  5   XRA  1-8A      B1.2    4.7E-05   2699
+
+3500 +     1431   1431      1431  SAG  G   RBR  245       200                   
+
+3510 +     1451   1456      1501  G15  5   XRA  1-8A      B3.2    1.2E-04   2699
+3510       1454   1454      1500  HOL  3   FLA  S08E20    SF      DSD       2699
+
+3520       1523   1523      1523  SVI  G   RBR  245       120                   
+
+3530 +     1540   1547      1552  G15  5   XRA  1-8A      B7.2    2.7E-04   2699
+3530       1542   1547      1557  HOL  3   FLA  S08E20    SF                2699
+3530       1544   1544      1544  SAG  G   RBR  410       250               2699
+
+3540 +     1638   1643      1654  G15  5   XRA  1-8A      B4.6    2.8E-04   2699
+3540       1640   1644      1659  HOL  3   FLA  S08E20    SF                2699
+
+3550 +     1745   1749      1755  G15  5   XRA  1-8A      B1.2    5.2E-05   2699
+
+3560 +     1812   1819      1829  G15  5   XRA  1-8A      B4.4    2.7E-04   2699
+3560       1815   1820      1845  HOL  3   FLA  S09E17    SF                2699
+
+3580       2227   ////      2359  LEA  C   RSP  107-180   CTM/1                 
+
+3590       2332   2332      2332  PAL  G   RBR  245       180                   
+
+3600       2345   2348      2348  PAL  G   RBR  410       130                   
+
+3610       2350   2351      2351  PAL  G   RBR  410       160                   
+
+3620       2354   2354      2355  PAL  G   RBR  410       170                   

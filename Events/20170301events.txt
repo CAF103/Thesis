@@ -1,0 +1,30 @@
+:Product: 20170301events.txt
+:Created: 2017 Mar 04 0357 UT
+:Date: 2017 03 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Mar 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6850 +     0407   0412      0419  G15  5   XRA  1-8A      B2.1    1.2E-04   2641
+
+6860       0430   0433      0437  G15  5   XRA  1-8A      B1.9    5.2E-05   2641
+6860       0432   0432      0434  LEA  3   FLA  N15E28    SF                2641
+
+6870       0739   0743      0749  G15  5   XRA  1-8A      B1.2    5.5E-05   2641
+
+6880 +     0757   0800      0802  G15  5   XRA  1-8A      B2.8    4.2E-05   2641
+
+6890 +     0803   0807      0810  G15  5   XRA  1-8A      B2.6    7.2E-05   2641
+6890       0805   0807      0811  LEA  3   FLA  N15E26    SF                2641
+
+6900 +     0906   ////      0906  SVI  C   RSP  025-076   V/2                   
+
+6910       1112   ////      1113  SVI  C   RSP  025-078   III/1                 
+
+6920       1139   ////      1146  SVI  C   RSP  025-080   III/1                 

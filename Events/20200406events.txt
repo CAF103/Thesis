@@ -1,0 +1,17 @@
+:Product: 20200406events.txt
+:Created: 2020 Apr 09 0357 UT
+:Date: 2020 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5160       0535   0548      0558  G16  5   XRA  1-8A      B2.5    2.0E-04   2759
+5160       0545   0547      0555  LEA  3   FLA  N28W14    SF                2759
+
+5170       0822   0831      0838  G16  5   XRA  1-8A      B1.8    1.1E-04   2759

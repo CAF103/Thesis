@@ -1,0 +1,18 @@
+:Product: 20170112events.txt
+:Created: 2017 Jan 15 0357 UT
+:Date: 2017 01 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jan 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4840 +     0656   0705      0712  G15  5   XRA  1-8A      B3.4    2.4E-04       
+
+4850 +     1338   ////      1339  SVI  C   RSP  025-171   III/1                 
+
+4860 +     1554   1618      1641  G15  5   XRA  1-8A      C3.8    6.9E-03       

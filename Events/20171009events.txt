@@ -1,0 +1,17 @@
+:Product: 20171009events.txt
+:Created: 2017 Oct 12 0357 UT
+:Date: 2017 10 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Oct 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1320       0321   0324      0331  G15  5   XRA  1-8A      B1.4    6.3E-05   2683
+1320       0324   ////      0324  LEA  C   RSP  025-091   III/1                 
+
+1330 +     0814   ////      0814  LEA  C   RSP  025-055   III/1                 

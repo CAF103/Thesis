@@ -1,0 +1,35 @@
+:Product: 20180210events.txt
+:Created: 2018 Feb 13 0357 UT
+:Date: 2018 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3650       0000   ////      0143  LEA  C   RSP  098-180   CTM/1                 
+
+3630       0002   0007      0008  PAL  G   RBR  410       170                   
+
+3640       0010   0010      0013  PAL  G   RBR  410       160                   
+
+3650 +     0044   0120      0212  PAL  G   RBR  410       170                   
+
+3660       0215   0219      0219  PAL  G   RBR  410       120                   
+
+3670 +     1302   1321      1336  G15  5   XRA  1-8A      C4.6    6.1E-03   2699
+
+3680 +     1631   1643      1651  G15  5   XRA  1-8A      B2.4    2.0E-04   2699
+
+3690 +     1809   1814      1817  G15  5   XRA  1-8A      B1.3    3.4E-05   2699
+3690 +     1811   1812      1812  SAG  G   RBR  245       240                   
+3690 +     1811   1812      1812  SAG  G   RBR  410       1400                  
+
+3700       2034   2040      2047  G15  5   XRA  1-8A      B1.1    6.7E-05   2699
+
+3710 +     2135   2148      2156  G15  5   XRA  1-8A      B4.7    4.3E-04   2699
+3710       2139   2142      2155  HOL  3   FLA  S08E02    SF      ERU       2699

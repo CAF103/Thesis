@@ -1,0 +1,22 @@
+:Product: 20210427events.txt
+:Created: 2021 Apr 30 0357 UT
+:Date: 2021 04 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Apr 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  10 +     0429   0434      0439  G16  5   XRA  1-8A      B1.2    6.7E-05   2821
+
+  20 +     0737   0743      0758  G16  5   XRA  1-8A      B1.2    1.4E-04   2821
+
+  30 +     0813   0823      0836  G16  5   XRA  1-8A      B2.8    3.2E-04   2821
+
+  40       1604   1613      1617  G16  5   XRA  1-8A      B3.3    1.5E-04   2821
+
+  50       2141   2153      2201  G16  5   XRA  1-8A      B2.2    1.8E-04   2820

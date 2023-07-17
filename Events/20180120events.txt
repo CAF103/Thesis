@@ -1,0 +1,16 @@
+:Product: 20180120events.txt
+:Created: 2018 Jan 23 0357 UT
+:Date: 2018 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2560 +     0448   0455      0500  G15  5   XRA  1-8A      B1.7    8.3E-05   2696
+
+2570       1742   1752      1758  G15  5   XRA  1-8A      A9.1    6.7E-05   2696

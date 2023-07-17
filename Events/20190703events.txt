@@ -1,0 +1,16 @@
+:Product: 20190703events.txt
+:Created: 2019 Jul 06 0357 UT
+:Date: 2019 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4310 +     1330   ////      1330  SAG  C   RSP  025-075   III/1                 
+
+4320 +     1505   ////      1506  SVI  C   RSP  025-075   III/1                 

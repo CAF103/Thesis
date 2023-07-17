@@ -1,0 +1,39 @@
+:Product: 20211206events.txt
+:Created: 2021 Dec 09 0357 UT
+:Date: 2021 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6120       0020   0024      0028  G17  5   XRA  1-8A      B2.2    6.8E-05       
+
+6130 +     0206   0218      0252  G16  5   XRA  1-8A      B2.2    5.1E-04       
+
+6140 +     0418   0452      0459  G16  5   XRA  1-8A      B4.8    8.1E-04       
+6140       0505   ////      0536  LEA  C   RSP  025-180   VI/2                  
+
+6150 +     0537   0552      0613  G16  5   XRA  1-8A      B9.0    1.8E-03   2902
+
+6160 +     0616   0622      0629  G16  5   XRA  1-8A      C1.3    8.7E-04   2902
+
+6170       0633   0633      0633  LEA  G   RBR  245       100                   
+
+6180 +     0633   ////      0637  LEA  C   RSP  025-180   III/2                 
+6180       0634   0634      0634  SVI  G   RBR  245       100                   
+
+6190 +     0650   0653      0657  G16  5   XRA  1-8A      C1.3    3.2E-04   2902
+6190 +     0652   ////      0653  LEA  C   RSP  025-180   III/1                 
+
+6200 +     0740   0750      1355  G16  5   XRA  1-8A      B9.6    3.7E-04   2904
+6200 +     0747   ////      0748  SVI  C   RSP  025-180   III/1             2904
+6200      B0752  U0752      0757  SVI  3   FLA  S28E39    SF      ERU       2904
+
+6210 +     1355   1401      1405  G16  5   XRA  1-8A      B3.5    1.0E-04       
+
+6220       1818   1834      1858  G17  5   XRA  1-8A      B1.2    2.6E-04       

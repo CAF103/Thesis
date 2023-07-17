@@ -1,0 +1,48 @@
+:Product: 20190411events.txt
+:Created: 2019 Apr 14 0357 UT
+:Date: 2019 04 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 530       0102   ////      0156  LEA  C   RSP  084-180   CTM/1                 
+
+ 560 +     0115   0116      0116  LEA  G   RBR  245       220                   
+
+ 570       0121   0121      0121  PAL  G   RBR  245       100                   
+
+ 540       0348   0348      0348  LEA  G   RBR  245       120                   
+
+ 550       0628   0628      0628  LEA  G   RBR  245       130                   
+
+ 580       1057   1057      1102  SAG  G   RBR  245       260                   
+
+ 590       1124   1125      1125  SAG  G   RBR  245       100                   
+
+ 600       1130   1131      1131  SAG  G   RBR  245       110                   
+
+ 610       1137   1137      1139  SAG  G   RBR  245       130                   
+
+ 620       1310   1310      1311  SAG  G   RBR  245       230                   
+
+ 630       1313   1316      1317  SAG  G   RBR  245       230                   
+
+ 560 +     1320   1616      1615  SAG  G   RNS  245       380                   
+
+ 640       1355   1355      1355  SAG  G   RBR  245       220                   
+
+ 650       1522   ////      1540  SAG  C   RSP  025-039   III/1                 
+
+ 660       1615   1616      1616  SAG  G   RBR  245       380                   
+
+ 670       1648   1648      1648  PAL  G   RBR  245       130                   
+
+ 680       1701   1701      1701  PAL  G   RBR  245       100                   
+
+ 690       1712   1723      1735  G15  5   XRA  1-8A      B1.2    1.4E-04   2738

@@ -1,0 +1,22 @@
+:Product: 20171113events.txt
+:Created: 2017 Nov 16 0357 UT
+:Date: 2017 11 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Nov 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1700 +     0639   0648      0652  G15  5   XRA  1-8A      B7.5    3.5E-04       
+
+1710 +     0758   0804      0809  G15  5   XRA  1-8A      B2.4    9.4E-05       
+
+1720       1034   1042      1047  G13  5   XRA  1-8A      B1.3    8.2E-05       
+
+1730       1136   ////      1136  SVI  C   RSP  025-136   III/1                 
+
+1740 +     1318   ////      1319  SVI  C   RSP  025-062   III/1                 

@@ -1,0 +1,26 @@
+:Product: 20190325events.txt
+:Created: 2019 Mar 28 0357 UT
+:Date: 2019 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9860       0607   0615      0627  G15  5   XRA  1-8A      B1.5    1.5E-04   2736
+
+9870       0652   0723      0727  G15  5   XRA  1-8A      B2.2    3.2E-04   2736
+
+9880       0942   0947      0953  G15  5   XRA  1-8A      B1.3    6.6E-05   2736
+
+9890 +     1129   1134      1144  G15  5   XRA  1-8A      B1.7    1.2E-04   2736
+
+9900       1308   1410      1435  G15  5   XRA  1-8A      B3.6    1.2E-03   2736
+
+9910 +     1803   1811      1825  G15  5   XRA  1-8A      B4.1    4.2E-04   2736
+
+9920 +     2126   2148      2223  G15  5   XRA  1-8A      B3.4    9.1E-04   2736

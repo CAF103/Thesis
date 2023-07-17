@@ -1,0 +1,25 @@
+:Product: 20201026events.txt
+:Created: 2020 Oct 29 0357 UT
+:Date: 2020 10 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Oct 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7370       0422   0430      0436  G16  5   XRA  1-8A      B1.2    9.9E-05   2778
+
+7380       0623   0631      0646  G16  5   XRA  1-8A      B1.2    1.6E-04   2778
+
+7630      A1429   ////     A0646  SVI  3   DSF  N24E01    23                    
+
+7390       1920   1927      1931  G16  5   XRA  1-8A      B1.4    6.2E-05   2778
+
+7400       2245   2252      2256  G16  5   XRA  1-8A      B1.6    8.9E-05   2778
+
+7410       2331   2336      2340  G16  5   XRA  1-8A      B1.7    8.1E-05   2778
+7410 +     2334   ////      2335  LEA  C   RSP  040-180   III/1                 

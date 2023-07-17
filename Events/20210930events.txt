@@ -1,0 +1,68 @@
+:Product: 20210930events.txt
+:Created: 2021 Oct 03 0357 UT
+:Date: 2021 09 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Sep 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7870       0427   ////      0438  LEA  C   RSP  025-180   VI/2                  
+
+7890 +     0505   ////      0558  SVI  C   RSP  113-174   CTM/1                 
+
+7880       0542   0549      0555  G17  5   XRA  1-8A      B9.5    5.6E-04   2877
+
+7900       0559   0704     A0748  SVI  3   FLA  S18W46    SF      ERU       2877
+7900 +     0611   ////      0611  LEA  C   RSP  025-088   III/1             2877
+
+7910       0725   0725      0725  LEA  U   RBR  245       330                   
+
+7920       0726   0726      0726  SVI  G   RBR  245       180                   
+
+7930      B0748  U0748     A0804  SVI  3   FLA  S18W46    SF      ERU       2877
+7930 +     0751   0757      0806  G16  5   XRA  1-8A      B4.9    4.1E-04   2877
+
+7940       0828   ////      0833  SVI  C   RSP  025-144   III/1             2877
+
+7950       0829   ////      0833  LEA  C   RSP  025-109   III/2                 
+
+7940       0831   0839      0845  G16  5   XRA  1-8A      B8.3    6.1E-04   2877
+7940       0844   0844     A0850  SVI  3   FLA  S18W47    SF      ERU       2877
+
+7960       1009   1009      1014  SVI  3   FLA  S18W48    SF      ERU       2877
+
+7970 +     1018   1023      1028  G16  5   XRA  1-8A      B4.8    2.7E-04   2880
+7970       1019   ////      1210  SVI  C   RSP  122-172   CTM/1                 
+
+8050       1106   ////      1324  SAG  C   RSP  123-168   CTM/1                 
+
+7980       1144   1145      1145  SAG  U   RBR  245       140                   
+
+7990 +     1146   1149      1153  G16  5   XRA  1-8A      B6.5    1.8E-04   2877
+7990       1149   1150      1151  SVI  3   FLA  S18W49    SF      ERU       2877
+
+8000 +     1209   1214      1218  G16  5   XRA  1-8A      B3.0    1.5E-04   2877
+8000       1215   1216      1221  SVI  3   FLA  S18W50    SF      ERU       2877
+
+8010 +     1219   1224      1230  G16  5   XRA  1-8A      B5.4    2.7E-04   2877
+8010       1222   1224      1228  SVI  3   FLA  S18W50    SF      ERU       2877
+
+8020       1237   1237      1237  SAG  U   RBR  245       130                   
+
+8030 +     1243   1249      1255  G16  5   XRA  1-8A      C1.2    6.5E-04   2877
+
+8040       1243   1243      1243  SAG  U   RBR  245       100                   
+
+8060       1439   1439      1443  SVI  3   FLA  S18W51    SF      ERU       2877
+
+8070 +     1454   1503      1524  G16  5   XRA  1-8A      B2.9    5.9E-04   2877
+8070       1457   1501      1516  SVI  3   FLA  S18W51    SF      ERU       2877
+
+8080 +     1728   1732      1737  G16  5   XRA  1-8A      B2.8    1.5E-04   2877
+
+8090 +     1817   1825      1833  G16  5   XRA  1-8A      B3.2    3.0E-04   2877

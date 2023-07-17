@@ -1,0 +1,42 @@
+:Product: 20210608events.txt
+:Created: 2021 Jun 11 0357 UT
+:Date: 2021 06 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Jun 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5290       0309   0315      0323  G16  5   XRA  1-8A      B1.7    9.4E-05       
+5290       0323   0338      0342  G16  5   XRA  1-8A      B2.3    2.3E-04   2830
+5290       0342   0348      0354  G16  5   XRA  1-8A      B2.5    1.9E-04   2830
+
+5300 +     0511   0522      0530  G16  5   XRA  1-8A      B3.2    2.7E-04       
+
+5310 +     0927   0934      0942  G16  5   XRA  1-8A      B2.8    2.0E-04       
+
+5320 +     1019   1028      1039  G16  5   XRA  1-8A      B4.7    4.0E-04       
+
+5330 +     1046   1053      1059  G16  5   XRA  1-8A      C1.4    7.4E-04       
+
+5340 +     1328   1339      1354  G16  5   XRA  1-8A      B3.1    4.1E-04       
+
+5350 +     1421   1432      1441  G16  5   XRA  1-8A      B4.0    3.7E-04       
+
+5360 +     1458   1508      1516  G16  5   XRA  1-8A      B3.8    3.2E-04       
+
+5370 +     1542   1551      1557  G16  5   XRA  1-8A      B4.1    3.2E-04       
+
+5380 +     1716   1723      1730  G16  5   XRA  1-8A      C2.4    1.1E-03       
+
+5390 +     1807   1814      1817  G16  5   XRA  1-8A      B4.1    2.3E-04       
+
+5400 +     1847   1908      1917  G16  5   XRA  1-8A      C1.1    1.0E-03       
+
+5410 +     2134   2141      2144  G16  5   XRA  1-8A      B3.3    1.8E-04       
+
+5420 +     2232   2235      2240  G16  5   XRA  1-8A      B4.0    1.8E-04       

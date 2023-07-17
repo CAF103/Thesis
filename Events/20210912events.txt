@@ -1,0 +1,33 @@
+:Product: 20210912events.txt
+:Created: 2021 Sep 15 0357 UT
+:Date: 2021 09 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Sep 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4550       0055   ////      0056  LEA  C   RSP  040-075   III/1                 
+
+4680      A1054   ////     A0538  SVI  3   DSF  N22E50    6                     
+
+4690      A1054   ////     A0538  SVI  3   DSF  N35W16    32                    
+
+4560 +     1736   ////      1739  SAG  C   RSP  025-085   III/2                 
+
+4570       1737   1737      1737  SAG  U   RBR  245       120                   
+
+4580 +     2029   ////      2030  PAL  C   RSP  025-171   III/1                 
+
+4590 +     2215   2222      2227  G16  5   XRA  1-8A      B4.9    2.6E-04   2868
+
+4600 +     2238   2240      2244  G16  5   XRA  1-8A      B4.7    1.6E-04   2868
+
+4610       2310   ////      2312  PAL  C   RSP  025-058   III/1                 
+
+4620 +     2332   2341      2345  G16  5   XRA  1-8A      B6.5    3.3E-04   2868
+4620       2339   2342      2348  HOL  3   FLA  S20W59    SF                2868

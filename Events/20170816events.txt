@@ -1,0 +1,67 @@
+:Product: 20170816events.txt
+:Created: 2017 Aug 19 0357 UT
+:Date: 2017 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2140 +     0133   0139      0143  G13  5   XRA  1-8A      B2.8    1.1E-04   2671
+
+2150 +     0157   0208      0220  G13  5   XRA  1-8A      B3.7    4.0E-04   2671
+2150       0203   0210      0217  LEA  2   FLA  N12E63    SF      ERU       2671
+
+2160       0539   0539      0545  SVI  3   FLA  N11E61    SF      ERU       2671
+
+2170 +     0627   0632      0635  G13  5   XRA  1-8A      B2.4    7.8E-05   2671
+
+2180 +     0740   0755      0758  SVI  3   FLA  N12E60    SF      ERU       2671
+
+2190       0803   0809      0818  SVI  3   FLA  N12E60    SF      ERU       2671
+2190       0813   0813      0813  LEA  G   RBR  245       160               2671
+
+2200 +     0829   0838      0840  G13  5   XRA  1-8A      B5.2    2.3E-04   2671
+2200       0830   0838      0844  SVI  3   FLA  N13E54    SF      DSD       2671
+2200 +     0832   0832      0833  SVI  G   RBR  245       380               2671
+2200       0838   ////      0839  SVI  C   RSP  025-160   III/1             2671
+
+2210       0939   0940      0945  SVI  3   FLA  N12E59    SF      ERU       2671
+
+2220       0948   0948      0950  SVI  3   FLA  N12E59    SF      ERU       2671
+
+2230 +     1011   1015      1021  G13  5   XRA  1-8A      B3.6    1.5E-04   2671
+2230       1015   1017      1025  SVI  3   FLA  N12E59    SF      ERU       2671
+
+2240       1040   1040      1045  SVI  3   FLA  N13E51    SF      ERU       2671
+
+2250 +     1106   1111      1116  G13  5   XRA  1-8A      B4.4    1.7E-04       
+
+2260 +     1133   1138      1145  G13  5   XRA  1-8A      B3.5    1.9E-04   2671
+2260       1135   1136      1140  SVI  3   FLA  N12E58    SF      ERU       2671
+
+2270       1603   ////      1658  HOL  4   EPL  ////      0.2     B.9A      2671
+2270       1645   1646      1648  HOL  4   FLA  N13E49    SF                2671
+
+2280 +     1713   1717      1719  G13  5   XRA  1-8A      B3.2    6.6E-05       
+
+2290 +     1713   ////      1714  SVI  C   RSP  063-171   III/1                 
+2290 +     1713   1713      1715  SAG  G   RBR  245       510                   
+
+2300       1759   ////      1759  PAL  C   RSP  025-073   III/1                 
+
+2310       1805   ////      1852  SAG  C   RSP  030-180   CTM/1                 
+
+2320 +     1945   1948      1954  G13  5   XRA  1-8A      B2.4    9.5E-05       
+
+2330       2109   2113      2116  HOL  3   FLA  N12E56    SF      DSD       2671
+
+2340       2149   2155      2159  G13  5   XRA  1-8A      B2.5    1.1E-04       
+
+2350       2251   2256      2305  G13  5   XRA  1-8A      B2.1    1.4E-04       
+
+2360 +     2359   0003      0008  G13  5   XRA  1-8A      B1.9    7.1E-05   2671

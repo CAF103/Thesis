@@ -1,0 +1,14 @@
+:Product: 20180629events.txt
+:Created: 2018 Jul 02 0357 UT
+:Date: 2018 06 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Jun 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6570      A1646   ////     A0530  SVI  3   DSF  N35E54    11                    

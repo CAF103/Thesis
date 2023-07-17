@@ -1,0 +1,14 @@
+:Product: 20200928events.txt
+:Created: 2020 Oct 01 0357 UT
+:Date: 2020 09 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Sep 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6770 +     1022   1023      1025  SVI  3   FLA  S21W02    SF      ERU       2773

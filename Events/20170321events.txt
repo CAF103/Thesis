@@ -1,0 +1,14 @@
+:Product: 20170321events.txt
+:Created: 2017 Mar 24 0357 UT
+:Date: 2017 03 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Mar 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9660 +     1111   ////      1111  SAG  C   RSP  025-071   III/1                 

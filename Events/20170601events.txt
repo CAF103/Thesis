@@ -1,0 +1,77 @@
+:Product: 20170601events.txt
+:Created: 2017 Jun 04 0357 UT
+:Date: 2017 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5870 +     0003   ////      0030  PAL  C   RSP  025-100   VI/2                  
+
+5880 +     0106   ////      0110  PAL  C   RSP  025-102   III/2                 
+
+5890 +     0112   0143      0153  G15  5   XRA  1-8A      C6.6    5.1E-03   2661
+5890       0139   ////      0159  LEA  3   BSL  ////      0.15              2661
+5890 +     0144   ////      0150  PAL  C   RSP  025-180   II/1    1459      2661
+
+5900 +     0202   ////      0202  PAL  C   RSP  025-100   III/2                 
+
+5910 +     0255   ////      0259  LEA  C   RSP  025-180   III/3                 
+
+5920 +     0333   ////      0333  LEA  C   RSP  025-174   III/2                 
+
+5930       0448   0538      0601  G15  5   XRA  1-8A      B7.8    2.2E-03   2661
+5930       0507   ////      0636  SVI  C   RSP  025-171   VI/2                  
+
+5940 +     0613   ////      0614  LEA  C   RSP  025-100   III/1                 
+
+5970       0653   0753      0809  G15  5   XRA  1-8A      C1.4    3.7E-03   2661
+
+5950       0655   0656      0657  SVI  3   FLA  N07E82    SF      ERU       2661
+
+5960 +     0712   ////      0716  LEA  C   RSP  025-082   III/1                 
+
+5970       0717   0731      0823  SVI  3   FLA  N07E79    SF      ERU       2661
+5970       0744   ////      0752  SVI  C   RSP  025-081   III/2             2661
+
+5980 +     0843   ////      0845  SVI  C   RSP  025-080   III/2                 
+
+6140      A0914   ////     A2332  LEA  3   DSF  S42E10    4                     
+
+5990 +     0922   0925      0929  G15  5   XRA  1-8A      C2.5    5.9E-04   2661
+5990       0923   0924      0928  SVI  3   FLA  N07E81    SF      ERU       2661
+5990       0924   ////      0925  SVI  C   RSP  025-042   III/1             2661
+
+6000       1039   1042      1045  SVI  3   FLA  N07E77    SF      ERU       2661
+
+6010 +     1133   ////      1134  SAG  C   RSP  025-180   V/2                   
+
+6020       1139   1139      1141  SVI  3   FLA  N07E77    SF      ERU       2661
+
+6030       1225   1227      1230  SVI  3   FLA  N07E77    SF      ERU       2661
+
+6040 +     1247   1249      1250  SVI  3   FLA  N07E75    SF      ERU       2661
+
+6050 +     1254   1254      1258  HOL  3   FLA  N05E80    SF                2661
+
+6060 +     1455   ////      1457  SVI  C   RSP  025-079   III/1                 
+
+6070 +     1734   1738      1741  G15  5   XRA  1-8A      C1.0    2.4E-04   2661
+
+6080 +     1756   1809      1833  G15  5   XRA  1-8A      C1.4    2.6E-03   2661
+
+6090       1911   ////      1911  PAL  C   RSP  025-059   III/1                 
+
+6100 +     2022   2028      2032  G15  5   XRA  1-8A      C1.0    3.8E-04   2661
+
+6110 +     2040   ////      2040  SAG  C   RSP  025-064   III/1                 
+
+6120       2131   2259      2322  G15  5   XRA  1-8A      C3.0    1.3E-02       
+6120 +     2146   ////      2147  PAL  C   RSP  025-066   III/1                 
+
+6150       2356   ////      2356  LEA  C   RSP  025-180   III/1                 

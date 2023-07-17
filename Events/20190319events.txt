@@ -1,0 +1,14 @@
+:Product: 20190319events.txt
+:Created: 2019 Mar 22 0357 UT
+:Date: 2019 03 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Mar 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8710 +     2327   ////      2327  LEA  C   RSP  025-090   III/2                 

@@ -1,0 +1,14 @@
+:Product: 20191017events.txt
+:Created: 2019 Oct 20 0357 UT
+:Date: 2019 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4660       1719   1720      1721  G15  5   XRA  1-8A      A1.1    1.2E-05       

@@ -1,0 +1,66 @@
+:Product: 20170910events.txt
+:Created: 2017 Sep 13 0357 UT
+:Date: 2017 09 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8900       0013   ////      0313  LEA  C   RSP  027-146   VI/1                  
+
+8880 +     0130   0130      0130  PAL  G   RBR  245       100                   
+
+8890       0148   0148      0148  PAL  G   RBR  245       120                   
+
+8910       0210   ////      0344  LEA  2   LPS  ////      0.17              2673
+8910 +     0240   0309      0325  G15  5   XRA  1-8A      C9.0    1.5E-02   2673
+8910       0243   0256      0303  LEA  3   FLA  S07W74    SF                2673
+
+8920       0447   ////      0448  LEA  C   RSP  025-134   III/1                 
+
+8930       0632   ////      0639  SVI  C   RSP  025-079   III/1                 
+8930       0632   ////      0916  LEA  C   RSP  025-139   VI/1                  
+
+8970       0701   ////      0937  SVI  C   RSP  025-082   VI/1                  
+
+8950 +     0854   0854      0854  SVI  G   RBR  245       110                   
+
+8960       0857   0908      0916  LEA  3   FLA  S09W84    SF                2673
+8960       0902   0920      0934  G13  5   XRA  1-8A      C2.9    4.4E-03   2673
+
+8980       1135   ////      1135  SVI  C   RSP  025-036   III/1                 
+
+8990 +     1159   ////      1159  SVI  C   RSP  025-180   III/2                 
+
+9000 +     1232   ////      1234  SVI  C   RSP  025-080   III/1                 
+
+9010 +     1419   1423      1425  G15  5   XRA  1-8A      C1.6    2.7E-04   2673
+9010       1422   1422      1423  SAG  G   RBR  410       170                   
+
+9020 +     1521   1521      1521  SAG  G   RBR  410       260                   
+
+9030 +     1523   1526      1528  G15  5   XRA  1-8A      C1.0    1.4E-04   2673
+
+9040 +     1535   1606      1631  G15  5   XRA  1-8A      X8.2    1.4E00    2673
+9040 +     1550   1554      1608  SAG  G   RBR  1415      2400    CastelliU     
+9040 +     1550   1554      1706  SAG  G   RBR  2695      1900    CastelliU     
+9040 +     1551   1601      1706  SAG  G   RBR  4995      2600    CastelliU     
+9040 +     1552   1559      1706  SAG  G   RBR  8800      10000   CastelliU     
+9040 +     1552   1558      1706  SAG  G   RBR  15400     21000   CastelliU     
+9040       1553   1555      1606  SAG  G   RBR  610       1100    CastelliU     
+9040 +     1553   ////      1624  SAG  C   RSP  025-180   IV/2                  
+9040 +     1553   1558      1604  SAG  G   RBR  245       670     CastelliU     
+9040 +     1554   1556      1607  SAG  G   RBR  410       910     CastelliU     
+9040       1554   ////      1604  SAG  C   RSP  025-180   III/2                 
+9040 +     1608   ////      1612  SAG  C   RSP  025-043   II/1    928           
+9040       1756   ////      2359  HOL  3   LPS  ////      0.07                  
+
+9050       1841   ////      2041  PAL  C   RSP  025-075   CTM/2                 
+9050 +     1923   1925      1926  SAG  G   RBR  610       280                   
+
+9060 +     2059   2101      2105  PAL  G   RBR  610       420                   

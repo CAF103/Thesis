@@ -1,0 +1,14 @@
+:Product: 20210210events.txt
+:Created: 2021 Feb 13 0357 UT
+:Date: 2021 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6170       1142   1206      1217  G16  5   XRA  1-8A      B5.7    6.3E-04       

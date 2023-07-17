@@ -1,0 +1,14 @@
+:Product: 20170917events.txt
+:Created: 2017 Sep 20 0357 UT
+:Date: 2017 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9650      A1549   ////     A0539  SVI  3   DSF  N49E62    24                    

@@ -1,0 +1,63 @@
+:Product: 20170820events.txt
+:Created: 2017 Aug 23 0357 UT
+:Date: 2017 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2970       0036   0039      0203  LEA  G   RNS  245       100                   
+2970 +     0136   0152      0203  G13  5   XRA  1-8A      M1.1    1.1E-02   2672
+
+3000       0225   0225      0225  LEA  G   RBR  245       120                   
+
+3010 +     0422   0440      0453  G13  5   XRA  1-8A      C1.8    2.1E-03   2671
+3010       0431   0438      0450  LEA  3   FLA  N11E11    SF      DSD       2671
+
+3080       0459   ////      0858  SVI  C   RSP  025-171   CTM/1                 
+
+3020 +     0520   0520      0520  LEA  G   RBR  245       180                   
+
+3040 +     0522   0522      0522  LEA  G   RBR  245       340                   
+
+3060 +     0623   0627      0631  G13  5   XRA  1-8A      B6.6    2.1E-04   2672
+
+3070 +     0745   0750      0754  G13  5   XRA  1-8A      C2.9    9.5E-04   2671
+3070 +     0747   0749      0800  SVI  3   FLA  N10E02    SN      ERU       2671
+
+3090       1022   1034      1035  SVI  3   FLA  N09E00    SF      ERU       2671
+
+3150       1119   ////      1312  SVI  C   RSP  075-171   CTM/1                 
+
+3120       1215   1215      1217  SVI  3   FLA  N05E84    SF      ERU       2672
+
+3100       1216   1221      1226  G13  5   XRA  1-8A      B6.1    2.7E-04   2671
+
+3110       1219   1220      1226  SVI  3   FLA  N05E84    SF      ERU       2672
+
+3100       1220   1221      1223  SVI  3   FLA  N11W01    SF      ERU       2671
+
+3170       1255   ////      1409  SVI  C   RSP  025-080   VI/1                  
+
+3160 +     1340   1340      1340  SVI  G   RBR  245       150                   
+
+3180 +     1440   1445      1452  G13  5   XRA  1-8A      C1.0    5.2E-04   2672
+
+3190 +     1920   1939      1949  G13  5   XRA  1-8A      C9.4    1.1E-02   2672
+3190       1935   1935      1939  SAG  G   RBR  610       21                    
+3190       1935   1938      1940  SAG  G   RBR  4995      36                    
+3190       1935   1938      1940  SAG  G   RBR  8800      110                   
+3190       1935   1938      1940  SAG  G   RBR  15400     95                    
+3190       1935   1939      1939  SAG  G   RBR  2695      26                    
+3190       1937   1938      1939  SAG  G   RBR  1415      35                    
+3190       1938   1938      1939  SAG  G   RBR  410       76                    
+3190       1938   1938      1938  SAG  G   RBR  245       30                    
+
+3200       2209   2210      2210  SAG  G   RBR  245       200                   
+
+3210       2303   2309      2313  HOL  4   FLA  N11W00    SF      ERU       2671

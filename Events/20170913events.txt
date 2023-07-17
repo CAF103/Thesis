@@ -1,0 +1,37 @@
+:Product: 20170913events.txt
+:Created: 2017 Sep 16 0357 UT
+:Date: 2017 09 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9480       0328   ////      0332  LEA  C   RSP  025-180   III/2                 
+
+9490 +     0340   ////      0342  LEA  C   RSP  025-180   III/1                 
+
+9500       0538   0541      0551  G15  5   XRA  1-8A      B1.1    6.8E-05   2680
+9500 +     0539   0540      0541  LEA  G   RBR  245       1200                  
+9500 +     0539   ////      0542  LEA  C   RSP  025-180   V/2                   
+
+9510 +     0720   ////      0743  LEA  C   RSP  025-105   VI/1                  
+9510 +     0739   0748      0809  G15  5   XRA  1-8A      B1.4    2.1E-04   2680
+
+9570       0757   ////      1201  SVI  3   DSF  S18W47    10                    
+
+9580      A0934   ////     A2300  LEA  4   DSF  S18W47    18                    
+
+9520 +     1245   ////      1246  SVI  C   RSP  025-151   III/1                 
+
+9530       1350   ////      1351  SVI  C   RSP  025-075   III/1                 
+
+9540 +     1621   ////      1624  SVI  C   RSP  025-168   III/1                 
+
+9550       1647   1647      1655  HOL  4   FLA  N09E29    SF      DSD       2680
+
+9560 +     1719   1719      1719  SAG  G   RBR  245       140                   

@@ -1,0 +1,40 @@
+:Product: 20190130events.txt
+:Created: 2019 Feb 02 0357 UT
+:Date: 2019 01 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Jan 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8210 +     0209   0214      0220  G15  5   XRA  1-8A      B1.7    8.1E-05   2733
+
+8220 +     0433   0436      0440  G15  5   XRA  1-8A      B1.6    4.5E-05   2733
+
+8230       0513   0527      0535  G15  5   XRA  1-8A      B3.6    3.5E-04   2733
+
+8240 +     0556   0611      0619  G15  5   XRA  1-8A      C5.2    3.5E-03   2733
+
+8250 +     0741   0744      0746  G15  5   XRA  1-8A      B3.2    4.9E-05   2733
+
+8260 +     0828   0834      0843  G15  5   XRA  1-8A      B2.3    1.6E-04   2733
+
+8270 +     1031   1038      1043  G15  5   XRA  1-8A      B8.5    3.1E-04   2733
+
+8280 +     1116   1124      1132  G15  5   XRA  1-8A      C1.3    7.8E-04   2733
+
+8290 +     1410   1415      1418  G15  5   XRA  1-8A      B1.7    5.4E-05   2733
+
+8300       1522   1526      1529  G15  5   XRA  1-8A      B1.1    3.0E-05   2733
+
+8310 +     1700   1705      1707  G15  5   XRA  1-8A      B9.7    2.1E-04   2733
+
+8320 +     1920   1928      2000  G15  5   XRA  1-8A      B4.1    7.0E-04   2733
+
+8330 +     2027   2034      2040  G15  5   XRA  1-8A      B5.3    2.6E-04   2733
+
+8340 +     2228   2232      2235  G15  5   XRA  1-8A      B2.5    6.3E-05   2733

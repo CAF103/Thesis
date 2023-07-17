@@ -1,0 +1,54 @@
+:Product: 20201126events.txt
+:Created: 2020 Nov 29 0357 UT
+:Date: 2020 11 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1370       0038   0047      0057  G16  5   XRA  1-8A      B6.1    5.9E-04   2786
+1370       0043   ////      0204  LEA  C   RSP  025-089   VI/2                  
+
+1380       0223   0227      0239  LEA  3   FLA  S19E54    SF                2786
+
+1390       0245   ////      0328  LEA  C   RSP  030-160   VI/2                  
+
+1400       0406   ////      0406  LEA  C   RSP  033-048   III/2                 
+
+1410       0427   0427      0427  LEA  G   RBR  410       2300                  
+1410       0427   0427      0427  LEA  G   RBR  610       290                   
+
+1420       0435   ////      0435  LEA  C   RSP  128-180   III/1                 
+
+1430       0435   0435      0435  LEA  G   RBR  245       1000                  
+
+1440       0522   ////      0523  LEA  C   RSP  025-118   III/1                 
+
+1450       0652   0655      0659  G16  5   XRA  1-8A      C1.8    4.9E-04   2786
+1450      B0654  U0656     A0700  SVI  3   FLA  S21E48    SF      ERU       2786
+
+1460 +     0751   0755      0759  G16  5   XRA  1-8A      B7.6    4.0E-04   2786
+
+1470       0857   ////      0859  LEA  C   RSP  025-120   III/1                 
+
+1480       1242   1253      1307  G16  5   XRA  1-8A      C3.8    3.3E-03   2786
+1480      B1248  U1253     A1326  SVI  3   FLA  S17E51    SF      ERU       2786
+
+1490       1535   1540      1544  G16  5   XRA  1-8A      C1.0    3.9E-04   2786
+1490       1539   1539      1547  HOL  3   FLA  S12E41    SF      ERU       2786
+
+1500       1711   1720      1726  G16  5   XRA  1-8A      B5.4    4.3E-04   2786
+1500       1718   1719      1725  HOL  3   FLA  S24E41    SF                2786
+
+1510       1856   1859      1901  HOL  3   FLA  S22E27    SF                2785
+
+1580       1920   2123      2353  G16  5   XRA  1-8A      C2.6    1.7E-02       
+
+1520 +     2005   ////      2005  PAL  C   RSP  025-046   III/2                 
+
+1530       2145   2146      2149  HOL  3   FLA  S22E27    SF                2785

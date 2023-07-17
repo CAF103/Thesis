@@ -1,0 +1,20 @@
+:Product: 20201115events.txt
+:Created: 2020 Nov 18 0357 UT
+:Date: 2020 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 140       1826   1840      1851  G16  5   XRA  1-8A      B3.3    3.3E-04   2781
+
+ 150       2228   2237      2243  G16  5   XRA  1-8A      B2.1    1.5E-04   2781
+
+ 160       2327   2335      2339  G16  5   XRA  1-8A      B2.1    1.0E-04   2781
+
+ 170       2350   2355      2359  G16  5   XRA  1-8A      B2.4    1.1E-04   2781

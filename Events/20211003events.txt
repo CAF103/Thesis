@@ -1,0 +1,95 @@
+:Product: 20211003events.txt
+:Created: 2021 Oct 06 0357 UT
+:Date: 2021 10 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8370 +     0027   ////      0116  PAL  C   RSP  025-067   VI/2                  
+
+8660      A0028   ////     A1331  HOL  3   DSF  N23W01    11                    
+
+8670      A0028   ////     A1331  HOL  3   DSF  S23W09    7                     
+
+8380 +     0231   ////      0232  LEA  C   RSP  025-130   III/2                 
+
+8390 +     0313   ////      0316  LEA  C   RSP  025-090   III/1                 
+
+8400       0408   0416      0430  G17  5   XRA  1-8A      B4.8    4.6E-04   2877
+8400       0424   ////      0527  LEA  C   RSP  025-180   VI/1                  
+
+8410       0523   0523      0523  LEA  G   RBR  2695      100                   
+
+8420       0526   ////      0527  SVI  C   RSP  025-180   III/1                 
+
+8430 +     0627   0627      0629  LEA  G   RBR  245       150                   
+
+8500 +     0627   0648      0845  LEA  G   RNS  245       400                   
+
+8460       0651   ////      0836  LEA  C   RSP  025-180   VI/1                  
+
+8450       0705   ////      0728  SVI  C   RSP  025-083   VI/1                  
+
+8440 +     0707   0722      0746  G16  5   XRA  1-8A      C1.8    3.1E-03   2877
+8440       0712   0712      0718  SVI  3   FLA  S17W79    SF                2877
+
+8470       0805   ////      0837  SVI  C   RSP  025-123   VI/1                  
+
+8480       0953   0959      1000  SVI  G   RBR  245       160                   
+
+8490       1014   1014      1014  SVI  G   RBR  245       110                   
+
+8510 +     1018   1028      1034  G16  5   XRA  1-8A      B2.2    1.9E-04   2880
+8510       1024   ////      1030  SVI  C   RSP  025-180   III/2                 
+
+8520       1116   1116      1116  SAG  U   RBR  245       120                   
+
+8530       1154   ////      1155  SVI  C   RSP  025-043   III/1                 
+
+8540       1155   ////      1155  SAG  C   RSP  025-048   III/1                 
+
+8550       1227   1227      1227  SAG  U   RBR  245       110                   
+
+8560 +     1317   ////      1321  SVI  C   RSP  032-180   III/2                 
+
+8570       1321   1321      1321  SAG  U   RBR  245       100                   
+
+8580 +     1334   ////      1359  SAG  C   RSP  025-041   VI/2                  
+
+8590 +     1353   1401      1405  G16  5   XRA  1-8A      B1.8    1.2E-04   2877
+
+8600 +     1439   ////      1507  SAG  C   RSP  025-180   VI/2                  
+
+8610       1607   1607      1607  SAG  U   RBR  245       110                   
+
+8620 +     1620   1630      1634  G16  5   XRA  1-8A      B3.0    2.1E-04   2880
+8620       1628   ////      1629  SAG  C   RSP  025-180   III/2                 
+
+8630       1816   1816      1817  SAG  U   RBR  245       150                   
+
+8680       1838   ////      2139  SAG  C   RSP  136-180   CTM/1                 
+
+8640 +     1841   ////      1842  SAG  C   RSP  025-075   III/1                 
+
+8680       1913   ////      2218  PAL  C   RSP  025-076   VI/1                  
+
+8650       1937   1938      1939  SAG  U   RBR  245       160                   
+
+8690       1954   1959      2003  SAG  U   RBR  245       190                   
+8690       1958   ////      2049  SAG  C   RSP  025-075   VI/1                  
+
+8700       2018   2018      2018  SAG  U   RBR  245       230                   
+
+8710       2036   2036      2036  SAG  U   RBR  245       120                   
+
+8720 +     2124   2134      2149  G16  5   XRA  1-8A      B2.2    2.9E-04   2877
+
+8740       2214   ////      2359  LEA  C   RSP  065-180   CTM/1                 
+
+8730       2303   ////      2316  PAL  C   RSP  025-050   VI/1                  

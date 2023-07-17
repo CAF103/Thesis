@@ -1,0 +1,15 @@
+:Product: 20170914events.txt
+:Created: 2017 Sep 17 0357 UT
+:Date: 2017 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9590 +     0056   ////      0105  PAL  C   RSP  025-180   III/2                 
+9590       0057   0057      0057  LEA  G   RBR  245       130                   

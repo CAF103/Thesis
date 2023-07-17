@@ -1,0 +1,21 @@
+:Product: 20180403events.txt
+:Created: 2018 Apr 06 0357 UT
+:Date: 2018 04 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Apr 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4660 +     0356   0405      0415  G15  5   XRA  1-8A      B2.1    1.8E-04   2703
+4660       0359   0405      0411  LEA  3   FLA  S10E23    SF      ERU       2703
+
+4670 +     1413   1417      1432  G15  5   XRA  1-8A      B1.2    1.1E-04   2703
+4670       1414   1418      1425  SVI  3   FLA  S09E17    SF      ERU       2703
+
+4680 +     2030   2035      2038  G15  5   XRA  1-8A      B2.0    5.5E-05   2703
+4680       2033   2036      2046  HOL  3   FLA  S10E12    SF      ERU       2703

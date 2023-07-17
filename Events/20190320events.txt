@@ -1,0 +1,56 @@
+:Product: 20190320events.txt
+:Created: 2019 Mar 23 0357 UT
+:Date: 2019 03 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Mar 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8720       0017   0020      0022  G14  5   XRA  1-8A      B1.1    1.8E-05       
+
+8730       0153   ////      0153  LEA  C   RSP  025-080   III/1                 
+8730       0153   ////      0211  PAL  C   RSP  025-065   VI/1                  
+
+8740 +     0707   0714      0716  G15  5   XRA  1-8A      B6.1    2.6E-04       
+8740       0709   ////      0710  LEA  C   RSP  025-173   III/2                 
+
+8750       0845   0847      0901  LEA  3   FLA  N07W27    SF                2736
+8750       0849   ////      0854  LEA  C   RSP  025-054   III/2             2736
+
+8760 +     1035   1118      1134  G15  5   XRA  1-8A      C4.8    6.7E-03   2736
+8760      B1042  U1112     A1219  SVI  3   FLA  N09W26    1N      PRB       2736
+8760 +     1109   1110      1113  SVI  G   RBR  245       220               2736
+8760 +     1110   1110      1113  SVI  G   RBR  410       84                2736
+8760       1111   1111      1111  SVI  G   RBR  1415      71                2736
+8760       1111   ////      1113  SAG  C   RSP  025-085   III/2             2736
+8760       1120   ////      1123  SAG  C   RSP  031-056   II/1    3762      2736
+8760 +     1130   1136      1136  SAG  G   RBR  610       1400              2736
+
+8770 +     1219   1225      1228  G15  5   XRA  1-8A      B4.4    1.7E-04   2736
+8770      B1221  U1223     A1258  SVI  3   FLA  N09W26    SF      ERU       2736
+
+8780       1306   1309      1314  G15  5   XRA  1-8A      B1.0    3.3E-05   2736
+
+8790       1340   1343      1349  G15  5   XRA  1-8A      B1.0    4.0E-05   2736
+
+8800       1423   1432      1448  G15  5   XRA  1-8A      B2.1    2.2E-04   2736
+8800       1430   1431      1434  HOL  3   FLA  N09W28    SF      ERU       2736
+
+8810       1443   1445      1447  HOL  3   FLA  N09W28    SF                2736
+
+8820 +     1736   1759      1812  G15  5   XRA  1-8A      B3.2    5.2E-04   2736
+8820      B1754  U1756      1811  HOL  1   FLA  N09W29    SF      ERU       2736
+
+8830 +     1859   1901      1904  SAG  G   RBR  610       7500                  
+8830       1900   ////      2030  PAL  C   RSP  038-058   CTM/1                 
+
+8840       1919   ////      1946  PAL  U   RSP  025-055   VI/1                  
+8840       1919   ////      1924  SAG  C   RSP  025-037   III/1                 
+
+8850 +     2119   2124      2132  G15  5   XRA  1-8A      B1.8    1.1E-04   2736
+8850       2122   2123      2128  HOL  3   FLA  N10W31    SF      ERU       2736

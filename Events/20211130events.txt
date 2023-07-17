@@ -1,0 +1,19 @@
+:Product: 20211130events.txt
+:Created: 2021 Dec 03 0357 UT
+:Date: 2021 11 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Nov 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5620 +     0012   0020      0033  G16  5   XRA  1-8A      B3.0    3.4E-04       
+
+5630 +     0252   0258      0319  G16  5   XRA  1-8A      B3.1    4.1E-04       
+
+5640       0621   0630      0633  G16  5   XRA  1-8A      B2.1    1.5E-04       
+5640       0633   0641      0645  G16  5   XRA  1-8A      B2.3    1.7E-04       

@@ -1,0 +1,16 @@
+:Product: 20201117events.txt
+:Created: 2020 Nov 20 0357 UT
+:Date: 2020 11 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 260 +     0948   ////      0950  SVI  C   RSP  030-081   III/1                 
+
+ 270       1334   1335      1336  SAG  G   RBR  8800      230                   

@@ -1,0 +1,14 @@
+:Product: 20180821events.txt
+:Created: 2018 Aug 24 0357 UT
+:Date: 2018 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6870 +     1846   ////      1846  PAL  C   RSP  025-075   III/1                 

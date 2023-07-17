@@ -1,0 +1,14 @@
+:Product: 20181002events.txt
+:Created: 2018 Oct 05 0357 UT
+:Date: 2018 10 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Oct 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7210       0441   0445      0448  G14  5   XRA  1-8A      B1.1    2.9E-05       

@@ -1,0 +1,16 @@
+:Product: 20171117events.txt
+:Created: 2017 Nov 20 0357 UT
+:Date: 2017 11 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Nov 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1890       0011   ////      0029  LEA  C   RSP  025-180   VII/3                 
+1890 +     0021   0028      0030  G15  5   XRA  1-8A      B6.2    1.8E-04   2687
+1890       0028   0028      0028  LEA  G   RBR  1415      110                   

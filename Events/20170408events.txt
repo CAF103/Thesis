@@ -1,0 +1,39 @@
+:Product: 20170408events.txt
+:Created: 2017 Apr 11 0357 UT
+:Date: 2017 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3160 +     0038   0047      0051  G15  5   XRA  1-8A      B4.0    1.9E-04   2645
+
+3170 +     0142   0148      0153  G15  5   XRA  1-8A      B3.0    1.5E-04   2650
+
+3180 +     0255   0309      0317  G15  5   XRA  1-8A      C1.1    8.0E-04   2645
+3180 +     0301   ////      0301  PAL  C   RSP  025-180   III/1                 
+
+3190       0449   ////      0450  LEA  U   RSP  025-043   III/1                 
+
+3200 +     0538   ////      0539  LEA  C   RSP  055-147   III/1                 
+
+3210       0847   0905      0912  G13  5   XRA  1-8A      C1.2    7.6E-04   2645
+
+3220 +     1323   1328      1335  G15  5   XRA  1-8A      B3.2    1.7E-04   2650
+
+3230 +     1414   1417      1423  G15  5   XRA  1-8A      B3.3    1.3E-04   2645
+
+3240 +     1505   1510      1516  G15  5   XRA  1-8A      B3.6    1.7E-04   2650
+
+3290       1703   1714      1726  G15  5   XRA  1-8A      B3.1    3.6E-04   2650
+
+3250 +     1918   1929      1945  G15  5   XRA  1-8A      B4.9    6.6E-04   2645
+
+3260       2059   2059      2059  SAG  G   RBR  8800      120                   
+
+3300       2351   0016      0023  G15  5   XRA  1-8A      B2.3    3.8E-04   2650

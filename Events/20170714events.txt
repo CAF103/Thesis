@@ -1,0 +1,76 @@
+:Product: 20170714events.txt
+:Created: 2017 Jul 17 0357 UT
+:Date: 2017 07 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jul 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9760       0012   0050      0100  G15  5   XRA  1-8A      C1.4    2.9E-03   2665
+
+9750       0046   0046      0047  LEA  G   RBR  245       140                   
+
+9760       0053   0211      0234  PAL  G   RBR  245       2400                  
+
+9780       0103   0113      0218  PAL  G   RBR  410       1500              2665
+9780       0104   0114      0218  LEA  G   RNS  410       2100              2665
+9780       0107   0209      0324  G15  5   XRA  1-8A      M2.4    1.3E-01   2665
+9780       0107   0113      0212  PAL  G   RBR  610       1600              2665
+9780       0107   0113      0218  LEA  G   RNS  610       2100              2665
+9780       0109   0128      0155  PAL  G   RBR  1415      440               2665
+9780       0110   0215      0455  LEA  3   FLA  S06W29    1N      UMB       2665
+9780       0110   0214      0626  LEA  G   RNS  245       3300              2665
+9780 +     0110   0151      0154  LEA  G   RBR  2695      130               2665
+9780 +     0110   0126      0145  LEA  G   RBR  4995      320               2665
+9780 +     0114   0126      0131  LEA  G   RBR  8800      110               2665
+9780 +     0123   0126      0138  LEA  G   RBR  15400     140               2665
+9780      B0125   ////     A0630  SOH  4   CME  XUV,EUV,UV236-235/FS1251      2665
+
+9770       0136   0137      0139  LEA  3   FLA  N11W73    SF                2667
+
+9790       0236   0237      0237  PAL  G   RBR  245       100                   
+
+9780       0353   ////      0745  SVI  C   RSP  037-171   IV/1              2665
+
+9810      B0424  U0438      0648  SVI  3   FLA  S08W28    1F      ERU       2665
+
+9820       0655   0702      0709  SVI  3   FLA  S08W30    SF      ERU       2665
+
+9830 +     0731   0733      0735  LEA  3   FLA  N11W76    SF                2667
+
+9840       0816   0816      0818  SVI  3   FLA  N08W77    SF      ERU       2667
+
+9850       0852   ////      0852  SVI  C   RSP  025-041   III/1             2667
+9850       0900   0905      0915  SVI  3   FLA  N08W77    SF      ERU       2667
+
+9860       0902   ////      0903  SVI  C   RSP  025-074   III/1             2667
+9860       0904   0907      0908  LEA  3   FLA  N12W76    SF                2667
+
+9870       0926   0926      0927  SVI  3   FLA  N08W77    SF      ERU       2667
+
+9880       1004   1004      1008  SVI  3   FLA  N08W79    SF      ERU       2667
+
+9890       1152   1153      1155  SVI  3   FLA  N08W79    SF      ERU       2667
+
+9900       1205   1205      1208  SVI  3   FLA  N08W79    SF      ERU       2667
+
+9910       1700   ////      1700  SAG  C   RSP  025-030   III/1                 
+
+9920       1820   1822      1825  HOL  3   FLA  S06W41    SF                2665
+
+9930 +     1918   1925      1944  G15  5   XRA  1-8A      C1.4    1.7E-03   2665
+
+9940       2213   2213      2213  SAG  G   RBR  245       100                   
+
+9950 +     2238   2238      2238  PAL  G   RBR  245       170                   
+
+9960       2305   2305      2305  PAL  G   RBR  245       150                   
+
+9970       2328   2328      2328  LEA  G   RBR  245       140                   
+
+9980       2338   2338      2338  LEA  G   RBR  245       200                   

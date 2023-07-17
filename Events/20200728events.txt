@@ -1,0 +1,14 @@
+:Product: 20200728events.txt
+:Created: 2020 Jul 31 0357 UT
+:Date: 2020 07 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Jul 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5950 +     0817   ////      0817  LEA  C   RSP  025-106   III/2                 

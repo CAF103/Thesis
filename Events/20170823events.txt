@@ -1,0 +1,52 @@
+:Product: 20170823events.txt
+:Created: 2017 Aug 26 0357 UT
+:Date: 2017 08 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Aug 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3760       0025   0025      0025  LEA  G   RBR  245       330               2672
+3760       0025   0045      0049  G13  5   XRA  1-8A      B3.0    2.9E-04   2672
+3760      B0047   0054     A0104  HOL  1   FLA  N02E46    SF                2672
+
+3770       0145   0153      0156  G13  5   XRA  1-8A      B3.3    1.5E-04       
+
+3780       0158   0159      0159  LEA  G   RBR  245       190                   
+
+3790       0224   0224      0224  PAL  G   RBR  245       210                   
+
+3830       0225   0411      0411  LEA  G   RNS  245       340                   
+
+3800       0338   0338      0338  PAL  G   RBR  245       110                   
+
+3810       0438   ////      0715  SVI  C   RSP  083-171   CTM/1                 
+
+3820 +     0624   0647      0657  G13  5   XRA  1-8A      C1.6    1.7E-03   2671
+3820 +     0628   0648      0704  LEA  3   FLA  N10W33    SF      ERU       2671
+
+3840       1238   ////      1238  SAG  C   RSP  025-043   III/1                 
+
+3850       1324   1343      1355  G13  5   XRA  1-8A      C2.2    2.7E-03   2672
+3850       1328   1339      1343  SVI  3   FLA  N07E41    SF      ERU       2672
+
+3910       1343   1347      1358  SVI  3   FLA  N09E43    SF      ERU       2672
+
+3860       1403   ////      1412  SAG  C   RSP  025-039   III/1                 
+
+3870 +     1435   ////      1436  SVI  C   RSP  031-055   III/1                 
+
+3880       1644   ////      1651  PAL  C   RSP  025-071   III/1                 
+
+3890       1743   1756      1822  G13  5   XRA  1-8A      C1.9    3.3E-03   2671
+3890       1743   1755      1852  HOL  3   FLA  N10W45    1F      ERU       2671
+
+3900       1910   1931      1941  G13  5   XRA  1-8A      C1.2    1.7E-03   2672
+3900       1913   1915      1942  HOL  3   FLA  N06E39    SF      YSR       2672
+
+3920 +     2225   ////      2225  PAL  C   RSP  025-116   III/2                 

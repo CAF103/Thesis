@@ -1,0 +1,20 @@
+:Product: 20170919events.txt
+:Created: 2017 Sep 22 0357 UT
+:Date: 2017 09 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9670       0308   ////      0309  LEA  C   RSP  025-146   III/3                 
+
+9680       0437   ////      0437  LEA  C   RSP  025-082   III/1                 
+
+9690       0812   ////      1233  SVI  3   DSF  S32E64    22                    
+
+9700      A0938   ////     A2257  LEA  3   DSF  S25E44    7                     

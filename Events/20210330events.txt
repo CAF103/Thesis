@@ -1,0 +1,17 @@
+:Product: 20210330events.txt
+:Created: 2021 Apr 02 0357 UT
+:Date: 2021 03 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Mar 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7690 +     1946   2005      2018  G16  5   XRA  1-8A      B7.4    7.8E-04   2811
+7690       1959   2003      2015  HOL  3   FLA  N23W53    SF      ERU       2811
+
+7700 +     2054   2102      2111  G16  5   XRA  1-8A      B1.0    9.9E-05   2811

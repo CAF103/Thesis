@@ -1,0 +1,50 @@
+:Product: 20211023events.txt
+:Created: 2021 Oct 26 0357 UT
+:Date: 2021 10 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Oct 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 950 +     0106   0111      0117  G16  5   XRA  1-8A      B3.5    2.2E-04   2887
+
+ 960 +     0219   0224      0230  G16  5   XRA  1-8A      B5.4    3.1E-04   2887
+
+ 970 +     0300   0310      0320  G16  5   XRA  1-8A      B4.6    4.8E-04   2887
+
+ 980 +     0653   0659      0711  G16  5   XRA  1-8A      B3.6    3.5E-04   2887
+
+ 990 +     1139   ////      1139  SVI  C   RSP  026-078   III/1                 
+
+1000 +     1201   1211      1217  G16  5   XRA  1-8A      B6.2    4.0E-04       
+
+1010 +     1253   1257      1301  G16  5   XRA  1-8A      B3.3    1.5E-04   2887
+1010       1255  U1256     A1306  SVI  3   FLA  S30E63    SF                2887
+
+1020 +     1316   ////      1317  SAG  C   RSP  025-180   III/1                 
+
+1040       1347  U1350     A1357  SVI  3   FLA  S25E62    SF                2887
+1040 +     1359   1402      1406  G16  5   XRA  1-8A      B3.7    1.5E-04   2887
+
+1050 +     1444   1449      1455  G16  5   XRA  1-8A      B3.4    2.1E-04   2887
+
+1060 +     1511   ////      1513  SAG  C   RSP  025-180   III/2                 
+
+1070       1631   ////      1632  SAG  C   RSP  025-068   III/1                 
+
+1080 +     1807   1811      1817  G16  5   XRA  1-8A      B3.6    2.0E-04   2887
+
+1090 +     1902   ////      1903  SAG  C   RSP  025-085   III/1                 
+
+1110 +     1934   ////      1945  PAL  C   RSP  025-091   VI/2                  
+
+1120 +     2043   ////      2047  PAL  C   RSP  025-062   III/2                 
+
+1130 +     2301   2310      2317  G16  5   XRA  1-8A      B3.7    3.0E-04   2887
+1130       2305   ////      2309  PAL  C   RSP  025-180   III/2                 
+1130       2306   2306      2306  LEA  G   RBR  245       110                   

@@ -1,0 +1,20 @@
+:Product: 20170217events.txt
+:Created: 2017 Feb 20 0357 UT
+:Date: 2017 02 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Feb 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6340       0028   ////      1630  HOL  3   DSF  N07E37    6                     
+
+6350      A0901   ////     A2306  LEA  3   DSF  S08W56    8                     
+
+6320       0927   0932      0938  G15  5   XRA  1-8A      B1.6    7.9E-05   2636
+
+6330       0953   0956      0958  G15  5   XRA  1-8A      B1.3    2.1E-05   2636

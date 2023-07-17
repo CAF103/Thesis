@@ -1,0 +1,22 @@
+:Product: 20201226events.txt
+:Created: 2020 Dec 29 0357 UT
+:Date: 2020 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4850 +     0259   ////      0301  LEA  C   RSP  025-180   III/3                 
+
+4860       0352   ////      0353  LEA  C   RSP  025-180   III/2                 
+
+4870       1955   2001      2005  G16  5   XRA  1-8A      B1.4    7.4E-05   2795
+
+4890       2056   ////      2220  HOL  3   DSF  S23E45    12                2795
+
+4880       2156   2156      2156  LEA  G   RBR  610       120                   

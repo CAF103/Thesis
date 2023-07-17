@@ -1,0 +1,37 @@
+:Product: 20180825events.txt
+:Created: 2018 Aug 28 0357 UT
+:Date: 2018 08 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Aug 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6910 +     0200   0205      0209  G15  5   XRA  1-8A      B2.6    8.1E-05   2720
+
+6920       0212   0214      0214  LEA  G   RBR  1415      100                   
+
+6930 +     0304   0309      0312  G15  5   XRA  1-8A      B3.4    9.7E-05   2720
+
+6940 +     0323   0332      0334  G15  5   XRA  1-8A      B1.4    6.8E-05   2719
+
+6950 +     0521   0525      0529  G15  5   XRA  1-8A      B1.8    5.1E-05   2720
+
+6960 +     0701   0704      0706  G15  5   XRA  1-8A      B1.4    2.2E-05   2720
+6960      B0702  U0704      0707  SVI  3   FLA  N07W28    SF      ERU       2720
+
+6970 +     0736   0740      0754  G15  5   XRA  1-8A      B1.0    9.0E-05   2720
+
+6980 +     0802   0813      0830  G15  5   XRA  1-8A      B2.6    3.4E-04   2720
+
+6990 +     1035   1048      1101  G15  5   XRA  1-8A      B4.1    4.6E-04   2720
+
+7000      B1104  U1104     A1105  SVI  3   FLA  N09W30    SF      ERU       2720
+
+7010 +     1829   1833      1837  G15  5   XRA  1-8A      B1.0    3.5E-05   2720
+
+7020 +     2124   2128      2130  G15  5   XRA  1-8A      B1.9    3.3E-05   2720

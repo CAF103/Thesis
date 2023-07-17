@@ -1,0 +1,63 @@
+:Product: 20201230events.txt
+:Created: 2020 Dec 31 2127 UT
+:Date: 2020 12 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5290       0003   ////      0134  LEA  C   RSP  025-180   VI/2                  
+5290       0043   0043      0043  LEA  G   RBR  245       100                   
+
+5340       0218   ////      0518  LEA  C   RSP  025-180   VI/3                  
+
+5300       0233   0239      0243  G16  5   XRA  1-8A      B1.8    6.8E-05   2795
+5300       0236   0239      0239  LEA  G   RBR  245       920                   
+
+5310       0328   ////      0328  PAL  C   RSP  025-180   III/2                 
+
+5320       0406   ////      0408  LEA  C   RSP  025-180   V/3                   
+5320       0408   0408      0408  LEA  G   RBR  245       590                   
+5320       0408   0408      0408  LEA  G   RBR  410       130                   
+
+5330       0415   0421      0425  G16  5   XRA  1-8A      B1.1    5.8E-05   2795
+
+5350       0518   0518      0518  LEA  G   RBR  245       110                   
+
+5360       0603   ////      0604  LEA  C   RSP  025-163   III/2                 
+
+5370       0727   0735      0748  G16  5   XRA  1-8A      B1.8    2.1E-04   2795
+
+5380 +     0822   ////      0822  LEA  C   RSP  025-180   III/2                 
+
+5390       0833   ////      0842  SVI  C   RSP  025-180   III/2                 
+
+5400       0907   0913      0917  G16  5   XRA  1-8A      B1.1    5.3E-05       
+5400 +     0912   ////      0913  SVI  C   RSP  025-180   III/2                 
+5400       0913   0913      0913  SVI  G   RBR  245       210                   
+
+5410       1000   ////      1000  LEA  C   RSP  025-180   III/1                 
+
+5420       1000   ////      1000  SVI  C   RSP  025-123   III/1                 
+
+5430       1002   1015      1023  G16  5   XRA  1-8A      B2.4    1.9E-04   2794
+
+5440 +     1036   1043      1050  G16  5   XRA  1-8A      B2.8    2.2E-04       
+
+5450       1412   ////      1412  SVI  C   RSP  025-158   III/2                 
+5450       1412   ////      1452  SAG  C   RSP  025-180   VI/1                  
+
+5460       1425   ////      1434  SVI  C   RSP  025-180   III/2                 
+5460       1425   1425      1425  SVI  G   RBR  245       130                   
+
+5480       1627   1631      1635  G16  5   XRA  1-8A      B1.5    5.7E-05   2795
+5480       1629   ////      1631  SAG  C   RSP  025-180   III/2                 
+
+5490       1751   ////      1751  PAL  C   RSP  025-076   III/1                 
+
+5500       2105   2112      2119  G16  5   XRA  1-8A      B1.3    9.4E-05   2795

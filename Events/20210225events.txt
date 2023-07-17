@@ -1,0 +1,41 @@
+:Product: 20210225events.txt
+:Created: 2021 Feb 28 0357 UT
+:Date: 2021 02 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Feb 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6480 +     0000   0007      0015  G16  5   XRA  1-8A      B2.4    1.6E-04   2804
+
+6490 +     0042   0052      0056  G16  5   XRA  1-8A      B3.4    1.8E-04   2804
+
+6500       0147   ////      0147  LEA  U   RSP  099-130   III/1                 
+
+6510 +     0308   0322      0335  G16  5   XRA  1-8A      B2.7    3.6E-04   2804
+
+6520 +     0431   0443      0454  G16  5   XRA  1-8A      B1.8    2.4E-04   2804
+
+6530 +     0526   0532      0536  G16  5   XRA  1-8A      B2.3    9.9E-05   2804
+
+6540       0544   0552      0557  G17  5   XRA  1-8A      B1.3    9.6E-05       
+
+6550 +     0628   0637      0643  G16  5   XRA  1-8A      B4.6    2.3E-04   2804
+6550       0634   0637      0641  LEA  3   FLA  N18W35    SF      ERU       2804
+
+6560 +     0931   0939      0946  G16  5   XRA  1-8A      B1.3    1.1E-04   2804
+
+6570 +     0946   0951      0958  G16  5   XRA  1-8A      B1.6    1.1E-04   2804
+
+6580 +     1343   1347      1353  G16  5   XRA  1-8A      B1.1    6.2E-05   2804
+
+6590       1401   1406      1408  G16  5   XRA  1-8A      B1.0    4.7E-05   2804
+
+6600 +     1408   1416      1421  G16  5   XRA  1-8A      B3.7    1.7E-04   2804
+
+6610 +     1547   1555      1559  G16  5   XRA  1-8A      B1.0    6.7E-05   2804

@@ -1,0 +1,32 @@
+:Product: 20171222events.txt
+:Created: 2017 Dec 25 0357 UT
+:Date: 2017 12 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Dec 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2240       0017   0021      0023  G14  5   XRA  1-8A      B1.7    3.7E-05   2692
+
+2250 +     0111   0115      0117  G15  5   XRA  1-8A      B3.3    7.0E-05   2692
+
+2260 +     0140   0150      0205  G15  5   XRA  1-8A      B7.2    7.9E-04   2692
+
+2270 +     0228   0231      0233  G15  5   XRA  1-8A      B2.4    3.7E-05   2692
+
+2280 +     0243   0250      0306  G15  5   XRA  1-8A      B4.7    4.7E-04   2692
+
+2290 +     0331   0336      0344  G15  5   XRA  1-8A      B2.6    1.6E-04   2692
+
+2300       0403   0406      0408  G14  5   XRA  1-8A      B1.2    2.1E-05   2692
+
+2310 +     0628   0631      0636  G15  5   XRA  1-8A      B1.5    5.1E-05   2692
+
+2320 +     1136   1140      1144  G15  5   XRA  1-8A      B3.0    9.1E-05   2692
+
+2350      A1453   ////     A0715  SVI  3   DSF  S53E09    6                     

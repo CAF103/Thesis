@@ -1,0 +1,14 @@
+:Product: 20170621events.txt
+:Created: 2017 Jun 24 0357 UT
+:Date: 2017 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7270      A1722   ////     A0446  SVI  3   DSF  S33E05    13                    

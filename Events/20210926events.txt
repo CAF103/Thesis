@@ -1,0 +1,71 @@
+:Product: 20210926events.txt
+:Created: 2021 Sep 29 0357 UT
+:Date: 2021 09 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Sep 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7180 +     0000   ////      0826  LEA  C   RSP  025-170   CTM/1                 
+
+7150 +     0015   0023      0031  G16  5   XRA  1-8A      B1.6    1.5E-04   2871
+
+7160 +     0031   0039      0047  G16  5   XRA  1-8A      B6.3    4.2E-04   2871
+
+7190 +     0209   ////      0255  LEA  C   RSP  025-160   VI/2                  
+
+7170       0237   ////      0257  LEA  3   EPL  ////      0.16                  
+
+7200       0415   0422      0428  G17  5   XRA  1-8A      B2.1    1.4E-04   2871
+
+7210       0524   0535      0541  G17  5   XRA  1-8A      B2.8    2.2E-04   2877
+7210       0529   ////      0810  SVI  C   RSP  114-169   CTM/1                 
+
+7220       0556   ////      0556  SVI  C   RSP  025-056   III/1                 
+
+7230 +     0625   0631      0638  G16  5   XRA  1-8A      C1.0    5.9E-04   2873
+
+7240       0704   ////      0704  SVI  C   RSP  025-054   III/1                 
+
+7250       0913   0917      0921  G16  5   XRA  1-8A      B1.8    8.5E-05   2871
+
+7260 +     1058   1106      1110  G16  5   XRA  1-8A      B2.4    1.5E-04   2877
+
+7270 +     1120   1124      1128  G16  5   XRA  1-8A      C1.6    3.8E-04   2871
+7270       1123   1124      1129  SVI  3   FLA  S28W20    SF                2871
+
+7320 +     1135   ////      1339  SVI  C   RSP  025-180   VI/2                  
+
+7280       1136   1136      1136  SVI  G   RBR  245       130                   
+
+7290       1137   1137      1137  SAG  U   RBR  245       230                   
+
+7300 +     1139   1139      1140  SVI  G   RBR  245       700                   
+
+7310       1140   ////      1141  SAG  C   RSP  025-180   III/2                 
+
+7330 +     1235   ////      1542  SAG  C   RSP  120-180   CTM/1                 
+
+7340       1536   ////      1536  SAG  C   RSP  025-041   III/1                 
+
+7350 +     1538   1547      1610  G16  5   XRA  1-8A      B3.7    5.5E-04   2872
+
+7360 +     1711   ////      1719  SAG  C   RSP  025-180   III/1                 
+
+7370       1833   ////      2258  PAL  C   RSP  025-180   VI/2                  
+
+7380       2125   ////      2126  SAG  C   RSP  025-156   III/1                 
+
+7390       2223   ////      2258  LEA  C   RSP  025-180   VI/2                  
+7390 +     2244   2300      2317  G16  5   XRA  1-8A      B2.4    4.1E-04   2871
+7390       2247   ////      2252  LEA  C   RSP  025-180   III/2                 
+7390       2248   2249      2249  LEA  G   RBR  245       130                   
+7390       2248   2248      2248  LEA  G   RBR  410       31                    
+7390       2248   2248      2249  LEA  G   RBR  610       0.8                   
+
+7400 +     2346   ////      2346  LEA  C   RSP  025-046   III/2                 

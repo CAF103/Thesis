@@ -1,0 +1,14 @@
+:Product: 20180815events.txt
+:Created: 2018 Aug 18 0357 UT
+:Date: 2018 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6840      A0053   ////     A1340  HOL  2   DSF  N16W58    5                     

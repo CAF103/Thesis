@@ -1,0 +1,17 @@
+:Product: 20201102events.txt
+:Created: 2020 Nov 05 0357 UT
+:Date: 2020 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8320       0544   0552      0602  G16  5   XRA  1-8A      B4.5    4.4E-04       
+8320       0545   ////      0546  LEA  C   RSP  041-094   III/1                 
+
+8330       1314   1319      1323  G16  5   XRA  1-8A      B3.9    1.8E-04       

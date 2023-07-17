@@ -1,0 +1,52 @@
+:Product: 20210508events.txt
+:Created: 2021 May 11 0357 UT
+:Date: 2021 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 680 +     0000   ////      0000  LEA  C   RSP  076-180   III/1                 
+
+ 690       0127   ////      0127  LEA  C   RSP  025-180   III/2                 
+ 690       0127   ////      0127  LEA  C   RSP  025-180   III/2                 
+
+ 700 +     0233   ////      0233  LEA  C   RSP  025-154   III/2                 
+
+ 710 +     0702   0707      0716  G16  5   XRA  1-8A      B1.0    8.2E-05       
+
+ 720 +     0822   0826      0832  G16  5   XRA  1-8A      B1.5    7.2E-05       
+
+ 730       0947   ////      0947  SVI  C   RSP  025-084   III/1                 
+
+ 740 +     1039   1047      1051  G16  5   XRA  1-8A      B1.0    7.0E-05       
+
+ 750       1058   ////      1058  SVI  U   RSP  025-036   III/1                 
+
+ 760 +     1213   ////      1237  SVI  C   RSP  025-126   VI/1              2822
+ 760 +     1233   1300      1319  G16  5   XRA  1-8A      C1.5    2.4E-03   2822
+ 760       1256   1256      1259  HOL  3   FLA  N16E65    SF                2822
+
+ 770 +     1321   1325      1327  HOL  3   FLA  N16E65    SF                2822
+
+ 780 +     1417   1427      1438  G16  5   XRA  1-8A      B2.6    3.0E-04       
+
+ 790 +     1503   ////      1505  SVI  C   RSP  025-077   III/1                 
+
+ 800 +     1540   1546      1550  G16  5   XRA  1-8A      B1.2    6.9E-05   2822
+ 800 +     1542   1542      1547  HOL  3   FLA  N16E63    SF                2822
+
+ 810 +     1553   ////      1554  SVI  C   RSP  029-081   III/1                 
+
+ 820 +     1822   1845      1858  G16  5   XRA  1-8A      C8.6    9.8E-03   2822
+ 820       1830   1831      1910  HOL  3   FLA  N16E63    SF                2822
+
+ 830 +     2035   ////      2035  PAL  C   RSP  025-042   III/2                 
+
+ 840 +     2056   2107      2111  G16  5   XRA  1-8A      B3.0    2.3E-04   2822
+ 840 +     2100   ////      2106  SAG  C   RSP  025-142   III/1                 

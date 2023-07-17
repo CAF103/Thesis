@@ -1,0 +1,20 @@
+:Product: 20170516events.txt
+:Created: 2017 May 19 0357 UT
+:Date: 2017 05 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 May 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5100      A0125   ////     A1242  HOL  2   DSF  S07W59    6                     
+
+5080 +     0407   0416      0426  G15  5   XRA  1-8A      B2.2    1.8E-04   2657
+
+5090 +     1806   1809      1813  G15  5   XRA  1-8A      B1.2    3.1E-05   2657
+
+5110 +     2328   ////      0000  HOL  3   EPL  ////      0.17                  

@@ -1,0 +1,28 @@
+:Product: 20210514events.txt
+:Created: 2021 May 17 0357 UT
+:Date: 2021 05 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 May 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1380 +     0038   0104      0131  G16  5   XRA  1-8A      B4.9    1.0E-03   2823
+1380 +     0054   0116      0122  LEA  3   FLA  S22W04    SF                2823
+
+1390       0256   ////      0544  LEA  C   RSP  127-180   CTM/1                 
+
+1400       0401   ////      0545  SVI  C   RSP  129-180   CTM/1                 
+
+1410 +     0822   ////      0822  LEA  C   RSP  095-163   III/1                 
+
+1420       1651   1701      1709  G16  5   XRA  1-8A      B1.2    1.0E-04       
+
+1430       1829   1830      1830  SAG  G   RBR  245       180                   
+1430       1829   ////      1830  SAG  C   RSP  039-180   III/1                 
+
+1440       1841   ////      1841  SAG  C   RSP  113-180   III/1                 

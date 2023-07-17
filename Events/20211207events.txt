@@ -1,0 +1,20 @@
+:Product: 20211207events.txt
+:Created: 2021 Dec 10 0357 UT
+:Date: 2021 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6230 +     0921   ////      0921  SVI  C   RSP  025-084   III/1                 
+
+6260      A1416   ////     A0649  SVI  3   DSF  N41W17    10                    
+
+6240 +     1856   1905      1913  G16  5   XRA  1-8A      B1.8    9.9E-05       
+
+6250       2323   2324      2339  LEA  G   RBR  610       590                   

@@ -1,0 +1,14 @@
+:Product: 20190306events.txt
+:Created: 2019 Mar 09 0357 UT
+:Date: 2019 03 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Mar 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8540       0517   0526      0531  G15  5   XRA  1-8A      A4.9    3.1E-05       

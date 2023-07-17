@@ -1,0 +1,16 @@
+:Product: 20191213events.txt
+:Created: 2019 Dec 16 0357 UT
+:Date: 2019 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4770       0820   0821      0822  G16  5   XRA  1-8A      A8.4    7.4E-07       
+
+4780      A1023   ////     A2215  LEA  3   DSF  N15E63    6                     

@@ -1,0 +1,49 @@
+:Product: 20201202events.txt
+:Created: 2020 Dec 05 0357 UT
+:Date: 2020 12 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2730       0000   ////      1043  LEA  C   RSP  114-168   CTM/1                 
+
+2670       0039   0040      0041  PAL  G   RBR  245       50000                 
+
+2680       0044   0045      0046  PAL  G   RBR  245       50000                 
+
+2690       0049   0050      0051  PAL  G   RBR  245       50000                 
+
+2700       0256   0301      0307  G16  5   XRA  1-8A      B6.4    3.9E-04   2790
+
+2710       0411   ////      0411  LEA  C   RSP  029-059   III/2                 
+
+2720       0617   0625      0629  G16  5   XRA  1-8A      B6.6    3.9E-04   2790
+
+2740       1135   ////      1135  SVI  C   RSP  025-084   III/1                 
+
+2750       1449   1453      1457  G16  5   XRA  1-8A      B5.2    2.2E-04       
+
+2760       1525   1525      1525  SAG  G   RBR  245       290                   
+
+2770       1528   1528      1528  SAG  G   RBR  245       110                   
+
+2780       1541   1542      1546  HOL  3   FLA  S11W39    SF                2786
+
+2790       1558   1558      1558  SAG  G   RBR  245       190                   
+
+2800       1906   1915      1920  G16  5   XRA  1-8A      B5.8    4.3E-04       
+2800 +     1914   1914      1914  SAG  G   RBR  245       150                   
+
+2810       1959   1959      2000  PAL  G   RBR  245       50000                 
+
+2820       2004   2005      2005  PAL  G   RBR  245       50000                 
+
+2830       2019   ////      2020  PAL  C   RSP  025-046   III/1                 
+
+2840       2037   ////      2037  PAL  C   RSP  025-045   III/1                 

@@ -1,0 +1,53 @@
+:Product: 20190416events.txt
+:Created: 2019 Apr 19 0357 UT
+:Date: 2019 04 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Apr 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1620 +     0000   ////      0351  LEA  C   RSP  025-180   VI/2                  
+1620 +     0046   ////      0132  LEA  C   RSP  110-180   CTM/1                 
+
+1630       0211   0211      0211  LEA  G   RBR  245       120                   
+
+1640       0224   0224      0224  LEA  G   RBR  245       100                   
+
+1650       0323   0323      0323  LEA  G   RBR  245       130                   
+
+1740       0438   ////      0853  LEA  C   RSP  025-180   VI/1                  
+
+1660 +     0448   0449      0450  LEA  G   RBR  245       340                   
+
+1670 +     0455   0455      0455  LEA  G   RBR  245       100                   
+
+1690 +     0458   0458      0458  LEA  G   RBR  245       180                   
+
+1710 +     0501   0503      0503  LEA  G   RNS  245       340                   
+
+1750       0931   0931      0931  SVI  G   RBR  245       210                   
+
+1760       0956   0956      0956  SVI  G   RBR  245       220                   
+
+1770       1014   1014      1014  SVI  G   RBR  245       240                   
+
+1780       1023   1023      1024  SVI  G   RBR  245       110                   
+
+1790       1256   ////      1256  SAG  C   RSP  025-076   III/1                 
+
+1800       1500   ////      1502  SAG  C   RSP  025-180   III/2                 
+
+1810       1635   ////      1635  SAG  C   RSP  025-046   III/1                 
+
+1830       1831   ////      1832  PAL  C   RSP  025-117   III/2                 
+
+1820       1831   ////      1832  SAG  C   RSP  025-161   III/2                 
+
+1840       2119   ////      2132  PAL  C   RSP  025-180   VI/1                  
+
+1850       2353   ////      2354  LEA  C   RSP  025-161   III/1                 

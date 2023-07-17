@@ -1,0 +1,49 @@
+:Product: 20201207events.txt
+:Created: 2020 Dec 10 0357 UT
+:Date: 2020 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3590       0109   0113      0118  G16  5   XRA  1-8A      B3.5    1.9E-04       
+
+3600       0120   0124      0128  G16  5   XRA  1-8A      B3.8    1.7E-04       
+
+3610       0256   0303      0309  G16  5   XRA  1-8A      B3.6    2.3E-04       
+
+3620       0857   ////      0859  SVI  U   RSP  025-042   III/1                 
+
+3630       0951   0955      0959  G16  5   XRA  1-8A      B5.4    2.2E-04   2790
+3630       0953   0954      1002  SVI  3   FLA  S25W04    SF                2790
+
+3640       1429   1438      1457  G16  5   XRA  1-8A      B6.0    7.6E-04   2790
+3640       1436   1441      1459  HOL  3   FLA  S23W10    SF      ERU       2790
+
+3650       1503   1503      1503  SAG  G   RBR  610       100                   
+
+3700       1541   ////      1607  HOL  4   DSF  S34W07    9                 2790
+
+3660       1545   1545      1547  SAG  G   RBR  410       240               2790
+3660       1546   1632      1733  G16  5   XRA  1-8A      C7.4    3.2E-02   2790
+
+3670       1550   1643      1700  SAG  G   RBR  410       1500                  
+3670       1550   1643      1704  SAG  G   RBR  610       9200                  
+3670       1552   1556      1659  SAG  G   RBR  245       340                   
+
+3660       1555   1611      1906  HOL  4   FLA  S25W09    1F      UMB       2790
+
+3670       1623   1640      1643  SAG  G   RBR  1415      670                   
+
+3660       1641   ////      2002  SAG  C   RSP  052-180   CTM/1             2790
+
+3670       1642   1643      1651  SAG  G   RBR  2695      180                   
+
+3680       1711   1712      1713  SAG  G   RBR  610       100                   
+
+3690       1720   ////      2001  PAL  C   RSP  079-180   CTM/1                 

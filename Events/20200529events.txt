@@ -1,0 +1,49 @@
+:Product: 20200529events.txt
+:Created: 2020 Jun 01 0357 UT
+:Date: 2020 05 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 May 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5370       0121   0129      0135  G16  5   XRA  1-8A      B1.2    7.3E-05       
+
+5380       0241   0244      0256  G16  5   XRA  1-8A      B1.6    1.2E-04       
+
+5390       0339   0348      0040  G16  5   XRA  1-8A      B1.1    1.1E-04       
+
+5400       0435   0442      0448  G16  5   XRA  1-8A      B1.0    7.0E-05       
+
+5410       0649   0659      0075  G16  5   XRA  1-8A      B1.4    1.1E-04       
+
+5420       0713   0724      0728  G16  5   XRA  1-8A      M1.1    3.2E-03       
+5420 +     0723   ////      0727  LEA  C   RSP  057-179   III/2                 
+5420       0724   0724      0724  LEA  G   RBR  245       220                   
+
+5430       0829   0835      0841  G16  5   XRA  1-8A      B3.1    1.4E-04       
+
+5440       0938   0946      0952  G16  5   XRA  1-8A      B4.2    1.9E-04       
+
+5450       1041   1046      1050  G16  5   XRA  1-8A      C9.3    1.4E-03       
+5450 +     1045   ////      1051  SVI  C   RSP  025-180   III/2                 
+5450       1045   1045      1045  SAG  G   RBR  410       2100                  
+5450 +     1048   1048      1048  SVI  G   RBR  245       140                   
+
+5460       0111   0116      1111  G16  5   XRA  1-8A      B2.5    1.3E-04       
+
+5470       1118   1121      1125  G16  5   XRA  1-8A      B2.9    9.5E-05       
+5470 +     1119   ////      1120  SAG  C   RSP  033-062   III/1                 
+
+5480       1322   1345      1336  G16  5   XRA  1-8A      B2.6    4.6E-05       
+
+5490 +     1418   1422      1427  G16  5   XRA  1-8A      C1.0    3.9E-04       
+
+5500       1540   1547      1553  G16  5   XRA  1-8A      B2.4    1.1E-04       
+
+5510       1637   1648      1655  G16  5   XRA  1-8A      B8.7    3.9E-04       
+5510       1647   ////      1654  SAG  C   RSP  025-047   III/1                 

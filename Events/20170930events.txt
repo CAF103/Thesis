@@ -1,0 +1,38 @@
+:Product: 20170930events.txt
+:Created: 2017 Oct 03 0357 UT
+:Date: 2017 09 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 340       0050   ////      0050  LEA  C   RSP  025-086   III/1                 
+
+ 350 +     0556   ////      0557  LEA  C   RSP  036-098   III/1                 
+
+ 360 +     0647   ////      0647  SVI  C   RSP  025-056   III/1                 
+
+ 370       0737   ////      0738  LEA  C   RSP  031-105   III/1                 
+
+ 380       0755   ////      0756  SVI  C   RSP  025-144   V/2                   
+ 380       0755   ////      0756  LEA  C   RSP  025-182   III/1                 
+
+ 390       0917   ////      0918  SVI  C   RSP  025-034   III/1                 
+
+ 400       1011   ////      1012  SVI  C   RSP  025-037   III/1                 
+
+ 410       1653   ////      1659  SAG  C   RSP  025-074   III/1                 
+
+ 420 +     1704   1711      1715  G15  5   XRA  1-8A      B3.5    1.5E-04   2682
+ 420       1707   1713      1722  HOL  3   FLA  S12E00    SF      DSD       2682
+
+ 430       2339   2339      2339  PAL  G   RBR  245       230                   
+ 430       2339   ////      2339  PAL  C   RSP  119-180   III/1                 
+
+ 440 +     2339   ////      2339  LEA  C   RSP  048-180   III/1                 
+ 440       2339   2339      2339  LEA  G   RBR  245       380                   

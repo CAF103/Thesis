@@ -1,0 +1,16 @@
+:Product: 20201015events.txt
+:Created: 2020 Oct 18 0357 UT
+:Date: 2020 10 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Oct 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6920       0359   0407      0412  G16  5   XRA  1-8A      B1.1    7.0E-05   2776
+
+6930       0515   0522      0529  G16  5   XRA  1-8A      B1.4    7.8E-05   2776

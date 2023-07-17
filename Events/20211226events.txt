@@ -1,0 +1,51 @@
+:Product: 20211226events.txt
+:Created: 2021 Dec 29 0357 UT
+:Date: 2021 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8820 +     0012   0021      0030  G16  5   XRA  1-8A      C1.8    1.6E-03   2918
+
+8830 +     0033   0036      0041  G16  5   XRA  1-8A      C2.6    1.1E-03   2908
+
+8840       0101   0101      0101  LEA  G   RBR  245       100                   
+
+8850       0103   0103      0103  PAL  G   RBR  245       190                   
+
+8860 +     0126   0135      0150  G16  5   XRA  1-8A      C1.8    2.4E-03   2908
+
+8870 +     0432   0442      0449  G16  5   XRA  1-8A      C2.0    1.4E-03   2918
+
+8880       0802   0802      0802  SVI  3   FLA  S15E30    SF      ERU       2916
+
+8900 +     1403   1408      1414  G16  5   XRA  1-8A      B9.6    5.9E-04   2916
+
+8910 +     1413   1415      1415  SVI  G   RBR  245       150                   
+
+8920 +     1728   1735      1742  G16  5   XRA  1-8A      B9.6    7.4E-04   2916
+
+8930 +     1826   1832      1840  G16  5   XRA  1-8A      C1.0    8.3E-04       
+
+8940 +     1846   1859      1910  G16  5   XRA  1-8A      C1.4    1.7E-03   2920
+
+8950 +     2000   2012      2020  G16  5   XRA  1-8A      C3.2    2.4E-03       
+8950 +     2006   2006      2006  PAL  G   RBR  245       350                   
+
+8980       2024   2028      2040  PAL  G   RNS  245       310                   
+
+8960 +     2028   2028      2028  PAL  G   RBR  245       310                   
+
+8970 +     2136   2144      2152  G16  5   XRA  1-8A      B9.7    8.3E-04   2917
+
+8990       2322   2322      2322  LEA  G   RBR  245       200                   
+
+9000       2324   2324      2324  PAL  G   RBR  245       130                   
+
+9010 +     2357   0002      0009  G16  5   XRA  1-8A      C1.1    7.1E-04       

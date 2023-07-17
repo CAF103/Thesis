@@ -1,0 +1,53 @@
+:Product: 20211215events.txt
+:Created: 2021 Dec 18 0357 UT
+:Date: 2021 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6670       0121   0122      0123  LEA  3   FLA  S22E73    SF                2907
+
+6680 +     0136   0146      0155  G16  5   XRA  1-8A      C2.1    1.8E-03   2907
+
+6690 +     0257   0304      0309  G16  5   XRA  1-8A      C2.8    1.5E-03   2907
+
+6700 +     0338   0346      0351  G16  5   XRA  1-8A      C1.9    1.4E-03   2907
+
+6710 +     0407   0421      0432  G16  5   XRA  1-8A      C4.5    5.0E-03   2907
+6710       0413   0425      0432  LEA  3   FLA  S21E45    SF      DSD       2907
+
+6720 +     0448   0454      0458  G16  5   XRA  1-8A      C2.8    1.5E-03   2907
+
+6730       0548   0558      0608  G16  5   XRA  1-8A      C1.7    1.2E-03   2907
+6730       0608   0612      0616  G16  5   XRA  1-8A      C1.6    8.8E-04   2907
+
+6740       0838   0852      0905  G16  5   XRA  1-8A      C1.6    1.3E-03   2907
+
+6760       0856   ////      0900  LEA  3   DSF  S27E47    5                 2907
+
+6740       0905   0922      0934  G16  5   XRA  1-8A      C1.5    2.5E-03   2907
+
+6750       1004   1010      1013  G16  5   XRA  1-8A      C1.7    8.4E-04   2907
+6750       1009   1009      1010  LEA  3   FLA  S21E44    SF                2907
+6750       1013   1022      1031  G16  5   XRA  1-8A      C2.2    1.5E-03   2907
+6750       1031   1044      1048  G16  5   XRA  1-8A      C8.1    4.0E-03   2907
+
+6770       1050   1051      1111  SVI  3   FLA  S21E46    SF      ERU       2907
+6770       1050   ////      1051  SVI  U   RSP  051-180   III/1             2907
+
+6780 +     1208   1217      1226  G16  5   XRA  1-8A      C2.6    2.4E-03   2907
+6780       1211  U1216      1233  SVI  3   FLA  S20E45    SF      ERU       2907
+
+6790 +     1409   1413      1421  G16  5   XRA  1-8A      C1.5    9.3E-04   2907
+6790 +     1412   ////      1413  SAG  C   RSP  025-166   III/1                 
+
+6800 +     1427   1434      1438  G16  5   XRA  1-8A      C4.4    1.5E-03   2907
+6800 +     1433   ////      1433  SAG  C   RSP  025-180   III/2                 
+
+6810 +     1716   1723      1732  G16  5   XRA  1-8A      B7.4    6.7E-04   2907

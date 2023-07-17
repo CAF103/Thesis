@@ -1,0 +1,21 @@
+:Product: 20190513events.txt
+:Created: 2019 May 16 0357 UT
+:Date: 2019 05 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 May 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4120       1502   1552      1710  G15  5   XRA  1-8A      B3.5    2.1E-03   2741
+4120 +     1506   ////      1630  SVI  C   RSP  025-152   CTM/1             2741
+4120       1522   1546      1641  SVI  3   FLA  N02W06    SF      DSD       2741
+
+4100       1525   1525      1525  SAG  G   RBR  245       100                   
+
+4110       1532   ////      1532  SVI  U   RSP  025-041   III/1                 
+4110       1532   ////      1613  SAG  C   RSP  025-063   VI/1                  

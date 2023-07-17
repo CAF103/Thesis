@@ -1,0 +1,16 @@
+:Product: 20200404events.txt
+:Created: 2020 Apr 07 0357 UT
+:Date: 2020 04 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Apr 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5120       0043   0052      0056  G16  5   XRA  1-8A      B4.2    1.3E-04   2759
+
+5130       0130   0138      0142  G16  5   XRA  1-8A      B1.4    6.3E-05   2759

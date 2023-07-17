@@ -1,0 +1,26 @@
+:Product: 20201014events.txt
+:Created: 2020 Oct 17 0357 UT
+:Date: 2020 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6880       0915   0922      0935  G16  5   XRA  1-8A      B1.0    5.8E-05   2776
+
+6840       0935   0939      0944  G16  5   XRA  1-8A      B1.4    6.9E-05   2776
+
+6850       1127   1131      1135  G16  5   XRA  1-8A      B1.1    4.6E-05   2776
+
+6860       1137   1146      1158  G16  5   XRA  1-8A      B1.5    1.6E-04   2776
+
+6890       1218   1228      1240  G16  5   XRA  1-8A      B1.2    1.3E-04   2776
+
+6900       1346   1354      1405  G16  5   XRA  1-8A      B1.7    1.5E-04   2776
+
+6910       1500   1504      1511  G16  5   XRA  1-8A      B1.6    9.2E-05   2776

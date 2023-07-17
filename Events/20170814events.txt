@@ -1,0 +1,61 @@
+:Product: 20170814events.txt
+:Created: 2017 Aug 17 0357 UT
+:Date: 2017 08 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Aug 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1650       0205   0213      0216  G13  5   XRA  1-8A      C1.8    5.3E-04       
+
+1660       0339   0348      0355  G13  5   XRA  1-8A      B6.4    3.8E-04       
+
+1670       0525   0551      0611  G13  5   XRA  1-8A      B7.5    1.1E-03       
+1670       0557   ////      0557  SVI  U   RSP  030-075   III/1                 
+
+1680       0821   0826      0831  G13  5   XRA  1-8A      B3.2    1.3E-04       
+
+1690       0923   0927      0937  G13  5   XRA  1-8A      B1.3    9.3E-05       
+
+1700       1039   1046      1049  G13  5   XRA  1-8A      C2.7    7.2E-04       
+
+1710       1331   1337      1342  G13  5   XRA  1-8A      B2.4    1.1E-04       
+
+1720       1404   1411      1415  G13  5   XRA  1-8A      B3.9    1.7E-04       
+
+1730       1416   1500      1531  SVI  3   FLA  N11E82    SF                    
+
+1760       1430   1430      1643  HOL  3   FLA  N10E84    SF                2671
+
+1730       1442   1445      1447  G13  5   XRA  1-8A      B2.8    4.3E-05       
+
+1740       1531   1548      1612  SVI  3   FLA  N11E82    SF                2671
+
+1750       1620   1624      1627  G13  5   XRA  1-8A      C1.1    2.3E-04   2671
+1750       1622   1627      1632  SVI  3   FLA  N12E78    SF                2671
+
+1780       1657   1903      1948  HOL  3   FLA  N10E84    SF      ERU       2671
+
+1770       1818   1822      1827  G13  5   XRA  1-8A      B3.7    1.3E-04       
+
+1780       1900   1905      1909  G13  5   XRA  1-8A      B4.1    1.5E-04   2671
+
+1790       1924   1927      1930  G13  5   XRA  1-8A      B2.8    6.2E-05       
+
+1800       1950   1959      2008  HOL  3   FLA  N10E84    SF                2671
+
+1810       2027   2101      2118  HOL  3   FLA  N10E82    1F      DSD       2671
+1810       2056   2104      2109  G13  5   XRA  1-8A      C1.2    6.3E-04   2671
+
+1820       2119   2125      2141  HOL  3   FLA  N09E81    SF      DSD       2671
+1820       2123   2127      2130  G13  5   XRA  1-8A      B7.4    1.9E-04   2671
+
+1830       2146   2210      2217  G13  5   XRA  1-8A      C2.3    2.4E-03   2671
+1830       2147   2208      2228  HOL  3   FLA  N09E81    SF      DSD       2671
+
+1840       2250   2256      2256  HOL  3   FLA  N09E81    SF      DSD       2671

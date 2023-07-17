@@ -1,0 +1,20 @@
+:Product: 20200528events.txt
+:Created: 2020 May 31 0357 UT
+:Date: 2020 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5330       0931   0940      0103  G16  5   XRA  1-8A      B1.1    1.7E-04       
+
+5340       1013   1036      1027  G16  5   XRA  1-8A      B2.9    1.4E-04       
+
+5350       1029   ////      1031  SVI  C   RSP  025-080   III/1                 
+
+5360       2327   2334      2340  G16  5   XRA  1-8A      B1.4    6.0E-05       

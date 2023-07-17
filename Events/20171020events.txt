@@ -1,0 +1,27 @@
+:Product: 20171020events.txt
+:Created: 2017 Oct 23 0357 UT
+:Date: 2017 10 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Oct 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1450 +     0006   0049      0101  G15  5   XRA  1-8A      B1.4    4.3E-04   2685
+
+1460 +     1352   1403      1409  G15  5   XRA  1-8A      B3.4    2.7E-04   2685
+
+1470 +     2245   2253      2258  G15  5   XRA  1-8A      B3.9    2.0E-04   2685
+
+1490 +     2310   2328      2337  G15  5   XRA  1-8A      M1.1    8.8E-03   2685
+
+1480       2318   ////      2318  LEA  C   RSP  025-074   III/1                 
+
+1490       2327   2327      2327  LEA  G   RBR  245       110                   
+1490 +     2335   ////      2339  PAL  C   RSP  025-180   II/1    344           
+
+1500 +     2356   ////      2357  PAL  C   RSP  025-180   III/2                 

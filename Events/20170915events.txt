@@ -1,0 +1,18 @@
+:Product: 20170915events.txt
+:Created: 2017 Sep 18 0357 UT
+:Date: 2017 09 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Sep 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9600       0453   0453      0454  LEA  G   RBR  245       120                   
+
+9610 +     0651   ////      0651  LEA  C   RSP  025-100   III/1                 
+
+9620       0728   0728      0729  LEA  G   RBR  245       130                   

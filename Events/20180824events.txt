@@ -1,0 +1,17 @@
+:Product: 20180824events.txt
+:Created: 2018 Aug 27 0357 UT
+:Date: 2018 08 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Aug 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6890 +     1247   1250      1257  G15  5   XRA  1-8A      B1.0    4.0E-05   2720
+
+6900 +     2154   2158      2201  G15  5   XRA  1-8A      B1.6    3.9E-05   2719
+6900       2157   2157      2201  HOL  3   FLA  S07W21    SF                2719

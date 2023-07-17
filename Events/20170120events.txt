@@ -1,0 +1,43 @@
+:Product: 20170120events.txt
+:Created: 2017 Jan 23 0357 UT
+:Date: 2017 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2017 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5130       0633   0636      0637  G15  5   XRA  1-8A      B1.0    3.0E-05   2628
+
+5010       0637   0638      0642  LEA  3   FLA  N12E61    SF                2628
+5010       0642   0643      0644  G15  5   XRA  1-8A      B1.4    2.2E-05   2628
+
+5020       0644   0702      0709  LEA  3   FLA  N12E61    SF                2628
+5020       0647   0715      0719  G15  5   XRA  1-8A      B1.7    2.6E-04   2628
+
+5030       0735   0736      0737  LEA  3   FLA  N12E61    SF                2628
+
+5040       0738   0739      0743  LEA  3   FLA  N12E61    SF                2628
+
+5050       0746   0756      0801  LEA  3   FLA  N12E61    SF                2628
+5050       0751   0836      0844  G15  5   XRA  1-8A      B2.7    5.4E-04   2628
+
+5060       0808   0809      0813  LEA  3   FLA  N12E61    SF                2628
+
+5070       0815   0830      0846  LEA  3   FLA  N12E61    SF                2628
+
+5080       0851   0853      0857  LEA  3   FLA  N12E61    SF                2628
+
+5090 +     0933   0939      0942  G15  5   XRA  1-8A      B4.3    1.4E-04   2628
+
+5100 +     1037   1046      1052  G15  5   XRA  1-8A      B5.3    3.3E-04   2628
+
+5110 +     1509   1516      1520  G15  5   XRA  1-8A      B3.1    1.4E-04   2628
+
+5120 +     1709   1712      1716  G15  5   XRA  1-8A      B4.1    1.0E-04   2627
+
+5140 +     2057   2100      2104  G15  5   XRA  1-8A      B2.6    7.0E-05   2627

@@ -1,0 +1,28 @@
+:Product: 20180331events.txt
+:Created: 2018 Apr 03 0357 UT
+:Date: 2018 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2018 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4500 +     0144   0148      0155  G15  5   XRA  1-8A      B1.5    6.7E-05   2703
+
+4510 +     0655   ////      0655  LEA  C   RSP  025-089   III/2                 
+
+4520       0859   0911      0923  G14  5   XRA  1-8A      B7.1    6.7E-04   2703
+4520       0903   0906      0929  LEA  2   FLA  S11E55    SF      DSD       2703
+
+4530       0954   1008      1017  SVI  G   RBR  410       1400                  
+
+4540 +     1616   1620      1625  G15  5   XRA  1-8A      B1.1    4.2E-05   2703
+4540 +     1616   ////      1617  SAG  C   RSP  025-176   III/1                 
+
+4550 +     2311   ////      2311  LEA  C   RSP  025-149   III/2                 
+
+4560       2347   ////      2347  LEA  C   RSP  025-180   III/1                 

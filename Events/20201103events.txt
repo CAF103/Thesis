@@ -1,0 +1,30 @@
+:Product: 20201103events.txt
+:Created: 2020 Nov 06 0357 UT
+:Date: 2020 11 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2020 Nov 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8340       0018   ////      0018  PAL  U   RSP  025-086   III/1                 
+
+8350       0648   0703      0709  G16  5   XRA  1-8A      C1.1    7.3E-04       
+
+8360       1329   1334      1338  G16  5   XRA  1-8A      B2.5    1.3E-04       
+
+8370       1408   ////      1804  SAG  C   RSP  115-180   CTM/1                 
+
+8380       1510   1512      1516  G16  5   XRA  1-8A      B3.0    9.3E-05   2781
+8380       1512   1512      1517  HOL  3   FLA  S24E79    SF                2781
+
+8390       1621   1621      1621  SAG  G   RBR  1415      120                   
+
+8400       2040   2052      2054  G16  5   XRA  1-8A      B1.9    1.7E-04   2780
+8400       2054   2108      2116  G16  5   XRA  1-8A      B4.3    4.3E-04   2780
+8400       2116   2120      2126  G16  5   XRA  1-8A      B4.7    2.6E-04   2780
+8400       2126   2133      2147  HOL  3   FLA  N19E50    SF                2780
